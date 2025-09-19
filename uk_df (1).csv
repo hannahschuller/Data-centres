@@ -1,0 +1,485 @@
+,company_name,stage,type,latitude,longitude
+0,Galaxy Data Centers,Operational,Colocation,51.247775,-0.159748
+1,Galaxy Data Centers,Operational,Colocation,51.247665,-0.158616
+2,NorthTree Investment Management,Planned,Colocation,51.761732,-0.439218
+3,Prescient Data Centres,Operational,Colocation,55.153207,-6.685766
+4,Digital Realty,Operational,Colocation,51.5165,-0.617904
+5,Digital Realty,Operational,Colocation,51.517694,-0.620224
+6,Greystoke,Planned,Colocation,51.71281,-0.411393
+7,Greystoke,Planned,Colocation,51.712682,-0.40805
+8,Greystoke,Operational,Campus,51.712705,-0.409797
+9,Thames Network Limited,Operational,Colocation,51.4919,0.03558
+10,Ada Infrastructure,Operational,Campus,51.502904,0.019017
+11,Aegis Data Limited,Operational,Colocation,51.186472,-0.601666
+12,ServerChoice,Operational,Colocation,51.889083,-0.204858
+13,Altaire Limited,Operational,Colocation,50.845864,-1.08532
+14,Amatis Networks Ltd,Operational,Colocation,51.410264,-1.304723
+15,Amazon AWS,Operational,Campus,51.919518,-0.496247
+16,Amazon AWS,Planned,Hyperscaler,51.919645,-0.496774
+17,Amazon AWS,Planned,Hyperscaler,51.918705,-0.495186
+18,Amazon AWS,Operational,Hyperscaler,51.413835,-0.78217
+19,Amazon AWS,Operational,Hyperscaler,51.617276,-1.261593
+20,Amazon AWS,Planned,Hyperscaler,51.513786,-0.510191
+21,Amazon AWS,Operational,Hyperscaler,51.523933,-1.764446
+22,Pulsant Ltd,Operational,Colocation,51.427599,-0.978904
+23,Six Degrees Group,Operational,Colocation,51.493301,0.031098
+24,ITPS,Operational,Colocation,54.875892,-1.590572
+25,Rackspace Hosting,Operational,Colocation,53.799639,-1.549122
+26,Apatura,Planned,Campus,55.683863,-2.365834
+27,Apatura,Planned,Campus,55.458039,-4.413745
+28,Apatura,Planned,Campus,56.052963,-3.854824
+29,Apatura,Planned,Campus,55.790788,-3.974601
+30,aql,Operational,Colocation,53.799639,-1.549122
+31,Ark Data Centres,Operational,Campus,51.281065,-0.796276
+32,Ark Data Centres,Operational,Campus,51.525321,-0.276744
+33,Ark Data Centres,Under Construction,Colocation,51.525834,-0.276948
+34,Ark Data Centres,Planned,Colocation,51.524872,-0.276637
+35,Ark Data Centres,Operational,Colocation,51.282424,-0.794523
+36,Ark Data Centres,Operational,Colocation,51.282128,-0.795768
+37,Ark Data Centres,Operational,Colocation,51.281771,-0.797291
+38,Ark Data Centres,Operational,Colocation,51.280729,-0.798117
+39,Ark Data Centres,Operational,Colocation,51.280739,-0.795649
+40,Ark Data Centres,Operational,Colocation,51.281054,-0.794825
+41,Ark Data Centres,Operational,Campus,51.380498,-0.594739
+42,Ark Data Centres,Under Construction,Colocation,51.380185,-0.594443
+43,Ark Data Centres,Under Construction,Colocation,51.380915,-0.594711
+44,Ark Data Centres,Operational,Colocation,51.620151,-0.040514
+45,Ark Data Centres,Operational,Colocation,51.418352,-2.220572
+46,Ark Data Centres,Operational,Colocation,51.418755,-2.218437
+47,Ark Data Centres,Operational,Colocation,51.417574,-2.219574
+48,Ark Data Centres,Operational,Colocation,51.417859,-2.218185
+49,Ark Data Centres,Planned,Colocation,51.419257,-2.215553
+50,Ark Data Centres,Planned,Colocation,51.418559,-2.214909
+51,Ark Data Centres,Operational,Campus,51.502025,-0.410355
+52,Ark Data Centres,Under Construction,Colocation,51.502047,-0.411493
+53,Ark Data Centres,Planned,Colocation,51.502046,-0.410345
+54,Ark Data Centres,Planned,Colocation,51.502058,-0.409347
+55,Ark Data Centres,Planned,Colocation,51.501082,-0.410012
+56,Ark Data Centres,Planned,Campus,51.657632,-0.348619
+57,Ark Data Centres,Operational,Campus,51.418384,-2.219169
+58,Asanti Datacentres Ltd.,Operational,Colocation,55.889077,-3.557973
+59,Asanti Datacentres Ltd.,Operational,Colocation,53.463348,-2.278219
+60,Ask4 Data Centres,Operational,Colocation,53.398164,-1.429319
+61,Aspire Technology Solutions Ltd,Operational,Colocation,54.951766,-1.552164
+62,GreenScale,Planned,Colocation,,
+63,Atlas Business Group of Companies Ltd,Operational,Colocation,53.027046,-2.530457
+64,AtlasEdge,Operational,Colocation,53.779693,-1.582983
+65,AtlasEdge,Operational,Colocation,53.476918,-2.308577
+66,Atos Group,Operational,Colocation,51.213086,-1.479222
+67,Atos Group,Operational,Colocation,52.467826,-1.723189
+68,Atos Group,Operational,Colocation,55.888846,-3.558576
+69,Atos Group,Operational,Colocation,52.382085,-1.982549
+70,Avensys Networks Ltd,Operational,Colocation,53.390187,-1.446485
+71,Liverpool City Region Data Centres,Operational,Colocation,53.411744,-2.998568
+72,Liverpool City Region Data Centres,Operational,Colocation,53.39591,-2.98305
+73,The BE Company,Operational,Colocation,,
+74,The BE Company,Operational,Colocation,,
+75,Service Express,Operational,Colocation,52.126559,-0.42223
+76,Liverpool City Region Data Centres,Operational,Colocation,53.46215,-3.001209
+77,Brighton Digital Exchange (BDX),Operational,Colocation,50.832183,-0.138535
+78,Brightsolid,Operational,Colocation,57.152423,-2.160252
+79,Brightsolid,Operational,Colocation,56.463956,-3.054818
+80,Green Colo Ltd,Operational,Colocation,50.86777,-1.245601
+81,BT Services (British Telecom),Operational,Colocation,51.511833,-0.100844
+82,BT Services (British Telecom),Operational,Colocation,54.594673,-5.86494
+83,BT Services (British Telecom),Operational,Colocation,54.59611,-5.923436
+84,BT Services (British Telecom),Operational,Building,52.482573,-1.905435
+85,Bytemark,Operational,Colocation,53.980125,-1.129934
+86,Telstra International,Operational,Colocation,52.235527,0.153015
+87,Carbon-Z,Operational,Colocation,51.599913,-1.776964
+88,C.C.S. (Leeds) Ltd,Operational,Colocation,53.827767,-1.455374
+89,Centersquare,Operational,Colocation,51.494641,-0.018604
+90,Centrilogic,Operational,Colocation,51.41585,-0.75811
+91,nLighten,Operational,Colocation,51.491853,-3.580833
+92,CGI,Operational,Colocation,51.496493,-3.532106
+93,China Mobile International,Operational,Colocation,51.519232,-0.627648
+94,ChunkyChips.net,Operational,Colocation,51.58437,0.466992
+95,Cloud Innovation Limited,Operational,Colocation,50.743261,-1.952211
+96,Redcentric,Operational,Colocation,51.523221,-0.083108
+97,Ogden Properties Ltd,Operational,Building,51.494637,-0.018271
+98,Clearstream Group,Operational,Colocation,51.505431,-3.228608
+99,Digital Realty,Operational,Colocation,51.496903,-0.018944
+100,CloudHQ,Planned,Colocation,51.627675,-1.269961
+101,CloudHQ,Planned,Colocation,51.628055,-1.271824
+102,CloudHQ,Operational,Campus,51.627881,-1.270893
+103,Aptum,Operational,Colocation,50.845175,-0.987632
+104,"Cogent Communications, Inc.",Operational,Colocation,51.499919,-0.020982
+105,SDC Hosting and Support,Operational,Colocation,51.923767,0.921581
+106,Ecom International Network,Operational,Colocation,52.079757,-0.703324
+107,AtlasEdge,Operational,Colocation,51.508457,-0.057929
+108,Colt Technology Services,Operational,Colocation,51.531818,-0.257272
+109,Colt Technology Services,Under Construction,Colocation,51.50964,-0.393973
+110,Colt Technology Services,Operational,Colocation,51.799915,-0.18359
+111,Computacenter,Operational,Colocation,51.774199,-0.245837
+112,Computacenter,Operational,Colocation,53.471274,-2.294623
+113,Sargasso Networks Inc.,Operational,Colocation,51.243648,-0.215376
+114,UK Dedicated Servers,Operational,Colocation,52.396707,-1.578281
+115,Coreix Limited,Operational,Colocation,51.651895,-0.055386
+116,Corscale,Planned,Campus,51.511906,-0.501389
+117,The BE Company,Operational,Colocation,50.724044,-1.906547
+118,Digital Realty,Operational,Colocation,51.127468,-0.176451
+119,Ecom International Network,Operational,Colocation,51.887996,-0.818408
+120,CapitaLand Data Centre,Operational,Colocation,51.619781,-0.779081
+121,CapitaLand Data Centre,Operational,Colocation,51.383274,-0.13759
+122,Custodian Data Centres,Operational,Colocation,51.453386,0.258028
+123,Custodian Data Centres,Operational,Colocation,51.279626,0.548594
+124,CWCS Managed Hosting,Operational,Colocation,52.928153,-1.212336
+125,CyrusOne Data Centers,Operational,Colocation,51.503736,-0.447762
+126,CyrusOne Data Centers,Operational,Colocation,51.526047,-0.626995
+127,CyrusOne Data Centers,Operational,Colocation,51.516441,-0.627751
+128,CyrusOne Data Centers,Operational,Colocation,51.516239,-0.626676
+129,CyrusOne Data Centers,Planned,Colocation,51.550304,-0.517525
+130,Centersquare,Operational,Colocation,51.494798,-0.019133
+131,Centersquare,Operational,Colocation,51.439184,-0.882846
+132,Asanti Datacentres Ltd.,Operational,Colocation,53.741337,-1.6502
+133,Wavenet Limited,Operational,Colocation,51.548664,-2.559542
+134,Wavenet Limited,Operational,Colocation,51.651848,-0.055387
+135,Asanti Datacentres Ltd.,Operational,Colocation,51.293019,-0.78743
+136,Asanti Datacentres Ltd.,Operational,Colocation,55.780854,-4.099867
+137,Asanti Datacentres Ltd.,Operational,Colocation,51.425635,-0.971638
+138,Dark Nebulae LTD,Operational,Colocation,50.72187,-1.874808
+139,DataBank,Operational,Colocation,51.446656,-0.454248
+140,Datacenta Hosting,Operational,Colocation,50.680664,-2.256092
+141,Datacentreplus,Operational,Colocation,53.479664,-2.29689
+142,Datanet.co.uk Ltd,Operational,Colocation,51.298831,-0.830239
+143,Datatech UK Ltd,Operational,Colocation,52.336209,-1.942166
+144,Datatech UK Ltd,Operational,Colocation,52.310774,-1.936793
+145,DataVita Ltd,Operational,Colocation,55.861579,-4.265281
+146,DataVita Ltd,Operational,Colocation,57.34063,-2.132723
+147,Datum Datacentres Ltd,Planned,Colocation,51.280416,-0.796515
+148,Datum Datacentres Ltd,Operational,Colocation,53.378602,-2.258565
+149,DC01 UK Ltd,Planned,Colocation,51.690654,-0.216065
+150,DC01 UK Ltd,Planned,Colocation,51.689233,-0.217214
+151,DC01 UK Ltd,Planned,Colocation,51.686621,-0.21715
+152,DC01 UK Ltd,Operational,Campus,51.688375,-0.216456
+153,DC Intelligence Ltd,Operational,Colocation,52.288636,0.168224
+154,QuickHostUK,Operational,Colocation,51.601147,-0.711799
+155,AIMES,Operational,Colocation,53.407366,-2.932834
+156,aql,Operational,Colocation,53.793269,-1.541033
+157,Gridjet Datacentre Ltd,Operational,Colocation,53.783335,-1.573285
+158,aql,Operational,Colocation,53.800755,-1.549077
+159,Deep Green,Planned,Colocation,53.795116,-1.765431
+160,Deep Green,Operational,Colocation,50.62142,-3.416385
+161,Deep Green,Operational,Colocation,51.600443,-1.776636
+162,Deep Green,Planned,Colocation,53.450203,-2.371153
+163,Deep Green,Planned,Colocation,53.985423,-1.052605
+164,Green Colo Ltd,Operational,Colocation,50.848162,-1.166359
+165,Digital Realty,Operational,Colocation,51.496903,-0.018944
+166,Digital Realty,Operational,Colocation,51.500621,-0.011758
+167,Digital Realty,Operational,Colocation,51.499654,-0.010732
+168,Digital Space,Operational,Colocation,52.763873,-2.361007
+169,Digital Space,Operational,Colocation,52.718348,-2.457243
+170,MyHostingSpace - DSM Group,Operational,Colocation,52.554309,-0.390878
+171,DXC Technology,Operational,Colocation,54.633343,-1.309932
+172,EBC Group,Operational,Colocation,52.482717,-1.905649
+173,Echelon Data Centres,Operational,Colocation,51.495428,-0.018145
+174,Echelon Data Centres,Under Construction,Colocation,51.715644,-0.621163
+175,OSHS Ltd,Operational,Colocation,51.511141,-0.474407
+176,EdgeCore,Planned,Colocation,51.414646,-0.778925
+177,Shelborn Asset Management,Planned,Campus,55.93203,-3.308962
+178,Shelborn Asset Management,Planned,Colocation,55.932042,-3.307798
+179,Shelborn Asset Management,Planned,Colocation,55.931466,-3.309238
+180,Elasticity Limited,Operational,Colocation,51.51274,-0.586847
+181,Unknown Company,Planned,Campus,53.600482,-0.417698
+182,Epsilon,Operational,Colocation,51.525009,-0.084259
+183,Equinix,Operational,Colocation,51.52259,-0.6244
+184,Equinix,Operational,Colocation,51.52322,-0.63756
+185,Equinix,Operational,Colocation,51.521819,-0.62395
+186,Equinix,Operational,Colocation,51.522463,-0.62905
+187,Equinix,Operational,Colocation,51.52547,-0.63355
+188,Equinix,Operational,Colocation,53.46797,-2.29334
+189,Equinix,Operational,Colocation,53.461673,-2.238237
+190,Equinix,Operational,Colocation,53.506472,-2.304197
+191,Equinix,Operational,Colocation,51.528788,-0.27746
+192,Equinix,Operational,Colocation,51.523311,-0.635757
+193,"NTT DATA, Inc.",Operational,Colocation,51.547173,0.173965
+194,"Intercontinental Exchange, Inc. (ICE)",Operational,Colocation,51.586666,0.484857
+195,TruStack,Operational,Colocation,54.831412,-1.482103
+196,EXA Infrastructure,Operational,Colocation,51.41559,-0.771083
+197,EXA Infrastructure,Operational,Colocation,51.504002,-0.017775
+198,EXA Infrastructure,Operational,Colocation,51.510985,-0.003494
+199,Exaflops,Operational,Colocation,53.74229,-1.88546
+200,CBRE,Operational,Building,51.49902,-0.01455
+201,Pulsant Ltd,Operational,Colocation,50.868384,-1.247128
+202,Fast2host - Fast4networks Ltd,Operational,Colocation,52.300796,-0.086674
+203,Fastnet International Ltd,Operational,Colocation,50.833554,-0.134401
+204,Datum Datacentres Ltd,Operational,Colocation,51.280416,-0.796515
+205,Digital Realty,Operational,Colocation,51.368304,-0.291171
+206,FreeClix Ltd,Operational,Colocation,52.629473,1.296997
+207,Fujitsu,Operational,Colocation,51.481291,0.27025
+208,Fujitsu,Operational,Colocation,51.9033,-0.216922
+209,Fulcrum Data Systems,Operational,Colocation,50.784244,-1.851516
+210,FyfeWeb LTD,Operational,Colocation,,
+211,Getronics Services (UK) Ltd,Operational,Colocation,53.322647,-2.734026
+212,Colt Technology Services,Operational,Colocation,51.511655,-0.006049
+213,Global Switch,Operational,Colocation,51.511102,-0.00548
+214,Global Switch,Operational,Colocation,51.510986,-0.003498
+215,Global Switch,Under Construction,Colocation,,
+216,Unknown Company,Operational,Building,51.324196,-0.586182
+217,Digital Realty,Operational,Colocation,51.32452,-0.584986
+218,Google,Planned,Hyperscaler,51.717522,0.157445
+219,Google,Under Construction,Hyperscaler,51.696401,-0.048918
+220,Goonhilly,Operational,Colocation,50.047686,-5.181287
+221,Grid Hosting Limited,Operational,Colocation,52.57312,-2.126349
+222,Global Technical Realty,Operational,Campus,51.517753,-0.619072
+223,Global Technical Realty,Operational,Colocation,51.518003,-0.619693
+224,Global Technical Realty,Operational,Colocation,51.517612,-0.618454
+225,Global Technical Realty,Operational,Colocation,51.51741,-0.617387
+226,Smallworld IT,Operational,Colocation,51.236024,-0.581438
+227,Smallworld IT,Operational,Colocation,50.846677,-0.98966
+228,Wavenet Limited,Operational,Colocation,51.498437,-0.014517
+229,Atlas Communications Ltd.,Operational,Colocation,54.63272,-5.867727
+230,Hosting UK,Operational,Colocation,53.252193,-3.479159
+231,Simulant Systems Ltd,Operational,Colocation,53.958445,-1.081559
+232,Greystoke,Operational,Campus,53.62084,-0.273423
+233,Greystoke,Planned,Colocation,53.622332,-0.274552
+234,Greystoke,Planned,Colocation,53.62084,-0.273423
+235,Greystoke,Planned,Colocation,53.619339,-0.272206
+236,IBM,Operational,Hyperscaler,51.025524,-1.396205
+237,IBM,Operational,Hyperscaler,52.293069,-1.603025
+238,i-Dash Ltd,Operational,Colocation,52.213125,-0.290844
+239,Internet For Business Ltd (IFB),Operational,Colocation,57.116105,-2.077353
+240,Internet For Business Ltd (IFB),Operational,Colocation,57.143702,-2.108412
+241,Redcentric,Operational,Colocation,53.990615,-1.539112
+242,Redcentric,Operational,Colocation,51.420601,-0.97522
+243,Intercity Technology,Operational,Colocation,52.473497,-1.904506
+244,Intercity Technology,Operational,Colocation,53.585354,-2.525677
+245,Intercity Technology,Operational,Colocation,51.653951,-0.280088
+246,Elite Limited,Operational,Colocation,50.813643,-1.082979
+247,EXA Infrastructure,Operational,Colocation,52.20883,1.594026
+248,EXA Infrastructure,Operational,Colocation,52.022065,1.131485
+249,Digital Realty,Operational,Colocation,51.521334,-0.072457
+250,Digital Realty,Operational,Colocation,51.521334,-0.072457
+251,Digital Realty,Operational,Colocation,51.521437,-0.073106
+252,iomart hosting,Operational,Colocation,55.851108,-4.283601
+253,iomart hosting,Operational,Colocation,52.640431,-1.140267
+254,iomart hosting,Operational,Colocation,51.523257,-0.08456
+255,iomart hosting,Operational,Colocation,51.528799,-0.725435
+256,iomart hosting,Operational,Colocation,52.951392,-1.138787
+257,IONOS,Operational,Colocation,52.205937,-2.15669
+258,IP House,Operational,Colocation,51.515433,0.001934
+259,Itility Limited,Operational,Colocation,53.465131,-2.193141
+260,Iron Mountain Data Centers,Operational,Colocation,51.510538,-0.595041
+261,Iron Mountain Data Centers,Operational,Colocation,51.520512,-0.621487
+262,KAO Data,Operational,Campus,51.770594,0.129913
+263,KAO Data,Operational,Colocation,51.770074,0.129344
+264,KAO Data,Under Construction,Colocation,51.770895,0.130685
+265,KAO Data,Planned,Colocation,51.769921,0.130846
+266,KAO Data,Operational,Colocation,51.54536,-0.363929
+267,KAO Data,Operational,Colocation,51.515728,-0.616367
+268,KAO Data,Planned,Colocation,51.771833,0.131587
+269,KAO Data,Planned,Colocation,51.770975,0.132316
+270,KAO Data,Under Construction,Colocation,53.451758,-2.163323
+271,KAO Data,Planned,Colocation,51.516882,0.003092
+272,KAO Data,Operational,Colocation,51.769191,0.129269
+273,Keppel Data Centres,Operational,Colocation,51.452221,-3.185821
+274,Keppel Data Centres,Operational,Colocation,51.494641,-0.018604
+275,Keppel Data Centres,Operational,Colocation,51.416691,-0.772412
+276,Argyll Data Development,Planned,Campus,55.880753,-5.024982
+277,Liverpool City Region Data Centres,Operational,Colocation,53.417586,-3.045876
+278,Latos,Planned,Colocation,51.483459,-3.12747
+279,Latos,Planned,Colocation,51.482254,-3.128107
+280,Latos,Planned,Colocation,51.481387,-3.128163
+281,Latos,Operational,Campus,51.479965,-3.128878
+282,Latos,Operational,Campus,54.550468,-1.31923
+283,Latos,Planned,Colocation,54.550058,-1.319273
+284,Latos,Planned,Colocation,54.550845,-1.319026
+285,LDeX Group,Operational,Colocation,51.567733,-0.231048
+286,LDeX Group,Operational,Colocation,53.466833,-2.294168
+287,LDeX Group,Operational,Colocation,53.466857,-2.293879
+288,LeaseWeb,Operational,Colocation,51.508392,-0.057296
+289,Colt Technology Services,Operational,Colocation,51.514083,-0.072964
+290,Colt Technology Services,Operational,Colocation,51.521217,-0.097352
+291,LINX NoVA,Operational,Colocation,51.478121,-3.180657
+292,Xperience Group,Operational,Colocation,54.509917,-6.088888
+293,Liverpool City Region Data Centres,Operational,Colocation,53.403804,-2.984164
+294,Telstra International,Operational,Colocation,51.494975,-0.018687
+295,Telstra International,Operational,Colocation,51.324444,-0.585194
+296,CyrusOne Data Centers,Operational,Colocation,51.521438,-0.623336
+297,Lunar Digital Solutions Ltd,Operational,Colocation,53.464541,-2.248077
+298,Lunar Digital Solutions Ltd,Operational,Colocation,53.464399,-2.247323
+299,Lunar Digital Solutions Ltd,Operational,Colocation,53.465131,-2.193141
+300,M9 IT Ltd,Operational,Colocation,52.011572,-1.371204
+301,ANS Group Ltd.,Operational,Colocation,53.46164,-2.326617
+302,ANS Group Ltd.,Operational,Colocation,53.460469,-2.322605
+303,ANS Group Ltd.,Operational,Colocation,53.462977,-2.245794
+304,Meadow Partners,Operational,Colocation,52.149948,-0.479554
+305,Media Datacentre,Operational,Colocation,,
+306,iomart hosting,Operational,Colocation,53.46434,-2.247568
+307,Merula Ltd,Operational,Colocation,52.346137,-0.197453
+308,Microsoft,Planned,Hyperscaler,53.714079,-1.124072
+309,Microsoft,Planned,Hyperscaler,53.711137,-1.123755
+310,Microsoft,Operational,Campus,53.712064,-1.126599
+311,Microsoft,Planned,Hyperscaler,53.776143,-1.493695
+312,Microsoft,Operational,Hyperscaler,51.550797,-3.041047
+313,Microsoft,Under Construction,Hyperscaler,51.528329,-0.257538
+314,VeloxServ Communications Ltd,Operational,Colocation,52.601349,-2.111045
+315,Digital Realty,Operational,Colocation,51.129493,-0.177321
+316,NaviSite Europe Ltd,Operational,Colocation,51.247919,-0.157276
+317,NaviSite Europe Ltd,Operational,Colocation,51.324641,-0.584478
+318,Netservers Ltd,Operational,Colocation,52.213972,0.150888
+319,NetSupport,Operational,Colocation,52.685412,-0.315405
+320,Netwise,Operational,Colocation,51.520561,-0.00121
+321,Pulsant Ltd,Operational,Colocation,54.973197,-1.60318
+322,Vantage Data Centers,Operational,Colocation,51.555389,-3.037453
+323,Nigsun Telecom,Operational,Colocation,,
+324,nLighten,Operational,Colocation,52.477309,-1.877158
+325,nLighten,Operational,Colocation,51.540658,-2.581653
+326,nLighten,Operational,Colocation,53.248479,-2.930935
+327,nLighten,Operational,Colocation,53.699286,-1.397993
+328,nLighten,Operational,Colocation,53.342982,-2.973447
+329,nLighten,Operational,Colocation,52.042351,-0.819358
+330,nLighten,Operational,Colocation,53.007309,-1.214045
+331,nLighten,Operational,Colocation,52.401705,-1.237204
+332,nLighten,Operational,Colocation,51.602091,-1.730267
+333,Node4 Ltd,Operational,Colocation,52.917097,-1.449393
+334,Node4 Ltd,Operational,Colocation,53.714475,-1.409421
+335,Node4 Ltd,Operational,Colocation,52.281543,-0.871789
+336,NorwichDC,Operational,Colocation,52.486675,1.221099
+337,Space Data Centres Limited,Operational,Colocation,52.988957,-1.17396
+338,Nscale Ltd.,Planned,Colocation,51.649726,0.093915
+339,"NTT DATA, Inc.",Operational,Colocation,51.761735,-0.436762
+340,"NTT DATA, Inc.",Operational,Colocation,51.757242,-0.429136
+341,"NTT DATA, Inc.",Operational,Colocation,51.764768,-0.442794
+342,"NTT DATA, Inc.",Operational,Colocation,,
+343,"NTT DATA, Inc.",Operational,Colocation,51.516939,-0.61527
+344,"NTT DATA, Inc.",Operational,Colocation,51.5171,-0.616016
+345,Digital Realty,Operational,Colocation,51.52429,-0.086754
+346,Thrive,Operational,Colocation,51.879709,-0.402379
+347,Pulsant Ltd,Operational,Colocation,55.020328,-1.493722
+348,The Access Group UK,Operational,Colocation,52.637285,-2.120312
+349,The Access Group UK,Operational,Colocation,52.58746,-2.123065
+350,Options Technology Ltd.,Operational,Colocation,51.534751,-0.260816
+351,OVH,Operational,Hyperscaler,51.491486,0.166844
+352,Parseq Managed Services Ltd,Operational,Colocation,53.426278,-1.245376
+353,ITPS,Operational,Colocation,55.010336,-1.626616
+354,Pinewood Studios Ltd,Operational,Colocation,51.547658,-0.534741
+355,Western Bio-Energy Ltd,Planned,Enterprise,51.563314,-3.74324
+356,Pulsant Ltd,Operational,Colocation,55.929394,-3.41002
+357,Pulsant Ltd,Operational,Colocation,55.925876,-3.296568
+358,Pulsant Ltd,Operational,Colocation,51.501106,-0.708646
+359,Pulsant Ltd,Operational,Colocation,53.461282,-2.324776
+360,Pulsant Ltd,Operational,Colocation,52.038601,-0.757072
+361,Pulsant Ltd,Operational,Colocation,55.953252,-3.188267
+362,Pulsant Ltd,Operational,Colocation,51.353546,-0.118875
+363,Pure Data Centres Group,Operational,Colocation,51.57059,-0.237108
+364,Pure Data Centres Group,Planned,Colocation,51.538303,-0.272433
+365,Broadbent Group  Ltd,Operational,Colocation,51.928071,0.941695
+366,QTS Data Centers,Under Construction,Campus,55.151043,-1.532793
+367,Queensway Park Data Centres Limited,Operational,Colocation,56.198057,-3.163882
+368,iomart hosting,Operational,Colocation,50.825071,-1.162941
+369,Rackspace Hosting,Operational,Colocation,51.520576,-0.619186
+370,Rackspace Hosting,Operational,Colocation,51.127468,-0.176451
+371,Rackspace Hosting,Operational,Colocation,51.501381,-0.428851
+372,Amatis Networks Ltd,Operational,Colocation,51.461924,-1.005846
+373,Redcentric,Operational,Colocation,51.347715,-0.480081
+374,Redcentric,Operational,Colocation,52.230109,0.151144
+375,Redcentric,Operational,Colocation,53.694072,-1.82098
+376,Redcentric,Operational,Colocation,51.132417,-0.175871
+377,Redcentric,Operational,Colocation,51.46765,-0.396839
+378,Redcentric,Operational,Colocation,51.323485,-0.586978
+379,Galaxy Data Centers,Operational,Campus,51.247834,-0.15809
+380,Redwire DC,Operational,Colocation,51.512816,-0.309728
+381,Wildcard Networks,Operational,Colocation,54.961117,-1.631787
+382,CapitaLand Data Centre,Operational,Colocation,53.466151,-2.247331
+383,SysGroup,Operational,Colocation,52.685774,-2.443321
+384,Green Mountain Data Center,Operational,Colocation,51.586259,0.168328
+385,Safehosts,Operational,Colocation,51.894369,-2.059127
+386,Safenames Ltd,Operational,Colocation,52.055731,-0.759674
+387,Nasstar,Operational,Colocation,53.46765,-2.275776
+388,Zen Internet,Operational,Colocation,53.602539,-2.160659
+389,Liverpool City Region Data Centres,Operational,Colocation,53.43043,-2.990745
+390,ServerChoice,Operational,Colocation,51.803169,-0.208661
+391,Pulsant Ltd,Operational,Colocation,52.451461,-1.853182
+392,Valore Group,Planned,Colocation,51.536861,-0.497802
+393,Wavenet Limited,Operational,Colocation,53.479267,-2.238162
+394,ServerChoice,Operational,Colocation,51.776423,0.097538
+395,Serverfarm,Operational,Colocation,51.447066,-0.453462
+396,High Availability Hosting Ltd,Operational,Colocation,53.333264,-1.339613
+397,Indectron,Operational,Colocation,51.863717,-2.196983
+398,Blackpool Council,Planned,Colocation,53.777947,-3.039115
+399,Six Degrees Group,Operational,Colocation,52.478186,-1.878419
+400,Equinix,Operational,Colocation,51.524516,-0.635279
+401,Nasstar,Operational,Colocation,53.214817,0.156777
+402,Satellite Mediaport Services Ltd.,Operational,Colocation,52.357776,-1.331539
+403,Safenames Ltd,Operational,Colocation,52.312157,-0.735158
+404,Sota Solutions Limited,Operational,Colocation,51.310975,0.728608
+405,Sota Solutions Limited,Operational,Colocation,51.313976,0.725902
+406,Pulsant Ltd,Operational,Colocation,53.502483,-1.31535
+407,Stellium Datacenters,Operational,Colocation,55.017004,-1.503781
+408,Stratus Technologies Ltd,Planned,Colocation,51.503527,0.153795
+409,Stratus Technologies Ltd,Operational,Colocation,54.592133,-1.031945
+410,SUB1 Data Centres,Operational,Colocation,51.759147,-0.000264
+411,Focus Group,Operational,Colocation,50.725102,-3.467633
+412,Tata Communications,Operational,Colocation,51.619896,-0.779066
+413,Tata Communications,Operational,Colocation,51.227512,-2.963147
+414,Tata Communications,Operational,Colocation,51.542328,0.002433
+415,Teesworks,Planned,Colocation,54.619328,-1.131632
+416,Equinix,Operational,Colocation,51.498244,-0.014084
+417,Equinix,Operational,Colocation,51.530586,-0.257438
+418,Equinix,Operational,Colocation,53.461042,-2.235576
+419,Datum Datacentres Ltd,Operational,Colocation,53.379163,-2.258603
+420,Telefónica S.A.,Operational,Colocation,52.345808,-0.189197
+421,TELEHOUSE Europe,Operational,Colocation,51.511549,-0.002916
+422,TELEHOUSE Europe,Operational,Colocation,51.507041,-0.00339
+423,TELEHOUSE Europe,Operational,Colocation,51.511551,-0.002901
+424,TELEHOUSE Europe,Operational,Colocation,51.522084,-0.083235
+425,TELEHOUSE Europe,Operational,Colocation,51.511551,-0.002901
+426,TELEHOUSE Europe,Operational,Colocation,51.511549,-0.002916
+427,Telia Company,Operational,Colocation,51.49897,-0.014314
+428,Pulsant Ltd,Operational,Colocation,51.457526,-0.939307
+429,Cyberfort Group Ltd,Operational,Colocation,51.271221,1.29637
+430,Cyberfort Group Ltd,Operational,Colocation,51.376998,-1.290199
+431,CapitaLand Data Centre,Operational,Colocation,51.643272,-0.42811
+432,THG Hosting,Operational,Colocation,51.516691,0.023359
+433,Digital Space,Operational,Colocation,53.083293,-0.790884
+434,iomart hosting,Operational,Colocation,53.464371,-2.245922
+435,Docklands Data Centre Ltd,Operational,Colocation,51.494898,-0.018686
+436,Six Degrees Group,Operational,Colocation,52.278994,-1.895359
+437,Six Degrees Group,Operational,Colocation,52.27855,-1.89575
+438,Galaxy Data Centers,Operational,Colocation,51.24792,-0.15732
+439,Vantage Data Centers,Planned,Colocation,51.492053,-3.551877
+440,Vantage Data Centers,Planned,Colocation,51.41435,-3.4413
+441,Vantage Data Centers,Under Construction,Colocation,51.527658,-0.255488
+442,Vantage Data Centers,Under Construction,Colocation,51.533048,-0.259881
+443,VIRTUS Data Centres,Operational,Colocation,51.617313,-0.1085
+444,VeloxServ Communications Ltd,Operational,Colocation,52.601418,-2.111407
+445,VeloxServ Communications Ltd,Operational,Colocation,52.310721,-1.93693
+446,Verizon Communications Inc.,Operational,Colocation,51.537603,-0.132175
+447,Vinters Connect,Operational,Colocation,51.279898,0.549469
+448,Virgin Media,Operational,Colocation,53.826449,-1.460208
+449,Virgin Media,Operational,Colocation,51.524864,-0.637873
+450,VIRTUS Data Centres,Operational,Colocation,51.651895,-0.055372
+451,VIRTUS Data Centres,Operational,Colocation,51.520512,-0.621487
+452,VIRTUS Data Centres,Operational,Colocation,51.519391,-0.626803
+453,VIRTUS Data Centres,Planned,Colocation,51.679745,-0.834351
+454,VIRTUS Data Centres,Planned,Colocation,51.678596,-0.833311
+455,VIRTUS Data Centres,Planned,Colocation,51.680382,-0.832588
+456,VIRTUS Data Centres,Planned,Colocation,51.679403,-0.831667
+457,VIRTUS Data Centres,Operational,Colocation,51.523208,-0.622604
+458,VIRTUS Data Centres,Operational,Colocation,51.523208,-0.622604
+459,VIRTUS Data Centres,Operational,Colocation,51.509349,-0.454993
+460,VIRTUS Data Centres,Operational,Colocation,51.510525,-0.453857
+461,VIRTUS Data Centres,Operational,Colocation,51.510824,-0.456644
+462,VIRTUS Data Centres,Operational,Colocation,51.509754,-0.457268
+463,VIRTUS Data Centres,Operational,Colocation,51.519046,-0.61904
+464,VIRTUS Data Centres,Operational,Campus,51.67939,-0.833019
+465,Visa Inc.,Operational,Enterprise,51.519042,-0.180585
+466,Vision247,Operational,Colocation,51.493191,-0.274378
+467,Verne Global,Operational,Colocation,51.523087,-0.101736
+468,nLighten,Operational,Colocation,51.760427,-0.003073
+469,EXA Infrastructure,Operational,Colocation,51.795208,-0.060829
+470,Green Colo Ltd,Operational,Colocation,50.846733,-1.167126
+471,Digital Realty,Operational,Colocation,51.482395,-0.460672
+472,Web Wiz,Operational,Colocation,50.744623,-1.950846
+473,CapitaLand Data Centre,Operational,Colocation,51.807688,-0.188118
+474,Greystoke,Operational,Campus,51.534739,-0.494701
+475,Greystoke,Planned,Colocation,51.534621,-0.494194
+476,Greystoke,Planned,Colocation,51.533152,-0.494633
+477,Green Colo Ltd,Operational,Colocation,50.846747,-1.166554
+478,Workspace Technology,Operational,Colocation,52.56144,-1.81043
+479,WRN Broadcast,Operational,Colocation,51.481669,-0.125997
+480,Yondr Group,Operational,Colocation,51.512496,-0.579722
+481,Yondr Group,Operational,Colocation,51.512889,-0.578293
+482,Yondr Group,Under Construction,Colocation,51.51295,-0.575891
+483,Yondr Group,Operational,Campus,51.512115,-0.578624

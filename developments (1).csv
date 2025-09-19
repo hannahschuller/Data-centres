@@ -1,0 +1,923 @@
+﻿ID,LicenceArea,GridSupplyPoint,Substation,SiteFunctionalLocation,Proposed_Connection_Voltage_kV,Status of Connection,Demand_Numbers_Received_Total_Number,Demand_Numbers_Received_Total_Capacity,Generation_Numbers_Received_Total_Number,Generation_Numbers_Received_Total_Capacity,Spatial Coordinates
+2,Eastern Power Networks (EPN),Amersham,Ilmer Grid 33kV,EPN-S0000000D8077,33,Connection offers made (not yet accepted by customer),,,1,25.9,"51.7517773136147, -0.88227449772753"
+25,Eastern Power Networks (EPN),Braintree,Witham Primary 11kV,EPN-S0000000H3054,11,"Connection offers made (cancelled, expired, superseded)",1.0,2.0,,,"51.8090255565549, 0.641891288839091"
+26,Eastern Power Networks (EPN),Braintree,Witham Primary 11kV,EPN-S0000000H3054,11,Connection offers made (not yet accepted by customer),5.0,9.8,,,"51.8090255565549, 0.641891288839091"
+81,Eastern Power Networks (EPN),Bramford,Snetterton Primary 11kV,EPN-S0000000H1189,11,Connection offers made (not yet accepted by customer),1.0,2.2,,,"52.4721861472423, 0.95736970635812"
+82,Eastern Power Networks (EPN),Bramford,Snetterton Primary 11kV,EPN-S0000000H1189,33,Budget Estimates Provided,1.0,9.0,,,"52.4721861472423, 0.95736970635812"
+94,Eastern Power Networks (EPN),Bramford,Tivetshall Primary 11kV,EPN-S0000000H1033,33,Connection offers made (not yet accepted by customer),,,1,30,"52.4401378458545, 1.17358086562589"
+111,Eastern Power Networks (EPN),Brimsdown,The Cross 11kV,EPN-S0000000H7080,11,Connection offers made (not yet accepted by customer),1.0,7.0,,,"51.6859357578055, -0.0252037357225468"
+123,Eastern Power Networks (EPN),Burwell,Ely Primary 11kV,EPN-S0000000H4007,11,Connection offers made (not yet accepted by customer),4.0,7.4,,,"52.3978836770285, 0.255467859575925"
+146,Eastern Power Networks (EPN),Burwell,Madingley Rd Primary 11kV,EPN-S0000000H4070,11,Budget Estimates Provided,2.0,2.3,,,"52.2131493455465, 0.0875781294213052"
+147,Eastern Power Networks (EPN),Burwell,Milton Rd Primary 11kV,EPN-S0000000H4078,11,Budget Estimates Provided,1.0,2.0,1,6,"52.2296894150331, 0.146987205457097"
+187,Eastern Power Networks (EPN),Eaton Socon,St Ives Primary 11kV,EPN-S0000000H4046,11,Budget Estimates Provided,1.0,4.7,,,"52.3348370403047, -0.0673623505827406"
+249,Eastern Power Networks (EPN),Norwich,Earlham Grid Local 11kV,EPN-S0000000H5065,11,Connection offers made (not yet accepted by customer),2.0,3.0,1,1,"52.6299846751722, 1.22732149561236"
+261,Eastern Power Networks (EPN),Norwich,Mulbarton Primary 11kV,EPN-S0000000H5022,11,Connection offers made (not yet accepted by customer),1.0,6.5,,,"52.5640147325315, 1.25498546739366"
+263,Eastern Power Networks (EPN),Norwich,Norwich Main 132kV,EPN-S0000000C5012,132,Budget Estimates Provided,,,5,549.9,"52.5740279616305, 1.27181803305154"
+268,Eastern Power Networks (EPN),Norwich,Sall 11kV,EPN-S0000000H5069,11,Budget Estimates Provided,2.0,4.0,,,"52.7734089482752, 1.1508670612144"
+286,Eastern Power Networks (EPN),Pelham,Acrows Primary 11kV,EPN-S0000000H4048,11,Connection offers made (not yet accepted by customer),1.0,3.0,,,"52.0292161425497, 0.261124260432069"
+290,Eastern Power Networks (EPN),Pelham,Belchamp Grid 33kV,EPN-S0000000D1011,33,Connection offers made (not yet accepted by customer),,,2,66.1,"52.0685789944063, 0.605358966326239"
+316,Eastern Power Networks (EPN),Rayleigh,Gardiners Ln Primary 11kV,EPN-S0000000H7096,11,Connection offers made (not yet accepted by customer),1.0,1.5,,,"51.5882935227615, 0.482897728873305"
+325,Eastern Power Networks (EPN),Rayleigh,Nevendon Grid 33kV,EPN-S0000000D7017,132,Budget Estimates Provided,,,1,40,"51.5945902916807, 0.484526289220705"
+357,Eastern Power Networks (EPN),Sundon,Ampthill Primary 11kV,EPN-S0000000H4034,11,Budget Estimates Provided,2.0,6.0,,,"52.0161458337469, -0.479027055786056"
+372,Eastern Power Networks (EPN),Sundon,Leighton Buzzard Primary 11kV,EPN-S0000000H8037,11,Connection offers made (not yet accepted by customer),1.0,3.4,,,"51.9165044922591, -0.652661449686785"
+376,Eastern Power Networks (EPN),Sundon,Luton North Grid 33kV,,33,Connection offers made (not yet accepted by customer),,,1,30,
+409,Eastern Power Networks (EPN),Tilbury 2&8,Canvey Primary 11kV,EPN-S0000000H7109,11,Connection offers made (not yet accepted by customer),1.0,2.4,,,"51.5236189267748, 0.575637834045731"
+432,Eastern Power Networks (EPN),Walpole,Downham Market Primary 11kV,,33,Connection offers made (not yet accepted by customer),,,1,15,
+452,Eastern Power Networks (EPN),Walpole,Northwold Primary 11kV,EPN-S0000000H6075,33,Connection offers made (accepted by customer),,,1,25,"52.5512106810433, 0.56124150674349"
+464,Eastern Power Networks (EPN),Walpole,Peterborough South Grid 33kV,EPN-S0000000D6039,33,Connection offers made (not yet accepted by customer),1.0,39.5,,,
+469,Eastern Power Networks (EPN),Walpole,Walpole GIS 132kV,EPN-S0000000C6047,132,"Connection offers made (cancelled, expired, superseded)",1.0,18.0,3,280,"52.7270572195836, 0.200532896725508"
+470,Eastern Power Networks (EPN),Walpole,Walpole GIS 132kV,EPN-S0000000C6047,132,Connection offers made (not yet accepted by customer),,,4,786.8,"52.7270572195836, 0.200532896725508"
+482,Eastern Power Networks (EPN),Warley,Hornchurch Grid 33kV,EPN-S0000000D7046,33,Connection offers made (not yet accepted by customer),1.0,16.0,,,"51.5594096902223, 0.225088306836665"
+484,Eastern Power Networks (EPN),Warley,Lakeside Primary 11kV,EPN-S0000000H7011,11,Budget Estimates Provided,2.0,7.0,,,"51.4835576377817, 0.286137072253766"
+491,Eastern Power Networks (EPN),Warley,Purfleet Grid 33kV,EPN-S0000000D7049,33,Budget Estimates Provided,2.0,32.5,,,"51.4785511205189, 0.261893054480452"
+517,Eastern Power Networks (EPN),Willesden,Bee Primary 11kV,EPN-S0000000H8050,11,Connection offers made (accepted by customer),1.0,4.0,,,"51.5592363151467, -0.27107272199345"
+552,London Power Networks (LPN),Barking C 132kV,Royal Docks 132/11kV,,132,Connection offers made (not yet accepted by customer),1.0,30.0,,,
+553,London Power Networks (LPN),Barking West 33kV,Axe St 11kV,,11,Budget Estimates Provided,1.0,5.0,,,
+628,London Power Networks (LPN),City Road,Fisher St B 11kV,LPN-S000000000228,11,Connection offers made (not yet accepted by customer),2.0,2.4,,,"51.5183600215218, -0.119866224793326"
+631,London Power Networks (LPN),New Cross 132kV,Osborn St B 11kV,LPN-S000000000673,11,Connection offers made (not yet accepted by customer),4.0,21.4,,,"51.5167831984502, -0.0709405654132755"
+746,South Eastern Power Networks (SPN),Bolney,Kemp Town 11kV,,11,Connection offer made (not yet accepted by customer),1.0,1.5,,,
+781,South Eastern Power Networks (SPN),Canterbury,Shepway 11kV,SPN-S000000008644,11,Connection offer made (not yet accepted by customer),1.0,1.2,,,"51.2519277517553, 0.54987351370232"
+785,South Eastern Power Networks (SPN),Chessington,Chessington 132kV,,132,Connection offer made (not yet accepted by customer),1.0,100.0,,,
+786,South Eastern Power Networks (SPN),Chessington,Chessington Grid 33kV,,33,"Connection offer made (cancelled, expired, superseded)",1.0,30.0,,,
+795,South Eastern Power Networks (SPN),Chessington,Chessington 132kV,,33,Budget Estimates Provided,,,1,100,
+797,South Eastern Power Networks (SPN),Chessington,North Chessington 11kV,,11,Budget Estimates Provided,1.0,2.0,,,
+798,South Eastern Power Networks (SPN),Chessington,Chessington 132kV,,132,Budget Estimates Provided,1.0,100.0,,,
+817,South Eastern Power Networks (SPN),Kingsnorth,Chatham Hill 11kV,SPN-S000000008645,11,Connection offer made (not yet accepted by customer),1.0,4.0,,,"51.3775931642859, 0.54051329034077"
+860,South Eastern Power Networks (SPN),Northfleet,Chelsfield Grid 33kV,SPN-S000000009111,33,Connection offer made (not yet accepted by customer),1.0,25.0,,,"51.3449303635275, 0.13989698757686"
+891,South Eastern Power Networks (SPN),Richborough,Thanet Grid 33kV,SPN-S000000009949,11,"Connection offer made (cancelled, expired, superseded)",1.0,2.15,,,"51.3683813742032, 1.38944566850995"
+5,Eastern Power Networks (EPN),Amersham,Thame Primary 11kV,,11,Connection offers made (not yet accepted by customer),1.0,2.0,,,
+15,Eastern Power Networks (EPN),Biggleswade,Biggleswade East 33kV,EPN-S0000000H4172,132,Budget Estimates Provided,1.0,200.0,,,
+22,Eastern Power Networks (EPN),Braintree,Lake & Elliot Primary 11kV,EPN-S0000000H3069,11,Budget Estimates Provided,4.0,15.0,,,"51.8739821337294, 0.565585950235916"
+24,Eastern Power Networks (EPN),Braintree,Witham Primary 11kV,EPN-S0000000H3054,11,Budget Estimates Provided,1.0,1.7,,,"51.8090255565549, 0.641891288839091"
+30,Eastern Power Networks (EPN),Bramford,Benhall Primary 11kV,EPN-S0000000H5027,11,Budget Estimates Provided,1.0,2.0,,,"52.2095489887503, 1.47012633471736"
+32,Eastern Power Networks (EPN),Bramford,Braiswick Primary 11kV,EPN-S0000000H3016,11,Connection offers made (not yet accepted by customer),1.0,1.4,,,"51.9040458577, 0.88612429122237"
+43,Eastern Power Networks (EPN),Bramford,Bury Grid 33kV,EPN-S0000000D1012,132,Budget Estimates Provided,,,1,50,"52.2399236387066, 0.722979910939776"
+45,Eastern Power Networks (EPN),Bramford,Claydon Cement Primary 11kV,EPN-S0000000H1059,11,Budget Estimates Provided,1.0,8.1,,,"52.1097479270073, 1.09671905265498"
+49,Eastern Power Networks (EPN),Bramford,Diss Grid 11kV,EPN-S0000000H1014,11,Connection offers made (not yet accepted by customer),1.0,2.0,,,"52.3726957140022, 1.10555613465987"
+50,Eastern Power Networks (EPN),Bramford,Diss Grid 33kV,EPN-S0000000D1014,33,Connection offers made (accepted by customer),,,1,30,"52.3726957140022, 1.10555613465987"
+57,Eastern Power Networks (EPN),Bramford,Framlingham Primary 11kV,EPN-S0000000H5043,11,Budget Estimates Provided,1.0,1.8,,,"52.2301956876295, 1.32482082842278"
+61,Eastern Power Networks (EPN),Bramford,Highfield Primary 11kV,EPN-S0000000H1006,11,Budget Estimates Provided,1.0,1.8,,,"52.0769542169972, 1.12812127222429"
+63,Eastern Power Networks (EPN),Bramford,Icklingham Primary 11kV,EPN-S0000000H1015,11,Budget Estimates Provided,1.0,5.0,,,"52.335989068288, 0.562876277898539"
+73,Eastern Power Networks (EPN),Bramford,Martlesham Primary 11kV,,11,Budget Estimates Provided,1.0,3.0,,,
+76,Eastern Power Networks (EPN),Bramford,Mersea Rd Primary 11kV,EPN-S0000000H3074,11,Connection offers made (not yet accepted by customer),2.0,3.9,,,"51.871944873193, 0.908142117693411"
+101,Eastern Power Networks (EPN),Bramford,Wix Primary 11kV,EPN-S0000000H3055,33,Connection offers made (not yet accepted by customer),,,2,30,"51.9190059908613, 1.14452514264264"
+115,Eastern Power Networks (EPN),Brimsdown,Waltham Park 11kV,EPN-S0000000F7022,11,Budget Estimates Provided,1.0,2.0,,,"51.6837596050097, -0.0461733850730962"
+117,Eastern Power Networks (EPN),Brimsdown,Waltham Park 11kV,EPN-S0000000F7022,132,"Connection offers made (cancelled, expired, superseded)",,,1,100,"51.6837596050097, -0.0461733850730962"
+119,Eastern Power Networks (EPN),Burwell,Arbury Grid 33kV,EPN-S0000000H4001,33,Budget Estimates Provided,1.0,13.0,,,"52.2360705090683, 0.129295504611532"
+140,Eastern Power Networks (EPN),Burwell,Landbeach Primary 11kV,EPN-S0000000H4020,11,Connection offers made (accepted by customer),1.0,22.0,,,"52.2913555214597, 0.173533476514472"
+156,Eastern Power Networks (EPN),Burwell,Thompsons Ln Primary 11kV,EPN-S0000000H4015,11,Budget Estimates Provided,1.0,1.5,,,"52.2103624177746, 0.117819739783256"
+165,Eastern Power Networks (EPN),Eaton Socon,Eaton Socon Grid 132kV,EPN-S0000000C4076,132,Budget Estimates Provided,1.0,600.0,,,"52.2147364575905, -0.301694937097924"
+176,Eastern Power Networks (EPN),Eaton Socon,Little Barford 11kV,EPN-S0000000F4055,11,Budget Estimates Provided,5.0,11.5,,,"52.2065166590149, -0.268171894048518"
+182,Eastern Power Networks (EPN),Eaton Socon,Manton Ln Primary 11kV,EPN-S0000000H4051,11,Connection offers made (not yet accepted by customer),1.0,1.8,,,"52.1507531673233, -0.476782839502988"
+183,Eastern Power Networks (EPN),Eaton Socon,Prebend St Primary 11kV,EPN-S0000000H4077,11,Budget Estimates Provided,1.0,1.4,,,"52.1327888904601, -0.474020544694912"
+197,Eastern Power Networks (EPN),Elstree,Grove Mill Primary 11kV,EPN-S0000000H8137,11,Connection offers made (not yet accepted by customer),1.0,4.5,1,0.9,"51.676233700079, -0.425139474825921"
+201,Eastern Power Networks (EPN),Elstree,Hatfield Primary 11kV,EPN-S0000000H8075,11,Budget Estimates Provided,2.0,5.0,,,"51.7364087408022, -0.239553651947588"
+222,Eastern Power Networks (EPN),Mill Hill,Bellevue Primary 11kV,EPN-S0000000H8051,11,Budget Estimates Provided,4.0,13.8,,,"51.5871108159934, -0.218654249431747"
+230,Eastern Power Networks (EPN),Mill Hill,East Finchley Primary 11kV,EPN-S0000000H8092,11,Connection offers made (not yet accepted by customer),1.0,3.5,,,"51.590216713461, -0.177302704408035"
+232,Eastern Power Networks (EPN),Mill Hill,Golders Grn Primary 11kV,EPN-S0000000H8116,11,Connection offers made (not yet accepted by customer),1.0,1.1,,,"51.5673765002693, -0.194780880578112"
+238,Eastern Power Networks (EPN),Mill Hill,North Finchley Primary 11kV,EPN-S0000000H8040,11,Connection offers made (not yet accepted by customer),1.0,9.1,,,"51.6158790310613, -0.181243677192809"
+252,Eastern Power Networks (EPN),Norwich,George Hill Primary 11kV,EPN-S0000000H5052,11,Connection offers made (not yet accepted by customer),3.0,5.8,,,"52.6572372532096, 1.30128299227045"
+254,Eastern Power Networks (EPN),Norwich,GT Yarmouth Grid 11kV,EPN-S0000000H5067,11,Budget Estimates Provided,1.0,1.2,,,"52.5916026624618, 1.73095825038195"
+274,Eastern Power Networks (EPN),Norwich,Scottow Primary 11kV,EPN-S0000000H5059,11,Connection offers made (not yet accepted by customer),1.0,5.0,,,"52.7639546306434, 1.35128488915742"
+287,Eastern Power Networks (EPN),Pelham,Belchamp Grid 33kV,EPN-S0000000D1011,33,Budget Estimates Provided,,,2,50.6,"52.0685789944063, 0.605358966326239"
+305,Eastern Power Networks (EPN),Pelham,Takeley Primary 11kV,EPN-S0000000H3008,11,Connection offers made (not yet accepted by customer),1.0,1.8,,,"51.8720375539987, 0.261103751488548"
+314,Eastern Power Networks (EPN),Rayleigh,Fleethall Grid 33kV,EPN-S0000000D7125,33,"Connection offers made (cancelled, expired, superseded)",,,1,17.5,"51.5706943663914, 0.733630386220976"
+317,Eastern Power Networks (EPN),Rayleigh,Kingswood Primary 11kV,EPN-S0000000H7099,11,Budget Estimates Provided,1.0,1.5,,,"51.5674367093621, 0.453044252537402"
+322,Eastern Power Networks (EPN),Rayleigh,Maldon Wick Primary 11kV,EPN-S0000000H3062,11,Connection offers made (not yet accepted by customer),1.0,1.5,,,"51.724849731361, 0.666506126793838"
+323,Eastern Power Networks (EPN),Rayleigh,Marks Tey Primary 11kV,EPN-S0000000H3049,11,"Connection offerss made (cancelled, expired, superseded)",1.0,1.6,,,"51.8762753945112, 0.771662296345226"
+332,Eastern Power Networks (EPN),Rayleigh,South Witham Primary 11kV,EPN-S0000000H3040,11,Budget Estimates Provided,,,2,12,"51.7851866826719, 0.635785080224398"
+333,Eastern Power Networks (EPN),Rayleigh,South Woodham Primary 11kV,EPN-S0000000H3030,11,"Connection offers made (cancelled, expired, superseded)",,,1,5.1,"51.651027718283, 0.594451054535383"
+334,Eastern Power Networks (EPN),Rayleigh,South Woodham Primary 11kV,EPN-S0000000H3030,11,Connection offers made (not yet accepted by customer),1.0,1.8,,,"51.651027718283, 0.594451054535383"
+344,Eastern Power Networks (EPN),Rye House,Harlow West Grid 11kV,,33,Budget Estimates Provided,1.0,10.0,,,
+347,Eastern Power Networks (EPN),Rye House,Hoddesdon Primary 11kV,EPN-S0000000H7045,11,Connection offers made (not yet accepted by customer),1.0,10.4,,,"51.7610226244789, -0.00978536934773836"
+355,Eastern Power Networks (EPN),Rye House,Welwyn Primary 11kV,EPN-S0000000H8082,11,Budget Estimates Provided,1.0,5.0,,,"51.7883851130489, -0.209343731481634"
+363,Eastern Power Networks (EPN),Sundon,Aylesbury East Grid 33kV,EPN-S0000000D8002,33,Budget Estimates Provided,,,3,90,"51.8255730051532, -0.775132146371567"
+373,Eastern Power Networks (EPN),Sundon,Luton Airport Primary 11kV,EPN-S0000000H8039,11,Connection offers made (not yet accepted by customer),1.0,3.0,,,"51.8859823206316, -0.3778748757245"
+386,Eastern Power Networks (EPN),Sundon,Sundon 33kV,EPN-S0000000D8086,33,Connection offers made (not yet accepted by customer),,,1,49.5,"51.9296757555707, -0.498023771548751"
+416,Eastern Power Networks (EPN),Tottenham,Palmers Grn Grid 11kV,EPN-S0000000F7030,11,Connection offers made (not yet accepted by customer),1.0,1.2,,,"51.6160617212447, -0.113057905611158"
+419,Eastern Power Networks (EPN),Tottenham,Ponders End Primary 11kV,EPN-S0000000H7071,11,Connection offers made (not yet accepted by customer),2.0,3.4,,,"51.6423477766754, -0.0422885115616133"
+430,Eastern Power Networks (EPN),Walpole,Chatteris Primary 11kV,EPN-S0000000H6053,11,Connection offers made (not yet accepted by customer),4.0,11.2,,,"52.4557730368212, 0.0396030046490009"
+433,Eastern Power Networks (EPN),Walpole,Downham Market Primary 33kV,,33,Budget Estimates Provided,,,1,20,
+442,Eastern Power Networks (EPN),Walpole,Kings Lynn Grid  33kV,EPN-S0000000D6046,132,"Connection offers made (cancelled, expired, superseded)",,,1,49.9,"52.7576600302301, 0.399591493869985"
+446,Eastern Power Networks (EPN),Walpole,March Grid 33kV,,11,Budget Estimates Provided,1.0,9.2,,,
+449,Eastern Power Networks (EPN),Walpole,March Primary 11kV,EPN-S0000000H6029,11,Budget Estimates Provided,,,1,1.2,"52.5490797871529, 0.0858604926141099"
+457,Eastern Power Networks (EPN),Walpole,Peterborough Central 33kV,EPN-S0000000D6060,132,Budget Estimates Provided,,,2,85,"52.5677892580101, -0.243114218957207"
+460,Eastern Power Networks (EPN),Walpole,Peterborough East Grid 11kV,EPN-S0000000F6057,11,Connection offers made (not yet accepted by customer),1.0,1.5,,,"52.587102404767, -0.217291123167596"
+466,Eastern Power Networks (EPN),Walpole,Stickfast Ln Primary 11kV,,11,Budget Estimates Provided,2.0,11.5,,,
+488,Eastern Power Networks (EPN),Warley,Manor Way Primary 11kV,EPN-S0000000H7131,11,Connection offers made (accepted by customer),1.0,1.5,,,"51.5221979189558, 0.180992851124153"
+493,Eastern Power Networks (EPN),Warley,Romford North Primary 11kV,,11,Budget Estimates Provided,1.0,1.6,,,
+508,Eastern Power Networks (EPN),Watford South,Lye Grn Primary 11kV,EPN-S0000000H8161,11,Connection offers made (not yet accepted by customer),2.0,3.5,,,"51.7219807863055, -0.589783826433602"
+512,Eastern Power Networks (EPN),Watford South,Watford South 132kV,EPN-S0000000C8171,132,Budget Estimates Provided,1.0,50.0,,,"51.642704737748, -0.404651376833844"
+541,Eastern Power Networks (EPN),Wymondley,West Letchworth Primary 11kV,EPN-S0000000H8106,33,Budget Estimates Provided,,,1,8,"51.9877928601118, -0.246606575221753"
+547,London Power Networks (LPN),West Ham,Glaucus St 11kV,LPN-S000000000634,11,Connection offers made (not yet accepted by customer),1.0,10.4,,,"51.5196034202651, -0.0178779448198617"
+560,London Power Networks (LPN),Beddington,Beddington 132kV,,132,Connection offers made (not yet accepted by customer),,,1,240,
+571,London Power Networks (LPN),City Road,Beech St B 11kV,LPN-S000000000408,11,Connection offers made (not yet accepted by customer),2.0,2.3,,,"51.5206108538184, -0.0932942255792156"
+579,London Power Networks (LPN),City Road,Finsbury Mkt D 11kV,LPN-S000000000430,11,Budget Estimates Provided,1.0,2.4,,,"51.5212888749755, -0.0830314868258846"
+598,London Power Networks (LPN),City Road,Newington House B 11kV,LPN-S000000000965,11,Connection offers made (not yet accepted by customer),1.0,1.6,,,"51.4980113660721, -0.0998707974429451"
+632,London Power Networks (LPN),New Cross 132kV,Tooley St 11kV,,11,Connection offers made (not yet accepted by customer),1.0,1.0,,,
+641,London Power Networks (LPN),New Cross 66kV,South Bank 11kV,LPN-S000000000979,11,Connection offers made (not yet accepted by customer),3.0,10.0,,,"51.5058188057305, -0.114474517975939"
+651,London Power Networks (LPN),St Johns Wood,Duke St B 11kV,LPN-S000000000328,11,Connection offers made (not yet accepted by customer),5.0,15.3,,,"51.5131357357545, -0.151571579928347"
+655,London Power Networks (LPN),St Johns Wood,Old Brompton Rd B 11kV,LPN-S000000000174,11,Connection offers made (not yet accepted by customer),2.0,7.0,,,"51.4865947925077, -0.194602700927025"
+663,London Power Networks (LPN),Beddington,Churchfields 11kV,,11,Connection offers made (not yet accepted by customer),1.0,1.3,,,
+668,London Power Networks (LPN),West Ham,Blackwall Way 11kV,LPN-S000000000640,11,Connection offers made (not yet accepted by customer),1.0,15.0,,,"51.507129604829, -0.00350464748068387"
+671,London Power Networks (LPN),West Ham,Bow 11kV,LPN-S000000000615,11,Connection offers made (not yet accepted by customer),4.0,6.0,,,"51.5325947141485, -0.0123825637120869"
+692,London Power Networks (LPN),Willesden Grid 66 kV,Bulwer St 11kV,LPN-S000000000109,11,Connection offers made (accepted by customer),1.0,5.0,,,"51.5055865356577, -0.223434837802431"
+716,London Power Networks (LPN),Wimbledon 3&4 132kV,Victoria St 11kV,LPN-S000000000195,11,Connection offers made (not yet accepted by customer),1.0,4.6,,,"51.497285252835, -0.138137273134617"
+741,South Eastern Power Networks (SPN),Bolney,Haywards Heath 11kV,,11,"Connection offer made (cancelled, expired, superseded)",1.0,1.72,,,
+766,South Eastern Power Networks (SPN),Bolney,West Hoathly 11kV,,11,Connection offer made (not yet accepted by customer),1.0,1.5,,,
+780,South Eastern Power Networks (SPN),Canterbury,Shepway 11kV,SPN-S000000008644,11,"Connection offer made (cancelled, expired, superseded)",3.0,4.7,,,"51.2519277517553, 0.54987351370232"
+782,South Eastern Power Networks (SPN),Canterbury,Waterside 11kV,SPN-S000000008529,11,Connection offer made (not yet accepted by customer),2.0,3.77,,,"51.2770215741313, 0.51908567940078"
+808,South Eastern Power Networks (SPN),Kemsley,Sittingbourne West 11kV,SPN-S000000008444,11,Connection offer made (accepted by customer),1.0,1.35,,,"51.3412853502412, 0.715243085981626"
+814,South Eastern Power Networks (SPN),Kingsnorth,Chatham Grid 33kV,,33,Connection offer made (not yet accepted by customer),1.0,17.63,,,
+819,South Eastern Power Networks (SPN),Kingsnorth,Kingsnorth Grid 132kV,SPN-S000000009976,132,"Connection offer made (cancelled, expired, superseded)",,,1,101.8,"51.4197964486026, 0.596060453884657"
+848,South Eastern Power Networks (SPN),Ninfield,Meads 11kV,,11,Connection offer made (not yet accepted by customer),1.0,1.6,,,
+871,South Eastern Power Networks (SPN),Northfleet,Northfleet East 33kV,,33,Connection offer made (accepted by customer),1.0,10.3,,,
+879,South Eastern Power Networks (SPN),Northfleet,Northfleet East 132kV,SPN-S000000009937,132,Budget Estimates Provided,,,1,300,"51.4277809482857, 0.330940448884314"
+901,South Eastern Power Networks (SPN),Sellindge,Harrietsham 11kV,SPN-S000000008414,11,Connection offer made (not yet accepted by customer),1.0,4.5,,,"51.2394868801445, 0.707680376471689"
+14,Eastern Power Networks (EPN),Biggleswade,Biggleswade East 33kV,EPN-S0000000H4172,11,Connection offers made (not yet accepted by customer),2.0,17.5,,,
+18,Eastern Power Networks (EPN),Braintree,Braintree Depot Primary 11kV,EPN-S0000000H3014,11,Budget Estimates Provided,1.0,2.0,,,"51.8824042477402, 0.572372304518029"
+38,Eastern Power Networks (EPN),Bramford,Bungay Primary 11kV,,11,Connection offers made (not yet accepted by customer),1.0,4.5,,,
+40,Eastern Power Networks (EPN),Bramford,Bury Grid 11kV,EPN-S0000000H1012,11,"Connection offers made (cancelled, expired, superseded)",1.0,3.0,,,"52.2397029827595, 0.722409751813484"
+56,Eastern Power Networks (EPN),Bramford,Fornham Primary 11kV,EPN-S0000000H1062,33,Budget Estimates Provided,,,3,45,"52.2661025267136, 0.708490719934307"
+66,Eastern Power Networks (EPN),Bramford,Ipswich Grid 11kV,EPN-S0000000H1024,11,Connection offers made (accepted by customer),1.0,4.4,,,"52.05576103445, 1.13603519740954"
+69,Eastern Power Networks (EPN),Bramford,Lawford Grid 33kV,EPN-S0000000D3048,33,Budget Estimates Provided,1.0,37.4,1,25,"51.9166367025341, 1.01869819169731"
+78,Eastern Power Networks (EPN),Bramford,Peasenhall Primary 11kV,EPN-S0000000H5008,11,Connection offers made (not yet accepted by customer),1.0,1.8,,,"52.2745358311332, 1.44705266124981"
+89,Eastern Power Networks (EPN),Bramford,Thetford Grid 33kV,EPN-S0000000H1056,132,Budget Estimates Provided,,,2,80,"52.3872190958013, 0.736478402750066"
+95,Eastern Power Networks (EPN),Bramford,Turret Ln Primary 11kV,,11,Budget Estimates Provided,1.0,2.0,,,
+99,Eastern Power Networks (EPN),Bramford,Wickham Market Grid 33kV,EPN-S0000000D5073,132,Budget Estimates Provided,,,3,189,"52.1874930946002, 1.36753668530461"
+104,Eastern Power Networks (EPN),Brimsdown,Brimsdown Grid 132kV,EPN-S0000000C7084,33,Budget Estimates Provided,1.0,30.0,,,"51.6641350951355, -0.024488960820121"
+118,Eastern Power Networks (EPN),Burwell,Arbury Grid 11kV,EPN-S0000000H4001,11,Connection offers made (not yet accepted by customer),1.0,4.0,,,"52.2360705090683, 0.129295504611532"
+131,Eastern Power Networks (EPN),Burwell,Fulbourn Grid 33kV,,33,Connection offers made (accepted by customer),,,1,30,
+184,Eastern Power Networks (EPN),Eaton Socon,Prebend St Primary 11kV,EPN-S0000000H4077,11,Connection offers made (not yet accepted by customer),2.0,2.9,,,"52.1327888904601, -0.474020544694912"
+191,Eastern Power Networks (EPN),Elstree,Bushey Mill Grid 33kV,EPN-S0000000D8006,132,Budget Estimates Provided,1.0,50.0,,,"51.670976638723, -0.382370800818844"
+196,Eastern Power Networks (EPN),Elstree,Elstree GIS 132kV,EPN-S0000000C8245,132,Connection offers made (not yet accepted by customer),1.0,200.0,,,"51.6591401724472, -0.342180028458686"
+213,Eastern Power Networks (EPN),Elstree,Tunnel Primary 11kV,EPN-S0000000H8104,11,"Connection offers made (cancelled, expired, superseded)",1.0,3.0,,,"51.7651303357817, -0.239016222977169"
+215,Eastern Power Networks (EPN),Elstree,West Potters Bar Primary 11kV,EPN-S0000000H8083,11,Budget Estimates Provided,1.0,5.6,,,"51.7073052071919, -0.202401263478464"
+220,Eastern Power Networks (EPN),Elstree Stanmore,Wealdstone Primary 11kV,EPN-S0000000H8105,11,Budget Estimates Provided,3.0,15.7,,,"51.5941882232731, -0.337601526464528"
+233,Eastern Power Networks (EPN),Mill Hill,Hendon Way Primary 11kV,EPN-S0000000H8094,11,"Connection offers made (cancelled, expired, superseded)",1.0,7.0,,,"51.5741550554878, -0.212883238659527"
+234,Eastern Power Networks (EPN),Mill Hill,Hendon Way Primary 11kV,EPN-S0000000H8094,11,Connection offers made (not yet accepted by customer),1.0,1.4,,,"51.5741550554878, -0.212883238659527"
+270,Eastern Power Networks (EPN),Norwich,Sall Grid 33kV,EPN-S0000000D5023,33,"Connection offers made (cancelled, expired, superseded)",,,1,25,"52.7731302289295, 1.15120280997115"
+272,Eastern Power Networks (EPN),Norwich,Scottow Primary 11kV,EPN-S0000000H5059,11,Budget Estimates Provided,3.0,15.5,,,"52.7639546306434, 1.35128488915742"
+282,Eastern Power Networks (EPN),Norwich,Trowse Grid 33kV,EPN-S0000000D5084,33,Connection offers made (not yet accepted by customer),1.0,14.9,1,50,"52.6078675543899, 1.30817283390477"
+302,Eastern Power Networks (EPN),Pelham,Pelham 132kV,EPN-S0000000C7070,33,Connection offers made (not yet accepted by customer),,,3,55,"51.9351365482506, 0.118115255066342"
+307,Eastern Power Networks (EPN),Pelham,Thaxted Grid 33kV,EPN-S0000000D3051,33,Connection offers made (not yet accepted by customer),,,2,31.7,"51.9655875581503, 0.360450203279172"
+308,Eastern Power Networks (EPN),Pelham,Thorley Primary 11kV,EPN-S0000000H7020,33,Budget Estimates Provided,,,1,7.4,"51.8477438633511, 0.156507335423487"
+313,Eastern Power Networks (EPN),Rayleigh,Chelmsford East Local 11kV,EPN-S0000000H3058,11,Connection offers made (not yet accepted by customer),3.0,5.5,,,"51.7159313868667, 0.518478466646667"
+351,Eastern Power Networks (EPN),Rye House,Rye House Grid 33kV,EPN-S0000000D7015,33,"Connection offers made (cancelled, expired, superseded)",3.0,50.2,,,"51.7580295556759, 0.00389214056568798"
+352,Eastern Power Networks (EPN),Rye House,Rye House Local Primary 11kV,,11,Connection offers made (not yet accepted by customer),1.0,1.5,,,
+354,Eastern Power Networks (EPN),Rye House,Ware Primary 11kV,EPN-S0000000H7137,11,Budget Estimates Provided,1.0,2.5,,,"51.8146748246106, -0.026573159431733"
+361,Eastern Power Networks (EPN),Sundon,Arla Dairies Primary 11kV,EPN-S0000000H8049,11,Connection offers made (not yet accepted by customer),1.0,12.0,,,"51.8148792190328, -0.724937196192035"
+362,Eastern Power Networks (EPN),Sundon,Austin Canons Grid 33kV,EPN-S0000000D4024,33,Connection offers made (not yet accepted by customer),1.0,14.4,,,"52.1267409229522, -0.482627126732345"
+367,Eastern Power Networks (EPN),Sundon,Buckingham Rd Primary 11kV,EPN-S0000000H8071,33,Budget Estimates Provided,,,1,10,"51.8331984751452, -0.818275557970287"
+380,Eastern Power Networks (EPN),Sundon,Pitstone Primary 11kV,EPN-S0000000H8038,11,Connection offers made (not yet accepted by customer),1.0,3.0,,,"51.8303045940099, -0.648080490927451"
+381,Eastern Power Networks (EPN),Sundon,Stopsley Primary 33/11kV,EPN-S0000000H8019,11,Budget Estimates Provided,1.0,1.3,,,"51.9013508449566, -0.395708824296217"
+399,Eastern Power Networks (EPN),Tilbury 1&7,Cranham Primary 11kV,,11,Budget Estimates Provided,3.0,6.0,,,
+403,Eastern Power Networks (EPN),Tilbury 1&7,Selwyn Rd Primary 11kV,,11,Connection offers made (not yet accepted by customer),1.0,2.0,,,
+408,Eastern Power Networks (EPN),Tilbury 2&8,Canvey Primary 11kV,EPN-S0000000H7109,11,"Connection offers made (cancelled, expired, superseded)",,,1,2,"51.5236189267748, 0.575637834045731"
+410,Eastern Power Networks (EPN),Tilbury 2&8,Thundersley Primary 11kV,EPN-S0000000H7135,11,Budget Estimates Provided,3.0,8.8,,,"51.5757329037717, 0.56263505423494"
+418,Eastern Power Networks (EPN),Tottenham,Ponders End Primary 11kV,EPN-S0000000H7071,11,"Connection offers made (cancelled, expired, superseded)",2.0,3.0,,,"51.6423477766754, -0.0422885115616133"
+427,Eastern Power Networks (EPN),Tottenham,West Grn Primary 11kV,EPN-S0000000H7119,11,Connection offers made (not yet accepted by customer),1.0,1.3,,,"51.5894462682209, -0.102034553788448"
+437,Eastern Power Networks (EPN),Walpole,Great Haddon Primary 11kV,EPN-S0000000G6026,33,"Connection offers made (cancelled, expired, superseded)",1.0,39.5,,,"52.5359787252294, -0.3003399571397"
+438,Eastern Power Networks (EPN),Walpole,Hardwick Rd Primary 11kV,EPN-S0000000H6055,11,Budget Estimates Provided,2.0,3.5,,,"52.7406474812884, 0.408034645296999"
+462,Eastern Power Networks (EPN),Walpole,Peterborough North Grid 11kV,EPN-S0000000F6037,11,Connection offers made (not yet accepted by customer),3.0,8.1,,,"52.5938665883332, -0.266549961436331"
+476,Eastern Power Networks (EPN),Walpole,Whittlesey Primary 11kV,EPN-S0000000H6070,11,Connection offers made (not yet accepted by customer),1.0,1.4,,,"52.5506766817983, -0.134797847149669"
+513,Eastern Power Networks (EPN),Watford South,Westbury Primary 11kV,,11,Budget Estimates Provided,1.0,8.0,,,
+514,Eastern Power Networks (EPN),Watford South,Westbury Primary 11kV,,11,Connection offers made (not yet accepted by customer),,,1,2,
+515,Eastern Power Networks (EPN),West Thurrock,Hedley Av Hss 11kV,EPN-S0000000H7010,11,Connection offers made (not yet accepted by customer),2.0,7.5,,,"51.4743281429612, 0.296850411581145"
+539,Eastern Power Networks (EPN),Wymondley,Warren Springs Primary 11kV,,33,Budget Estimates Provided,1.0,10.0,,,
+559,London Power Networks (LPN),City Road,Whiston Rd 11kV,LPN-S000000000495,11,Connection offers made (not yet accepted by customer),1.0,1.1,,,"51.535218783752, -0.0682578840091404"
+565,London Power Networks (LPN),Hurst,Bromley South 11kV,LPN-S000000000808,11,Connection offers made (not yet accepted by customer),1.0,7.8,,,"51.3914391742025, 0.037681542207521"
+572,London Power Networks (LPN),City Road,Calshot St 11kV,LPN-S000000000112,11,Budget Estimates Provided,1.0,11.0,,,"51.5315579574, -0.116871464052454"
+575,London Power Networks (LPN),City Road,Devonshire Square 11kV,LPN-S000000000418,11,Budget Estimates Provided,1.0,1.6,,,"51.5163799124923, -0.0797928643756813"
+582,London Power Networks (LPN),City Road,Finsbury Mkt E 11kV,LPN-S000000000433,11,Connection offers made (not yet accepted by customer),1.0,4.8,,,"51.5210292111895, -0.0831000494376474"
+588,London Power Networks (LPN),City Road,Paternoster 11kV,,11,Connection offers made (not yet accepted by customer),1.0,2.3,,,
+602,London Power Networks (LPN),Hackney 132kV,Hearn St 11kV,,11,Connection offers made (not yet accepted by customer),1.0,2.5,,,
+618,London Power Networks (LPN),Littlebrook,Dartford Grid A 33kV,,33,Connection offers made (not yet accepted by customer),1.0,35.0,,,
+637,London Power Networks (LPN),Wimbledon 1&2 132kV,Brixton B 11kV,LPN-S000000000910,11,Connection offers made (not yet accepted by customer),2.0,2.9,,,"51.4639674784381, -0.113363995300386"
+646,London Power Networks (LPN),Redbridge,Clarks Rd B 11kV,,11,Connection offers made (not yet accepted by customer),2.0,7.9,,,
+648,London Power Networks (LPN),Redbridge,Woodgrange Park 11kV,LPN-S000000000697,11,Budget Estimates Provided,1.0,5.0,,,"51.5477488373816, 0.0492016582075075"
+653,London Power Networks (LPN),St Johns Wood,Ebury Bridge 11kV,LPN-S000000000330,11,Connection offers made (not yet accepted by customer),2.0,3.2,,,"51.4905931459516, -0.148824656020859"
+672,London Power Networks (LPN),West Ham,Glaucus St 11kV,LPN-S000000000634,11,Budget Estimates Provided,1.0,2.9,,,"51.5196034202651, -0.0178779448198617"
+673,London Power Networks (LPN),West Ham,Glaucus St 11kV,LPN-S000000000634,11,Connection offers made (not yet accepted by customer),1.0,4.8,,,"51.5196034202651, -0.0178779448198617"
+683,London Power Networks (LPN),West Ham,West Ham Grid 11kV,LPN-S000000000695,11,Budget Estimates Provided,1.0,1.5,,,"51.5194041870565, 0.00232216044962693"
+689,London Power Networks (LPN),Willesden 132kV,Gibbons Rd 11kV,LPN-S000000000240,11,Connection offers made (accepted by customer),1.0,7.0,,,"51.5463340961811, -0.256605931549261"
+697,London Power Networks (LPN),Wimbledon 1&2 132kV,Montford Place B 11kV,LPN-S000000000958,11,Connection offers made (not yet accepted by customer),3.0,3.9,1,3,"51.4855456102047, -0.113668954301761"
+735,South Eastern Power Networks (SPN),Bolney,Capel Switching Stn 33kV,,33,"Connection offer made (cancelled, expired, superseded)",,,1,10.1,
+792,South Eastern Power Networks (SPN),Chessington,Molesey 11kV,SPN-S000000008437,11,"Connection offer made (cancelled, expired, superseded)",,,1,1.1,"51.4070529386549, -0.373757052190142"
+803,South Eastern Power Networks (SPN),Kemsley,Queenborough 6.6kV,SPN-S000000008368,11,Connection offer made (not yet accepted by customer),1.0,1.5,,,"51.4137737819941, 0.747353832229567"
+832,South Eastern Power Networks (SPN),Laleham,Twickenham 11kV,SPN-S000000008352,11,"Connection offer made (cancelled, expired, superseded)",1.0,3.65,,,"51.4476180721927, -0.340425920684922"
+838,South Eastern Power Networks (SPN),Little Horsted,Little Horsted 132kV,SPN-S000000008613,132,Connection offer made (not yet accepted by customer),1.0,1.3,1,50.9,
+841,South Eastern Power Networks (SPN),Ninfield,Bexhill Town 11kV,SPN-S000000008317,11,Connection offer made (accepted by customer),1.0,1.14,,,"50.8421223599025, 0.488736508959372"
+844,South Eastern Power Networks (SPN),Ninfield,Hailsham 11kV,SPN-S000000008361,11,"Connection offer made (cancelled, expired, superseded)",1.0,1.0,,,"50.8585502066372, 0.24514120744472"
+856,South Eastern Power Networks (SPN),Ninfield,Uckfield 11kV,SPN-S000000008374,11,Connection offer made (not yet accepted by customer),1.0,1.15,,,"50.9700428194242, 0.0948016972566031"
+868,South Eastern Power Networks (SPN),Northfleet,Gravesend West 11kV,,11,"Connection offer made (cancelled, expired, superseded)",1.0,2.62,,,
+890,South Eastern Power Networks (SPN),Richborough,Richborough Grid 33kV,SPN-S000000009157,33,Connection offer made (not yet accepted by customer),,,1,35.7,"51.308514194124, 1.34553332001761"
+913,South Eastern Power Networks (SPN),West Weybridge,Guildford 'B' 11kV,,11,Connection offer made (not yet accepted by customer),2.0,2.95,,,
+31,Eastern Power Networks (EPN),Bramford,Braiswick Primary 11kV,EPN-S0000000H3016,11,Connection offers made (accepted by customer),,,1,1.3,"51.9040458577, 0.88612429122237"
+35,Eastern Power Networks (EPN),Bramford,Bramford Grid 132kV,EPN-S0000000C1068,132,Connection offers made (not yet accepted by customer),2.0,250.0,1,50,"52.0702354374567, 1.06278038805205"
+46,Eastern Power Networks (EPN),Bramford,Claydon Cement Primary 11kV,EPN-S0000000H1059,11,Connection offers made (not yet accepted by customer),3.0,22.3,,,"52.1097479270073, 1.09671905265498"
+62,Eastern Power Networks (EPN),Bramford,Highfield Primary 11kV,EPN-S0000000H1006,11,Connection offers made (not yet accepted by customer),1.0,3.8,,,"52.0769542169972, 1.12812127222429"
+64,Eastern Power Networks (EPN),Bramford,Icklingham Primary 11kV,EPN-S0000000H1015,11,Connection offers made (not yet accepted by customer),1.0,5.0,,,"52.335989068288, 0.562876277898539"
+100,Eastern Power Networks (EPN),Bramford,Wickham Market Grid 33kV,EPN-S0000000D5073,33,Budget Estimates Provided,,,2,50,"52.1874930946002, 1.36753668530461"
+127,Eastern Power Networks (EPN),Burwell,Fulbourn 11kV,EPN-S0000000F4065,11,Connection offers made (not yet accepted by customer),5.0,18.4,,,"52.1880935162035, 0.186107578703625"
+134,Eastern Power Networks (EPN),Burwell,Histon Grid 33kV,EPN-S0000000D4009,33,Connection offers made (accepted by customer),1.0,30.0,,,"52.2461229481053, 0.102236618763704"
+136,Eastern Power Networks (EPN),Burwell,Histon Grid 33kV,EPN-S0000000D4009,33,Connection offers made (not yet accepted by customer),,,1,49.9,"52.2461229481053, 0.102236618763704"
+164,Eastern Power Networks (EPN),Eaton Socon,Bourn Primary 11kV,EPN-S0000000H4036,33,Connection offers made (not yet accepted by customer),,,6,120,"52.2013421618813, -0.0735841187723307"
+178,Eastern Power Networks (EPN),Eaton Socon,Little Barford 132kV,EPN-S0000000C4055,132,Budget Estimates Provided,1.0,240.0,,,"52.2073460897954, -0.272003403194028"
+208,Eastern Power Networks (EPN),Elstree,Park St Primary 11kV,EPN-S0000000H8143,11,Connection offers made (not yet accepted by customer),1.0,1.4,,,"51.7290355318667, -0.343475893046262"
+211,Eastern Power Networks (EPN),Elstree,Shenley Primary 11kV,EPN-S0000000H8080,11,Connection offers made (not yet accepted by customer),2.0,4.2,,,"51.709511304088, -0.296135387653868"
+217,Eastern Power Networks (EPN),Elstree,West Potters Bar Primary 11kV,EPN-S0000000H8083,11,Connection offers made (not yet accepted by customer),2.0,7.7,,,"51.7073052071919, -0.202401263478464"
+626,London Power Networks (LPN),New Cross 132kV,Deptford Grid 11kV,LPN-S000000000786,11,Connection offers made (not yet accepted by customer),3.0,5.5,,,"51.4843563678957, -0.023454090166356"
+627,London Power Networks (LPN),New Cross 132kV,Deptford Grid 11kV,LPN-S000000000786,132,Connection offers made (not yet accepted by customer),1.0,110.0,,,"51.4843563678957, -0.023454090166356"
+634,London Power Networks (LPN),New Cross 66kV,Bengeworth Rd 11kV,LPN-S000000000907,11,"Connection offers made (cancelled, expired, superseded)",1.0,3.5,,,"51.4673121942058, -0.0966399815166458"
+636,London Power Networks (LPN),Wimbledon 1&2 132kV,Brixton B 11kV,LPN-S000000000910,11,Connection offers made (accepted by customer),2.0,6.0,,,"51.4639674784381, -0.113363995300386"
+643,London Power Networks (LPN),New Cross 66kV,Verney Rd 11kV,LPN-S000000000988,11,Connection offers made (accepted by customer),3.0,7.4,,,"51.4845215815859, -0.0646255603318666"
+654,London Power Networks (LPN),St Johns Wood,Leicester Sq 11kV,LPN-S000000000359,11,Budget Estimates Provided,1.0,1.5,,,"51.510123089328, -0.130004889836649"
+658,London Power Networks (LPN),St Johns Wood,Aberdeen Pl A 11kV,,11,Connection offers made (not yet accepted by customer),3.0,3.5,,,
+661,London Power Networks (LPN),City Road,Finsbury Mkt F 33kV,LPN-S000000003433,33,Connection offers made (not yet accepted by customer),1.0,4.8,,,"51.5213652388713, -0.0833021594520701"
+665,London Power Networks (LPN),Beddington,Sydenham Park 11kV,LPN-S000000000885,11,Connection offers made (not yet accepted by customer),4.0,5.3,,,"51.4334401301574, -0.0535779300761823"
+678,London Power Networks (LPN),West Ham,Silvertown B 11kV,LPN-S000000000684,11,Connection offers made (not yet accepted by customer),3.0,4.0,,,"51.5035751427517, 0.0436168634007768"
+698,London Power Networks (LPN),New Cross 132kV,Deptford West 22kV,LPN-S000000003722,11,Budget Estimates Provided,,,1,1,"51.4837341488212, -0.0228184606791258"
+717,South Eastern Power Networks (SPN),Beddington,Addington Local 11kV,SPN-S000000008301,11,"Connection offer made (cancelled, expired, superseded)",1.0,1.5,,,"51.3572982107756, -0.0325765679817731"
+721,South Eastern Power Networks (SPN),Beddington,Beddington 132kV,,132,"Connection offer made (cancelled, expired, superseded)",,,2,489.8,
+733,South Eastern Power Networks (SPN),Bolney,Capel 11kV,SPN-S000000008356,11,"Connection offer made (cancelled, expired, superseded)",1.0,1.3,,,"51.1594569320356, -0.319453087918898"
+750,South Eastern Power Networks (SPN),Bolney,Littlehampton 11kV,SPN-S000000008431,11,Connection offer made (accepted by customer),1.0,1.5,,,"50.810496313354, -0.541866441656141"
+757,South Eastern Power Networks (SPN),Bolney,Nutfield 11kV,SPN-S000000008450,11,Connection offer made (not yet accepted by customer),1.0,1.3,,,"51.2350505862432, -0.150161113209501"
+763,South Eastern Power Networks (SPN),Bolney,Southern Cross 132kV,,132,"Connection offer made (cancelled, expired, superseded)",,,1,50,
+787,South Eastern Power Networks (SPN),Chessington,Epsom 11kV,SPN-S000000008398,11,Connection offer made (not yet accepted by customer),1.0,1.0,,,"51.3337398427694, -0.260030997727387"
+789,South Eastern Power Networks (SPN),Chessington,Kingston 11kV,SPN-S000000008325,11,Connection offer made (accepted by customer),1.0,1.0,,,"51.4137729656541, -0.30601715065195"
+790,South Eastern Power Networks (SPN),Chessington,Kingston 11kV,SPN-S000000008325,11,"Connection offer made (cancelled, expired, superseded)",2.0,5.1,,,"51.4137729656541, -0.30601715065195"
+802,South Eastern Power Networks (SPN),Kemsley,Minster 6.6kV,,11,Connection offer made (not yet accepted by customer),1.0,2.28,,,
+837,South Eastern Power Networks (SPN),Laleham,Twickenham Grid,,33,Budget Estimates Provided,1.0,11.0,,,
+852,South Eastern Power Networks (SPN),Ninfield,Polegate Town 11kV,SPN-S000000008340,11,"Connection offer made (cancelled, expired, superseded)",,,1,6.1,"50.8168801437218, 0.245214725482652"
+853,South Eastern Power Networks (SPN),Ninfield,Polegate Town 11kV,SPN-S000000008340,11,Connection offer made (not yet accepted by customer),1.0,1.8,,,"50.8168801437218, 0.245214725482652"
+859,South Eastern Power Networks (SPN),Ninfield,Brighton Local 33kV,,33,Budget Estimates Provided,1.0,40.2,,,
+870,South Eastern Power Networks (SPN),Northfleet,Northfleet East 132kV,SPN-S000000009937,132,"Connection offer made (cancelled, expired, superseded)",,,1,50.9,"51.4277809482857, 0.330940448884314"
+877,South Eastern Power Networks (SPN),Northfleet,Tunbridge Wells Grid 11kV,SPN-S000000009351,11,Connection offer made (accepted by customer),1.0,1.5,,,"51.1448264315983, 0.273589695249059"
+883,South Eastern Power Networks (SPN),Northfleet,Northfleet East 33kV,,33,Budget Estimates Provided,1.0,10.3,,,
+888,South Eastern Power Networks (SPN),Richborough,Manston 11kV,SPN-S000000008616,11,Connection offer made (not yet accepted by customer),6.0,14.97,,,"51.353037578375, 1.36475273803397"
+892,South Eastern Power Networks (SPN),Richborough,Thanet Grid 33kV,SPN-S000000009949,11,Connection offer made (not yet accepted by customer),1.0,2.7,,,"51.3683813742032, 1.38944566850995"
+893,South Eastern Power Networks (SPN),Richborough,Richborough 132kV,SPN-S000000009957,132,Budget Estimates Provided,,,1,35,"51.3088083682998, 1.34562649107573"
+894,South Eastern Power Networks (SPN),Sellindge,Ashford Central 6.6kV,SPN-S000000008302,6.6,"Connection offer made (cancelled, expired, superseded)",1.0,2.0,,,"51.1453323778251, 0.868133674607256"
+897,South Eastern Power Networks (SPN),Sellindge,Ashford East 11kV,SPN-S000000008402,11,"Connection offer made (cancelled, expired, superseded)",,,1,1,"51.1557116830767, 0.897683010752673"
+914,South Eastern Power Networks (SPN),West Weybridge,Leatherhead Town 11kV,,11,"Connection offer made (cancelled, expired, superseded)",1.0,1.0,,,
+918,South Eastern Power Networks (SPN),West Weybridge,West Weybridge 11kV,SPN-S000000009353,11,"Connection offer made (cancelled, expired, superseded)",3.0,8.36,,,"51.3486201840969, -0.488594053389472"
+921,South Eastern Power Networks (SPN),West Weybridge,Woking 11kV,,11,"Connection offer made (cancelled, expired, superseded)",1.0,1.5,,,
+126,Eastern Power Networks (EPN),Burwell,Fulbourn 11kV,EPN-S0000000F4065,11,Budget Estimates Provided,2.0,5.3,,,"52.1880935162035, 0.186107578703625"
+133,Eastern Power Networks (EPN),Burwell,Histon Grid 33kV,EPN-S0000000D4009,33,Budget Estimates Provided,1.0,40.0,,,"52.2461229481053, 0.102236618763704"
+143,Eastern Power Networks (EPN),Burwell,Longstanton Primary 11kV,EPN-S0000000H4043,11,Connection offers made (not yet accepted by customer),1.0,1.3,,,"52.2657711622001, 0.0318234662643994"
+181,Eastern Power Networks (EPN),Eaton Socon,Little Barford 132kV,EPN-S0000000C4055,33,Connection offers made (not yet accepted by customer),,,1,30,"52.2073460897954, -0.272003403194028"
+190,Eastern Power Networks (EPN),Eaton Socon,Woodwalton Primary 11kV,,33,Connection offers made (not yet accepted by customer),,,2,35,
+207,Eastern Power Networks (EPN),Elstree,Merryhill Primary 11kV,,11,Connection offers made (not yet accepted by customer),1.0,3.7,,,
+209,Eastern Power Networks (EPN),Elstree,Piccotts End Grid 33kV,,11,Budget Estimates Provided,1.0,12.5,,,
+223,Eastern Power Networks (EPN),Mill Hill,Church End Primary 11kV,EPN-S0000000H8090,11,Connection offers made (accepted by customer),1.0,2.9,,,"51.5961025321988, -0.208571164197179"
+241,Eastern Power Networks (EPN),Norwich,Barrack St Primary 11kV,,11,Budget Estimates Provided,1.0,5.2,,,
+250,Eastern Power Networks (EPN),Norwich,East Dereham Primary 11kV,EPN-S0000000H5016,11,Budget Estimates Provided,1.0,4.0,,,"52.6846328706583, 0.945193420743859"
+288,Eastern Power Networks (EPN),Pelham,Belchamp Grid 33kV,EPN-S0000000D1011,33,Connection offers made (accepted by customer),,,1,24.5,"52.0685789944063, 0.605358966326239"
+294,Eastern Power Networks (EPN),Pelham,Dunmow Primary 11kV,EPN-S0000000H3068,11,Budget Estimates Provided,1.0,1.8,,,"51.8680750681031, 0.370549140110797"
+304,Eastern Power Networks (EPN),Pelham,Stansted Airport Main Pr 11kV,,11,Connection offers made (not yet accepted by customer),1.0,1.2,,,
+312,Eastern Power Networks (EPN),Rayleigh,Chelmsford East Local 11kV,EPN-S0000000H3058,11,Budget Estimates Provided,1.0,3.0,,,"51.7159313868667, 0.518478466646667"
+327,Eastern Power Networks (EPN),Rayleigh,Nevendon Grid 33kV,EPN-S0000000D7017,33,Connection offers made (not yet accepted by customer),,,1,21.8,"51.5945902916807, 0.484526289220705"
+346,Eastern Power Networks (EPN),Rye House,Hoddesdon Primary 11kV,EPN-S0000000H7045,11,Budget Estimates Provided,1.0,2.0,,,"51.7610226244789, -0.00978536934773836"
+375,Eastern Power Networks (EPN),Sundon,Luton North Grid 11kV,,11,Connection offers made (not yet accepted by customer),1.0,3.0,,,
+391,Eastern Power Networks (EPN),Sundon,Westoning Grid 33kV,EPN-S0000000D8023,132,Connection offers made (not yet accepted by customer),,,1,40,"51.9863486231079, -0.490245258870721"
+396,Eastern Power Networks (EPN),Tilbury 1&7,Basildon Grid 33kV,EPN-S0000000D7002,33,Connection offers made (not yet accepted by customer),,,4,160.9,"51.5659158377634, 0.391245704650906"
+423,Eastern Power Networks (EPN),Tottenham,Tottenham Grid 33kV,EPN-S0000000D7021,11,Budget Estimates Provided,1.0,2.0,,,"51.6042917650286, -0.0476950548666127"
+424,Eastern Power Networks (EPN),Tottenham,Tottenham Grid 33kV,EPN-S0000000D7021,11,Connection offers made (not yet accepted by customer),1.0,2.0,,,"51.6042917650286, -0.0476950548666127"
+429,Eastern Power Networks (EPN),Walpole,Chatteris Primary 11kV,EPN-S0000000H6053,11,"Connection offers made (cancelled, expired, superseded)",1.0,2.7,,,"52.4557730368212, 0.0396030046490009"
+434,Eastern Power Networks (EPN),Walpole,Farcet Primary 11kV,EPN-S0000000H6017,11,"Connection offers made (cancelled, expired, superseded)",1.0,4.2,,,"52.5367083923244, -0.234107584000454"
+439,Eastern Power Networks (EPN),Walpole,Hempton Grid 33kV,EPN-S0000000D6045,33,Connection offers made (accepted by customer),,,1,30,"52.8294239895079, 0.826556488347647"
+448,Eastern Power Networks (EPN),Walpole,March Grid 33kV,,33,Connection offers made (not yet accepted by customer),,,2,43.4,
+453,Eastern Power Networks (EPN),Walpole,Orton Primary 11kV,EPN-S0000000H6076,11,Budget Estimates Provided,2.0,3.0,2,7,"52.5409901737158, -0.305602475962414"
+467,Eastern Power Networks (EPN),Walpole,Walpole GIS 132kV,EPN-S0000000C6047,132,Budget Estimates Provided,5.0,265.0,2,250,"52.7270572195836, 0.200532896725508"
+473,Eastern Power Networks (EPN),Walpole,Walsoken Grid 33kV,EPN-S0000000D6077,132,Budget Estimates Provided,,,2,90,"52.6607159075881, 0.190011771658331"
+499,Eastern Power Networks (EPN),Watford South,Amersham Primary 11kV,EPN-S0000000H8128,11,Connection offers made (not yet accepted by customer),1.0,1.5,,,"51.6718510984256, -0.592743855667607"
+504,Eastern Power Networks (EPN),Watford South,Holywell Grid 11kV,EPN-S0000000F8095,11,Connection offers made (not yet accepted by customer),2.0,11.5,,,"51.6462484410946, -0.408689669739172"
+505,Eastern Power Networks (EPN),Watford South,Holywell Grid 33kV,EPN-S0000000D8095,33,Connection offers made (not yet accepted by customer),,,1,25,"51.6462181285799, -0.4077801463388"
+538,Eastern Power Networks (EPN),Wymondley,Warren Springs Primary 11kV,,11,Connection offers made (not yet accepted by customer),1.0,5.0,,,
+540,Eastern Power Networks (EPN),Wymondley,West Letchworth Primary 11kV,EPN-S0000000H8106,11,Connection offers made (not yet accepted by customer),2.0,3.3,,,"51.9877928601118, -0.246606575221753"
+549,London Power Networks (LPN),Barking C 132kV,Barking C 132kV,LPN-S000000003617,132,Connection offers made (not yet accepted by customer),1.0,30.0,,,"51.5180876207753, 0.113237412648443"
+570,London Power Networks (LPN),City Road,Beech St A 11kV,,11,Connection offers made (not yet accepted by customer),1.0,2.0,,,
+595,London Power Networks (LPN),Littlebrook,Broadway 11kV,LPN-S000000000705,11,Connection offers made (not yet accepted by customer),1.0,1.8,,,"51.4569801319857, 0.136612148212005"
+603,London Power Networks (LPN),Hackney 132kV,King Henry's Walk 11kV,,11,Connection offers made (not yet accepted by customer),1.0,1.3,,,
+669,London Power Networks (LPN),West Ham,Bow 11kV,LPN-S000000000615,11,"Connection offers made (cancelled, expired, superseded)",2.0,2.8,,,"51.5325947141485, -0.0123825637120869"
+670,London Power Networks (LPN),West Ham,Bow 11kV,LPN-S000000000615,11,Connection offers made (accepted by customer),1.0,2.0,,,"51.5325947141485, -0.0123825637120869"
+681,London Power Networks (LPN),West Ham,West Ferry Circus 11kV,,11,Budget Estimates Provided,1.0,1.6,,,
+686,London Power Networks (LPN),Willesden 132kV,Fulham Palace Rd C 11kV,LPN-S000000000130,11,Connection offers made (not yet accepted by customer),1.0,1.1,,,"51.4906347192032, -0.221826595389063"
+699,London Power Networks (LPN),New Cross 132kV,Deptford West 22kV,LPN-S000000003722,11,Connection offers made (not yet accepted by customer),2.0,3.5,1,1,"51.4837341488212, -0.0228184606791258"
+712,London Power Networks (LPN),Wimbledon 3&4 132kV,Moreton Street 11kV,LPN-S000000000365,11,Connection offers made (not yet accepted by customer),5.0,6.6,,,"51.490067479721, -0.134945395376996"
+732,South Eastern Power Networks (SPN),Bolney,Buxted 33kV,,11,"Connection offer made (cancelled, expired, superseded)",1.0,1.0,,,
+747,South Eastern Power Networks (SPN),Bolney,Kemp Town 11kV,,11,Connection offer made (accepted by customer),1.0,1.5,,,
+755,South Eastern Power Networks (SPN),Bolney,North Shoreham 11kV,SPN-S000000008448,11,Connection offer made (not yet accepted by customer),1.0,1.43,,,"50.8396838818792, -0.283101798592647"
+761,South Eastern Power Networks (SPN),Bolney,Redhill Primary 11kV,SPN-S000000008337,11,Connection offer made (accepted by customer),1.0,2.0,,,"51.2485179586861, -0.159608101776517"
+762,South Eastern Power Networks (SPN),Bolney,Reigate 11kV,,11,Connection offer made (accepted by customer),1.0,2.7,,,
+793,South Eastern Power Networks (SPN),Chessington,Surbiton 11kV,SPN-S000000008497,11,Connection offer made (not yet accepted by customer),1.0,2.75,,,"51.3857338867586, -0.294822435083174"
+809,South Eastern Power Networks (SPN),Kemsley,Sittingbourne West 11kV,SPN-S000000008444,11,"Connection offer made (cancelled, expired, superseded)",1.0,4.48,,,"51.3412853502412, 0.715243085981626"
+827,South Eastern Power Networks (SPN),Kingsnorth,Chatham Hill 11kV,SPN-S000000008645,11,Budget Estimates Provided,1.0,6.0,,,"51.3775931642859, 0.54051329034077"
+833,South Eastern Power Networks (SPN),Laleham,Laleham 132kV,,132,Budget Estimates Provided,,,1,40,
+840,South Eastern Power Networks (SPN),Littlebrook,Swanscombe 11kV,SPN-S000000008522,11,Connection offer made (not yet accepted by customer),1.0,1.3,,,"51.4525158455439, 0.303009715678596"
+842,South Eastern Power Networks (SPN),Ninfield,Bexhill Town 11kV,SPN-S000000008317,11,"Connection offer made (cancelled, expired, superseded)",3.0,8.53,,,"50.8421223599025, 0.488736508959372"
+843,South Eastern Power Networks (SPN),Ninfield,Eastbourne 11kV,SPN-S000000009318,11,"Connection offer made (cancelled, expired, superseded)",1.0,2.12,,,"50.7834058091451, 0.297337015481939"
+886,South Eastern Power Networks (SPN),Richborough,Manston 11kV,SPN-S000000008616,11,Connection offer made (accepted by customer),1.0,1.4,1,7.8,"51.353037578375, 1.36475273803397"
+899,South Eastern Power Networks (SPN),Sellindge,Betteshanger Grid 33kV,,33,"Connection offer made (cancelled, expired, superseded)",,,1,27.6,
+909,South Eastern Power Networks (SPN),West Weybridge,C.E.R.L. 11kV,SPN-S000000008495,11,Connection offer made (not yet accepted by customer),1.0,1.05,,,"51.3056366806059, -0.342396176970815"
+922,South Eastern Power Networks (SPN),West Weybridge,Guildford 'A' 11kV,SPN-S000000008521,11,Budget Estimates Provided,,,1,6.5,"51.2459436246394, -0.578257455447134"
+17,Eastern Power Networks (EPN),Braintree,Braintree 132kV,EPN-S0000000C3013,132,"Connection offers made (cancelled, expired, superseded)",,,1,50,"51.8651165966756, 0.576208159481259"
+19,Eastern Power Networks (EPN),Braintree,Braintree Depot Primary 11kV,EPN-S0000000H3014,11,Connection offers made (not yet accepted by customer),2.0,8.8,,,"51.8824042477402, 0.572372304518029"
+37,Eastern Power Networks (EPN),Bramford,Brandon Primary 11kV,EPN-S0000000H1034,11,Connection offers made (not yet accepted by customer),1.0,1.2,,,"52.4469882311603, 0.594335889936824"
+41,Eastern Power Networks (EPN),Bramford,Bury Grid 11kV,EPN-S0000000H1012,11,Connection offers made (not yet accepted by customer),2.0,4.6,,,"52.2397029827595, 0.722409751813484"
+92,Eastern Power Networks (EPN),Bramford,Thetford Grid 33kV,EPN-S0000000H1056,33,Connection offers made (not yet accepted by customer),1.0,20.0,,,"52.3872190958013, 0.736478402750066"
+105,Eastern Power Networks (EPN),Brimsdown,Cockfosters Primary 11kV,,11,Budget Estimates Provided,1.0,2.2,,,
+125,Eastern Power Networks (EPN),Burwell,Exning Primary 11kV,EPN-S0000000H4028,11,Connection offers made (not yet accepted by customer),1.0,1.3,,,"52.2630006848979, 0.378869936663472"
+166,Eastern Power Networks (EPN),Eaton Socon,Eaton Socon Grid 132kV,EPN-S0000000C4076,132,"Connection offers made (cancelled, expired, superseded)",,,1,99.8,"52.2147364575905, -0.301694937097924"
+193,Eastern Power Networks (EPN),Elstree,Cell Barnes Primary 11kV,EPN-S0000000H8154,11,Budget Estimates Provided,2.0,15.0,,,"51.7449568993288, -0.312894402496118"
+195,Eastern Power Networks (EPN),Elstree,Elstree GIS 132kV,EPN-S0000000C8245,132,Budget Estimates Provided,3.0,360.0,,,"51.6591401724472, -0.342180028458686"
+239,Eastern Power Networks (EPN),Norwich,Attleborough Primary 11kV,EPN-S0000000H5063,11,Budget Estimates Provided,1.0,2.0,,,"52.5127748708014, 1.02374428979723"
+243,Eastern Power Networks (EPN),Norwich,Caister Primary 11kV,EPN-S0000000H5029,11,Connection offers made (not yet accepted by customer),1.0,1.6,,,"52.6362246939816, 1.72899218500177"
+245,Eastern Power Networks (EPN),Norwich,Cringleford Primary 11kV,EPN-S0000000H5075,11,Connection offers made (not yet accepted by customer),1.0,1.3,,,"52.6056121345765, 1.24344681403197"
+247,Eastern Power Networks (EPN),Norwich,Earlham Grid 33kV,,33,Budget Estimates Provided,1.0,7.5,,,
+275,Eastern Power Networks (EPN),Norwich,Scottow Primary 11kV,EPN-S0000000H5059,33,Budget Estimates Provided,,,1,5,"52.7639546306434, 1.35128488915742"
+283,Eastern Power Networks (EPN),Norwich,West Beckham Primary 11kV,,33,Budget Estimates Provided,,,1,15,
+298,Eastern Power Networks (EPN),Pelham,Hanger Lea Primary 11kV,EPN-S0000000H7110,11,Connection offers made (not yet accepted by customer),2.0,3.6,,,"51.8826131700358, 0.169887616403001"
+318,Eastern Power Networks (EPN),Rayleigh,Kingswood Primary 11kV,EPN-S0000000H7099,11,Connection offers made (not yet accepted by customer),1.0,2.2,,,"51.5674367093621, 0.453044252537402"
+328,Eastern Power Networks (EPN),Rayleigh,Rayleigh Main 132kV,EPN-S0000000C7130,132,Budget Estimates Provided,,,8,441,"51.5942853304779, 0.566379638723486"
+329,Eastern Power Networks (EPN),Rayleigh,Rayleigh Main 132kV,EPN-S0000000C7130,132,"Connection offers made (cancelled, expired, superseded)",,,1,5.1,"51.5942853304779, 0.566379638723486"
+340,Eastern Power Networks (EPN),Rye House,Epping Grid 33kV,EPN-S0000000D7064,33,Connection offers made (not yet accepted by customer),1.0,25.0,,,"51.7076219518458, 0.1189767440755"
+360,Eastern Power Networks (EPN),Sundon,Arla Dairies Primary 11kV,EPN-S0000000H8049,11,Budget Estimates Provided,,,4,22,"51.8148792190328, -0.724937196192035"
+397,Eastern Power Networks (EPN),Tilbury 1&7,Bata Primary 11kV,EPN-S0000000H7024,11,Budget Estimates Provided,1.0,2.0,1,1.4,"51.4828533656379, 0.414566324166197"
+411,Eastern Power Networks (EPN),Tottenham,Bruce Gv Primary 11kV,EPN-S0000000H7086,11,Connection offers made (not yet accepted by customer),1.0,2.0,,,"51.5986179175394, -0.0760371122722799"
+456,Eastern Power Networks (EPN),Walpole,Outwell Moors Primary 11kV,,11,"Connection offers made (cancelled, expired, superseded)",1.0,2.0,,,
+477,Eastern Power Networks (EPN),Walpole,Whittlesey Primary 11kV,EPN-S0000000H6070,33,Budget Estimates Provided,,,2,24.4,"52.5506766817983, -0.134797847149669"
+518,Eastern Power Networks (EPN),Willesden,Bee Primary 11kV,EPN-S0000000H8050,11,"Connection offers made (cancelled, expired, superseded)",2.0,3.9,,,"51.5592363151467, -0.27107272199345"
+537,Eastern Power Networks (EPN),Wymondley,Warren Springs Primary 11kV,,11,Budget Estimates Provided,1.0,4.0,,,
+568,London Power Networks (LPN),City Road,Bankside C 11kV,LPN-S000000000916,11,Connection offers made (not yet accepted by customer),3.0,8.9,,,"51.5076883210996, -0.0988197556324697"
+620,London Power Networks (LPN),Lodge Road,Hyde Park Estate A 11kV,LPN-S000000000348,11,Connection offers made (not yet accepted by customer),1.0,1.0,,,"51.5161722923754, -0.167432586141222"
+623,London Power Networks (LPN),Lodge Road,Lithos Rd A 11kV,LPN-S000000000252,11,Connection offers made (not yet accepted by customer),1.0,1.8,,,"51.5488064069183, -0.185982309384059"
+640,London Power Networks (LPN),New Cross 66kV,South Bank 11kV,LPN-S000000000979,11,Budget Estimates Provided,1.0,6.1,,,"51.5058188057305, -0.114474517975939"
+705,London Power Networks (LPN),Wimbledon 3&4 132kV,Gorringe Park 11kV,LPN-S000000001037,11,Budget Estimates Provided,1.0,2.5,,,"51.4114161262174, -0.156410405717846"
+708,London Power Networks (LPN),Wimbledon 3&4 132kV,Lombard Rd B 11kV,LPN-S000000001040,11,Connection offers made (not yet accepted by customer),8.0,10.3,,,"51.4705616087648, -0.177194384934582"
+718,South Eastern Power Networks (SPN),Beddington,Beddington 11kV,SPN-S000000009303,11,Connection offer made (accepted by customer),2.0,5.2,,,"51.3719861093954, -0.127104364067281"
+734,South Eastern Power Networks (SPN),Bolney,Capel Switching Stn 33kV,,33,Connection offer made (accepted by customer),,,1,10.1,
+736,South Eastern Power Networks (SPN),Bolney,Cranleigh 11kV,SPN-S000000008382,11,Connection offer made (not yet accepted by customer),2.0,3.28,,,"51.1511090372096, -0.504034443005657"
+774,South Eastern Power Networks (SPN),Canterbury,Canterbury South 132kV,SPN-S000000009910,33,"Connection offer made (cancelled, expired, superseded)",,,1,9.6,"51.2903822205798, 1.08629855100767"
+811,South Eastern Power Networks (SPN),Kemsley,Hartley Grid 33kV,SPN-S000000009122,33,Budget Estimates Provided,,,1,49.9,"51.0933573232757, 0.506617889066594"
+822,South Eastern Power Networks (SPN),Kingsnorth,Rainham Mark 11kV,,11,Connection offer made (not yet accepted by customer),1.0,4.29,,,
+824,South Eastern Power Networks (SPN),Kingsnorth,Strood 11kV,,11,Connection offer made (not yet accepted by customer),,,1,1,
+831,South Eastern Power Networks (SPN),Laleham,Twickenham 11kV,SPN-S000000008352,11,Connection offer made (accepted by customer),1.0,1.5,,,"51.4476180721927, -0.340425920684922"
+835,South Eastern Power Networks (SPN),Laleham,Laleham 132kV,,132,Budget Estimates Provided,1.0,100.0,,,
+846,South Eastern Power Networks (SPN),Ninfield,Hartley Grid 33kV,SPN-S000000009122,33,Connection offer made (not yet accepted by customer),,,1,10.2,"51.0933573232757, 0.506617889066594"
+851,South Eastern Power Networks (SPN),Ninfield,Ninfield Grid 33kV,SPN-S000000009136,33,Connection offer made (accepted by customer),,,,,"50.8816454089355, 0.450365711314911"
+855,South Eastern Power Networks (SPN),Ninfield,Ruckinge 132kV,,33,"Connection offer made (cancelled, expired, superseded)",,,3,66.3,
+858,South Eastern Power Networks (SPN),Ninfield,Hartley Grid 33kV,SPN-S000000009122,132,Budget Estimates Provided,,,1,99.9,"51.0933573232757, 0.506617889066594"
+867,South Eastern Power Networks (SPN),Northfleet,Gravesend Town 6.6kV,SPN-S000000008409,11,Connection offer made (not yet accepted by customer),1.0,2.0,,,"51.4415090524139, 0.383920024603466"
+878,South Eastern Power Networks (SPN),Northfleet,Tunbridge Wells Grid 11kV,SPN-S000000009351,11,Connection offer made (not yet accepted by customer),2.0,2.54,,,"51.1448264315983, 0.273589695249059"
+29,Eastern Power Networks (EPN),Bramford,Barsham Primary 11kV,EPN-S0000000H5086,11,Connection offers made (not yet accepted by customer),1.0,1.3,,,"52.4532767001013, 1.54050733845233"
+48,Eastern Power Networks (EPN),Bramford,Debenham Primary 11kV,,11,Budget Estimates Provided,1.0,2.5,,,
+54,Eastern Power Networks (EPN),Bramford,Fore Hamlet Primary 11kV,EPN-S0000000H1045,11,Connection offers made (not yet accepted by customer),,,2,9.7,"52.0524483362074, 1.16906488753244"
+96,Eastern Power Networks (EPN),Bramford,Warren Heath 11kV,EPN-S0000000H1009,11,Connection offers made (not yet accepted by customer),1.0,8.8,,,"52.0379058498408, 1.20095134894891"
+98,Eastern Power Networks (EPN),Bramford,Water Ln Primary 11kV,EPN-S0000000H1021,11,Connection offers made (not yet accepted by customer),1.0,1.3,,,"52.4154043568626, 0.743753608578155"
+109,Eastern Power Networks (EPN),Brimsdown,South Chingford Primary 11kV,EPN-S0000000H7019,11,Budget Estimates Provided,1.0,3.6,,,"51.6193492874587, -0.00938849076082086"
+121,Eastern Power Networks (EPN),Burwell,Burwell Local Grid 33kV,EPN-S0000000D4033,33,Budget Estimates Provided,,,2,50,"52.2774898958568, 0.317253092352746"
+148,Eastern Power Networks (EPN),Burwell,Milton Rd Primary 11kV,EPN-S0000000H4078,11,Connection offers made (not yet accepted by customer),3.0,19.7,,,"52.2296894150331, 0.146987205457097"
+171,Eastern Power Networks (EPN),Eaton Socon,Huntingdon Grid 11kV,EPN-S0000000F4068,11,Budget Estimates Provided,1.0,4.0,,,"52.3407372864036, -0.183060686204365"
+173,Eastern Power Networks (EPN),Eaton Socon,Huntingdon Grid 33kV,EPN-S0000000D4068,132,Budget Estimates Provided,,,1,75,"52.3407372864036, -0.183060686204365"
+203,Eastern Power Networks (EPN),Elstree,Hemel East Primary 11kV,,11,Connection offers made (not yet accepted by customer),2.0,10.0,,,
+228,Eastern Power Networks (EPN),Mill Hill,Colindale Grid 11kV,EPN-S0000000F8073,11,"Connection offers made (cancelled, expired, superseded)",4.0,14.9,,,"51.5923388863545, -0.255408189186246"
+236,Eastern Power Networks (EPN),Mill Hill,North Finchley Primary 11kV,EPN-S0000000H8040,11,Budget Estimates Provided,1.0,2.0,,,"51.6158790310613, -0.181243677192809"
+242,Eastern Power Networks (EPN),Norwich,Bradwell Primary 11kV,EPN-S0000000H5003,11,Connection offers made (not yet accepted by customer),4.0,6.8,,,"52.5551920087145, 1.71151379971712"
+269,Eastern Power Networks (EPN),Norwich,Sall Grid 33kV,EPN-S0000000D5023,11,Connection offers made (not yet accepted by customer),,,1,5,"52.7731302289295, 1.15120280997115"
+293,Eastern Power Networks (EPN),Pelham,Coopers End Primary 33kV,EPN-S0000000G7062,33,Connection offers made (not yet accepted by customer),1.0,18.3,,,"51.8848602738811, 0.256922843888867"
+303,Eastern Power Networks (EPN),Pelham,Saffron Walden Primary 11kV,,11,Budget Estimates Provided,5.0,12.8,,,
+326,Eastern Power Networks (EPN),Rayleigh,Nevendon Grid 33kV,EPN-S0000000D7017,33,Budget Estimates Provided,,,2,50,"51.5945902916807, 0.484526289220705"
+365,Eastern Power Networks (EPN),Sundon,Brogborough Primary 11kV,EPN-S0000000H4061,11,Connection offers made (not yet accepted by customer),1.0,1.5,,,"52.0413941149378, -0.588910667443523"
+366,Eastern Power Networks (EPN),Sundon,Buckingham Rd Primary 11kV,EPN-S0000000H8071,11,Connection offers made (not yet accepted by customer),2.0,4.2,,,"51.8331984751452, -0.818275557970287"
+389,Eastern Power Networks (EPN),Sundon,Tring Primary 11kV,EPN-S0000000H8063,11,Connection offers made (not yet accepted by customer),1.0,3.0,,,"51.8003824667437, -0.666349701660406"
+398,Eastern Power Networks (EPN),Tilbury 1&7,Bata Primary 11kV,EPN-S0000000H7024,11,Connection offers made (not yet accepted by customer),1.0,1.8,,,"51.4828533656379, 0.414566324166197"
+444,Eastern Power Networks (EPN),Walpole,Kings Lynn Grid  33kV,EPN-S0000000D6046,33,"Connection offers made (cancelled, expired, superseded)",,,3,64.7,"52.7576600302301, 0.399591493869985"
+447,Eastern Power Networks (EPN),Walpole,March Grid 33kV,,33,"Connection offers made (cancelled, expired, superseded)",,,1,28.7,
+472,Eastern Power Networks (EPN),Walpole,Walsoken Grid 11kV,EPN-S0000000H6077,11,"Connection offers made (cancelled, expired, superseded)",1.0,1.5,,,"52.6607115379039, 0.19024815471233"
+481,Eastern Power Networks (EPN),Warley,Harold Wood Primary 11kV,EPN-S0000000H7067,11,Connection offers made (not yet accepted by customer),1.0,1.5,,,"51.5998196971724, 0.238066785985992"
+501,Eastern Power Networks (EPN),Watford South,Frogmore Primary 11kV,,11,Connection offers made (not yet accepted by customer),1.0,1.2,,,
+554,London Power Networks (LPN),Barking West 33kV,Axe St 11kV,,11,Connection offers made (accepted by customer),1.0,5.0,1,2.5,
+584,London Power Networks (LPN),City Road,Limeburner Ln 11kV,LPN-S000000000463,11,Budget Estimates Provided,1.0,2.5,,,"51.5148261005768, -0.103120189656031"
+606,London Power Networks (LPN),Hackney 132kV,Kings Yard B 11kV,,11,Budget Estimates Provided,2.0,6.5,,,
+675,London Power Networks (LPN),West Ham,Old School Close 11kV,LPN-S000000000771,11,Budget Estimates Provided,1.0,1.5,,,"51.4949792975668, 0.00710063938132778"
+676,London Power Networks (LPN),West Ham,Old School Close 11kV,LPN-S000000000771,11,Connection offers made (not yet accepted by customer),3.0,6.6,,,"51.4949792975668, 0.00710063938132778"
+702,London Power Networks (LPN),Wimbledon 3&4 132kV,Burlington Rd 11kV,,11,"Connection offers made (cancelled, expired, superseded)",1.0,2.3,,,
+704,London Power Networks (LPN),Wimbledon 3&4 132kV,Durnsford Rd 11kV,LPN-S000000001027,11,Connection offers made (not yet accepted by customer),4.0,9.3,,,"51.4302890842008, -0.191457167996828"
+710,London Power Networks (LPN),Wimbledon 3&4 132kV,Merton 11kV,LPN-S000000001059,11,Connection offers made (not yet accepted by customer),4.0,6.1,,,"51.4101517646396, -0.189519772997844"
+719,South Eastern Power Networks (SPN),Beddington,Beddington 11kV,SPN-S000000009303,11,"Connection offer made (cancelled, expired, superseded)",1.0,1.5,,,"51.3719861093954, -0.127104364067281"
+731,South Eastern Power Networks (SPN),Bolney,Brighton Town 11kV,SPN-S000000008307,11,Connection offer made (not yet accepted by customer),1.0,1.0,,,"50.8249300033946, -0.14134268577123"
+744,South Eastern Power Networks (SPN),Bolney,Horsham Grid 11kV,SPN-S000000009324,11,Connection offer made (accepted by customer),1.0,1.25,,,"51.0629074689347, -0.321824140409602"
+745,South Eastern Power Networks (SPN),Bolney,Horsham Grid 11kV,SPN-S000000009324,11,Connection offer made (not yet accepted by customer),1.0,1.8,,,"51.0629074689347, -0.321824140409602"
+765,South Eastern Power Networks (SPN),Bolney,Southwick 11kV,,11,Connection offer made (not yet accepted by customer),2.0,2.0,,,
+773,South Eastern Power Networks (SPN),Canterbury,Canterbury North 132kV,SPN-S000000009961,132,Connection offer made (accepted by customer),,,2,122.3,"51.2926877378814, 1.09470204093013"
+778,South Eastern Power Networks (SPN),Canterbury,Faversham 11kV,SPN-S000000008405,11,Connection offer made (not yet accepted by customer),1.0,1.82,1,1,"51.3126157196458, 0.911552531759317"
+804,South Eastern Power Networks (SPN),Kemsley,Sheerness 6.6kV,,6.6,Connection offer made (not yet accepted by customer),,,1,1,
+836,South Eastern Power Networks (SPN),Laleham,Twickenham 11kV,SPN-S000000008352,11,Budget Estimates Provided,1.0,0.0,,,"51.4476180721927, -0.340425920684922"
+865,South Eastern Power Networks (SPN),Northfleet,Gravesend South 11kV,,11,Connection offer made (not yet accepted by customer),1.0,3.8,,,
+880,South Eastern Power Networks (SPN),Northfleet,Crossways 11KV,SPN-S000000008626,11,Budget Estimates Provided,,,1,10,"51.45127307568, 0.249850123222409"
+889,South Eastern Power Networks (SPN),Richborough,Richborough 132kV,SPN-S000000009957,132,"Connection offer made (cancelled, expired, superseded)",1.0,400.0,1,51,"51.3088083682998, 1.34562649107573"
+903,South Eastern Power Networks (SPN),Sellindge,Sellindge 132kV,SPN-S000000009962,132,Connection offer made (not yet accepted by customer),,,2,285.6,"51.1063321591089, 0.977459050642279"
+703,London Power Networks (LPN),Wimbledon 3&4 132kV,Dukes Ave 11kV,LPN-S000000001025,11,Budget Estimates Provided,1.0,1.5,,,"51.4043906535647, -0.251916156301172"
+724,South Eastern Power Networks (SPN),Beddington,Purley Local 11kV,SPN-S000000008341,11,Connection offer made (not yet accepted by customer),1.0,1.0,,,"51.3401270967876, -0.112121674562762"
+749,South Eastern Power Networks (SPN),Bolney,Lewes 132kV,SPN-S000000009930,132,"Connection offer made (cancelled, expired, superseded)",,,1,101.9,"50.887026626275, 0.0413117260834207"
+779,South Eastern Power Networks (SPN),Canterbury,Maidstone Grid North 11kV,SPN-S000000009532,11,Connection offer made (not yet accepted by customer),2.0,2.0,,,"51.2747667972431, 0.533544689283763"
+800,South Eastern Power Networks (SPN),Kemsley,Grovehurst Local 11kV,SPN-S000000008585,11,"Connection offer made (cancelled, expired, superseded)",1.0,1.5,,,"51.3660454355275, 0.7537622694201"
+810,South Eastern Power Networks (SPN),Kemsley,Sittingbourne West 11kV,SPN-S000000008444,11,Connection offer made (not yet accepted by customer),2.0,7.44,,,"51.3412853502412, 0.715243085981626"
+826,South Eastern Power Networks (SPN),Kingsnorth,Kingsnorth Grid 132kV,SPN-S000000009976,132,Budget Estimates Provided,,,3,170,"51.4197964486026, 0.596060453884657"
+839,South Eastern Power Networks (SPN),Littlebrook,Littlebrook Park 11kV,,11,Connection offer made (not yet accepted by customer),1.0,2.5,,,
+874,South Eastern Power Networks (SPN),Northfleet,Paddock Wood 11kV,SPN-S000000008454,11,Connection offer made (not yet accepted by customer),1.0,4.6,,,"51.1774454877242, 0.392619520989536"
+898,South Eastern Power Networks (SPN),Sellindge,Ashford East 11kV,SPN-S000000008402,11,Connection offer made (not yet accepted by customer),2.0,6.0,,,"51.1557116830767, 0.897683010752673"
+907,South Eastern Power Networks (SPN),West Weybridge,Byfleet 11kV,SPN-S000000009309,11,Connection offer made (accepted by customer),1.0,6.0,,,"51.3396754394767, -0.50703539580967"
+6,Eastern Power Networks (EPN),Amersham,Wendover Primary 11kV,EPN-S0000000H8046,11,Budget Estimates Provided,2.0,2.9,,,"51.7591797837155, -0.743603919196674"
+16,Eastern Power Networks (EPN),Biggleswade,Biggleswade East 33kV,EPN-S0000000H4172,132,Connection offers made (not yet accepted by customer),1.0,200.0,,,
+23,Eastern Power Networks (EPN),Braintree,West Braintree Primary 11kV,EPN-S0000000H3053,11,Connection offers made (not yet accepted by customer),1.0,1.6,,,"51.857471175924, 0.519827025455693"
+39,Eastern Power Networks (EPN),Bramford,Bury Grid 11kV,EPN-S0000000H1012,11,Budget Estimates Provided,1.0,4.0,,,"52.2397029827595, 0.722409751813484"
+60,Eastern Power Networks (EPN),Bramford,Hacheston Primary 11kV,EPN-S0000000H5017,11,Connection offers made (not yet accepted by customer),1.0,1.2,,,"52.1580954428407, 1.38056807729276"
+83,Eastern Power Networks (EPN),Bramford,Stanton Primary 11kV,EPN-S0000000H1030,11,Budget Estimates Provided,3.0,17.7,1,3,"52.3235359453843, 0.86595500148954"
+106,Eastern Power Networks (EPN),Brimsdown,Cockfosters Primary 11kV,,11,Connection offers made (not yet accepted by customer),1.0,2.2,,,
+128,Eastern Power Networks (EPN),Burwell,Fulbourn Grid 33kV,,132,Budget Estimates Provided,1.0,40.0,,,
+132,Eastern Power Networks (EPN),Burwell,Fulbourn Grid 33kV,,33,Connection offers made (not yet accepted by customer),,,1,0,
+138,Eastern Power Networks (EPN),Burwell,Histon Primary 11kV,EPN-S0000000H4066,11,Connection offers made (not yet accepted by customer),2.0,5.3,,,"52.2438524986778, 0.106523770553321"
+149,Eastern Power Networks (EPN),Burwell,Radnor Primary 11kV,EPN-S0000000H4011,11,Budget Estimates Provided,3.0,38.5,,,"52.1892767752753, 0.141703679326459"
+167,Eastern Power Networks (EPN),Eaton Socon,Edison Rd Grid 11kV,EPN-S0000000F4039,11,Budget Estimates Provided,1.0,4.2,,,"52.1499445946593, -0.420771552305244"
+170,Eastern Power Networks (EPN),Eaton Socon,Harrowden Primary 11kV,EPN-S0000000H4040,11,Connection offers made (not yet accepted by customer),1.0,1.6,,,"52.1192971820726, -0.453638240462025"
+194,Eastern Power Networks (EPN),Elstree,Cell Barnes Primary 11kV,EPN-S0000000H8154,11,Connection offers made (accepted by customer),1.0,1.5,,,"51.7449568993288, -0.312894402496118"
+205,Eastern Power Networks (EPN),Elstree,Industrial Primary 11kV,EPN-S0000000H8140,11,Connection offers made (not yet accepted by customer),3.0,8.5,,,"51.7640284851224, -0.437099345235418"
+210,Eastern Power Networks (EPN),Elstree,Piccotts End Grid 33kV,,33,Budget Estimates Provided,2.0,55.0,,,
+212,Eastern Power Networks (EPN),Elstree,Tunnel Primary 11kV,EPN-S0000000H8104,11,Budget Estimates Provided,4.0,8.7,,,"51.7651303357817, -0.239016222977169"
+227,Eastern Power Networks (EPN),Mill Hill,Colindale Grid 11kV,EPN-S0000000F8073,11,Connection offers made (accepted by customer),2.0,12.1,,,"51.5923388863545, -0.255408189186246"
+253,Eastern Power Networks (EPN),Norwich,Gorleston Grid 33kV,EPN-S0000000D5066,33,Connection offers made (not yet accepted by customer),1.0,14.0,,,"52.5668164479376, 1.70510092036558"
+255,Eastern Power Networks (EPN),Norwich,GT Yarmouth Grid 11kV,EPN-S0000000H5067,11,Connection offers made (not yet accepted by customer),2.0,2.9,1,5,"52.5916026624618, 1.73095825038195"
+257,Eastern Power Networks (EPN),Norwich,Hapton Primary 11kV,EPN-S0000000H5079,11,Connection offers made (not yet accepted by customer),3.0,9.5,,,"52.5210806354643, 1.21151309264698"
+258,Eastern Power Networks (EPN),Norwich,Lowestoft Grid 11kV,EPN-S0000000H5056,11,Connection offers made (not yet accepted by customer),1.0,1.2,,,"52.4787216662553, 1.7393627127201"
+266,Eastern Power Networks (EPN),Norwich,Norwich Main 132kV,EPN-S0000000C5012,132,Connection offers made (not yet accepted by customer),,,2,740,"52.5740279616305, 1.27181803305154"
+273,Eastern Power Networks (EPN),Norwich,Scottow Primary 11kV,EPN-S0000000H5059,11,"Connection offers made (cancelled, expired, superseded)",2.0,10.5,,,"52.7639546306434, 1.35128488915742"
+284,Eastern Power Networks (EPN),Norwich,Wymondham Primary 11kV,,11,Budget Estimates Provided,2.0,4.0,,,
+299,Eastern Power Networks (EPN),Pelham,Haverhill Primary 11kV,,11,Connection offers made (not yet accepted by customer),1.0,2.2,,,
+306,Eastern Power Networks (EPN),Pelham,Thaxted Grid 33kV,EPN-S0000000D3051,33,Connection offers made (accepted by customer),,,1,10.9,"51.9655875581503, 0.360450203279172"
+331,Eastern Power Networks (EPN),Rayleigh,South Chelmsford Primary 11kV,,11,Budget Estimates Provided,1.0,1.5,,,
+339,Eastern Power Networks (EPN),Rye House,East Hertford Primary 11kV,,11,Connection offers made (not yet accepted by customer),1.0,1.4,,,
+341,Eastern Power Networks (EPN),Rye House,Glaxo Primary 11kV,EPN-S0000000H7147,11,Connection offers made (not yet accepted by customer),3.0,6.9,,,"51.8110498843781, -0.0464321708018063"
+345,Eastern Power Networks (EPN),Rye House,Harlow West Grid 33kV,EPN-S0000000H7148,33,Budget Estimates Provided,1.0,20.0,,,"51.7637540094441, 0.0664180955934256"
+356,Eastern Power Networks (EPN),Rye House,West Hertford Primary 11kV,,11,Connection offers made (not yet accepted by customer),1.0,1.0,,,
+358,Eastern Power Networks (EPN),Sundon,Ampthill Primary 11kV,EPN-S0000000H4034,11,"Connection offers made (cancelled, expired, superseded)",1.0,1.2,,,"52.0161458337469, -0.479027055786056"
+359,Eastern Power Networks (EPN),Sundon,Ampthill Primary 11kV,EPN-S0000000H4034,11,Connection offers made (not yet accepted by customer),1.0,1.5,,,"52.0161458337469, -0.479027055786056"
+364,Eastern Power Networks (EPN),Sundon,Brogborough Primary 11kV,EPN-S0000000H4061,11,Budget Estimates Provided,1.0,1.5,,,"52.0413941149378, -0.588910667443523"
+368,Eastern Power Networks (EPN),Sundon,Capability Green Primary 11kV,,11,Budget Estimates Provided,3.0,20.0,,,
+370,Eastern Power Networks (EPN),Sundon,Exchange St Primary 11kV,EPN-S0000000H8134,11,Connection offers made (not yet accepted by customer),3.0,13.8,,,"51.8151557378537, -0.806996714262566"
+377,Eastern Power Networks (EPN),Sundon,Luton St Marys Primary 11kV,EPN-S0000000H8015,11,Budget Estimates Provided,1.0,3.0,,,"51.8790843403445, -0.407397767829372"
+378,Eastern Power Networks (EPN),Sundon,Marston Rd Grid 33kV,EPN-S0000000D4022,33,Budget Estimates Provided,,,1,30,"52.0786249846535, -0.534225220770837"
+379,Eastern Power Networks (EPN),Sundon,Marston Rd Grid 33kV,EPN-S0000000D4022,33,"Connection offers made (cancelled, expired, superseded)",1.0,34.0,,,"52.0786249846535, -0.534225220770837"
+394,Eastern Power Networks (EPN),Tilbury 1&7,Basildon Grid 33kV,EPN-S0000000D7002,33,Connection offers made (accepted by customer),,,1,10,"51.5659158377634, 0.391245704650906"
+405,Eastern Power Networks (EPN),Tilbury 1&7,Tilbury Compact Grid 33kV,EPN-S0000000D7157,33,Budget Estimates Provided,3.0,45.0,,,"51.4616445382479, 0.379959301231353"
+407,Eastern Power Networks (EPN),Tilbury 1&7,Tilbury Local Primary 11kV,EPN-S0000000H7117,11,Connection offers made (not yet accepted by customer),1.0,2.3,,,"51.4613613691232, 0.380174914271063"
+422,Eastern Power Networks (EPN),Tottenham,Tottenham Grid 11kV,EPN-S0000000F7021,11,"Connection offers made (cancelled, expired, superseded)",1.0,12.5,,,"51.6042917650286, -0.0476950548666127"
+425,Eastern Power Networks (EPN),Tottenham,Watsons Rd Primary 11kV,EPN-S0000000H7160,11,"Connection offers made (cancelled, expired, superseded)",1.0,1.2,,,"51.5981687089704, -0.112615667177853"
+435,Eastern Power Networks (EPN),Walpole,Farcet Primary 11kV,EPN-S0000000H6017,11,Connection offers made (not yet accepted by customer),2.0,4.3,,,"52.5367083923244, -0.234107584000454"
+468,Eastern Power Networks (EPN),Walpole,Walpole GIS 132kV,EPN-S0000000C6047,132,Connection offers made (accepted by customer),,,1,249.9,"52.7270572195836, 0.200532896725508"
+487,Eastern Power Networks (EPN),Warley,Little Belhus Primary 11kV,EPN-S0000000H7153,11,Connection offers made (not yet accepted by customer),1.0,1.1,,,"51.5137737420582, 0.290316289695831"
+489,Eastern Power Networks (EPN),Warley,Noak Hill Primary 11kV,EPN-S0000000H7018,11,Budget Estimates Provided,1.0,1.9,,,"51.6093940021589, 0.208322486451367"
+511,Eastern Power Networks (EPN),Watford South,South Ruislip Primary 11kV,EPN-S0000000H8147,11,Connection offers made (not yet accepted by customer),2.0,2.7,,,"51.5559078026622, -0.392413815337398"
+531,Eastern Power Networks (EPN),Wymondley,Royston Primary 11kV,EPN-S0000000H7031,11,"Connection offers made (cancelled, expired, superseded)",1.0,1.5,,,"52.0523002712469, -0.0218071435024984"
+543,Eastern Power Networks (EPN),Wymondley,Wymondley Grid 33kV,,33,Budget Estimates Provided,,,2,18,
+550,London Power Networks (LPN),Barking C 132kV,Nelson St 11kV,LPN-S000000000664,11,Connection offers made (not yet accepted by customer),1.0,5.0,,,"51.5323619330958, 0.056930913265542"
+558,London Power Networks (LPN),Barking West 33kV,Sewell Rd B 11kV,LPN-S000000000784,11,Connection offers made (not yet accepted by customer),1.0,6.6,,,"51.4975086118619, 0.112429403388337"
+564,London Power Networks (LPN),Brimsdown,Fairlop Rd 11kV,LPN-S000000000526,11,Connection offers made (not yet accepted by customer),1.0,1.2,,,"51.5931847836538, 0.0841496939754189"
+578,London Power Networks (LPN),City Road,Finsbury Market B 33kV,LPN-S000000003429,11,Connection offers made (not yet accepted by customer),1.0,1.5,,,"51.5210451401544, -0.0818741388720065"
+589,London Power Networks (LPN),City Road,City Road 132kV,LPN-S000000003413,11,Connection offers made (not yet accepted by customer),1.0,1.9,,,"51.5301825926568, -0.0957345663309726"
+597,London Power Networks (LPN),Littlebrook,Erith 11kV,,11,Connection offers made (not yet accepted by customer),3.0,3.3,,,
+609,London Power Networks (LPN),Hackney 66kV,Blackhorse Lane 11kV,LPN-S000000000503,11,Connection offers made (not yet accepted by customer),1.0,3.5,,,"51.5896895284359, -0.040236782608312"
+613,London Power Networks (LPN),Hackney 66kV,Hackney C 6.6kV,LPN-S000000000442,6.6,Connection offers made (not yet accepted by customer),6.0,8.6,,,"51.5584498697911, -0.0408010245815846"
+622,London Power Networks (LPN),Lodge Road,Hyde Park Estate B 11kV,LPN-S000000000349,11,Connection offers made (not yet accepted by customer),2.0,2.3,,,"51.5159237960819, -0.167067826060955"
+27,Eastern Power Networks (EPN),Bramford,A.D Plant British Sugar 11kV,,33,"Connection offers made (cancelled, expired, superseded)",1.0,63.0,,,
+36,Eastern Power Networks (EPN),Bramford,Bramford Grid 132kV,EPN-S0000000C1068,33,Connection offers made (not yet accepted by customer),,,1,12,"52.0702354374567, 1.06278038805205"
+58,Eastern Power Networks (EPN),Bramford,Groton Primary 11kV,,33,Connection offers made (not yet accepted by customer),,,1,8,
+85,Eastern Power Networks (EPN),Bramford,Stowmarket Grid 11kV,EPN-S0000000H1018,11,Budget Estimates Provided,1.0,2.5,,,"52.1711061546669, 1.01718263923797"
+91,Eastern Power Networks (EPN),Bramford,Thetford Grid 33kV,EPN-S0000000H1056,33,Budget Estimates Provided,,,2,55,"52.3872190958013, 0.736478402750066"
+103,Eastern Power Networks (EPN),Brimsdown,Brimsdown Grid 132kV,EPN-S0000000C7084,132,Connection offers made (not yet accepted by customer),2.0,350.0,1,50,"51.6641350951355, -0.024488960820121"
+108,Eastern Power Networks (EPN),Brimsdown,North Chingford Primary 11kV,EPN-S0000000H7103,11,Budget Estimates Provided,3.0,14.0,,,"51.6317792481935, 0.00316351237424025"
+110,Eastern Power Networks (EPN),Brimsdown,The Cross 11kV,EPN-S0000000H7080,11,"Connection offers made (cancelled, expired, superseded)",1.0,7.0,,,"51.6859357578055, -0.0252037357225468"
+135,Eastern Power Networks (EPN),Burwell,Histon Grid 33kV,EPN-S0000000D4009,33,"Connection offers made (cancelled, expired, superseded)",1.0,35.0,,,"52.2461229481053, 0.102236618763704"
+153,Eastern Power Networks (EPN),Burwell,Sawston Primary 11kV,EPN-S0000000H4045,11,Connection offers made (not yet accepted by customer),2.0,5.0,,,"52.1228628290103, 0.153988197899791"
+157,Eastern Power Networks (EPN),Burwell,Thompsons Ln Primary 11kV,EPN-S0000000H4015,11,Connection offers made (not yet accepted by customer),1.0,9.7,,,"52.2103624177746, 0.117819739783256"
+188,Eastern Power Networks (EPN),Eaton Socon,St Ives Primary 11kV,EPN-S0000000H4046,11,Connection offers made (not yet accepted by customer),2.0,2.9,,,"52.3348370403047, -0.0673623505827406"
+235,Eastern Power Networks (EPN),Mill Hill,Kingsbury Primary 11kV,,11,Connection offers made (accepted by customer),1.0,1.5,,,
+237,Eastern Power Networks (EPN),Mill Hill,North Finchley Primary 11kV,EPN-S0000000H8040,11,Connection offers made (accepted by customer),1.0,1.8,,,"51.6158790310613, -0.181243677192809"
+256,Eastern Power Networks (EPN),Norwich,Hapton Primary 11kV,EPN-S0000000H5079,11,"Connection offers made (cancelled, expired, superseded)",1.0,5.9,,,"52.5210806354643, 1.21151309264698"
+264,Eastern Power Networks (EPN),Norwich,Norwich Main 132kV,EPN-S0000000C5012,132,Connection offers made (accepted by customer),,,1,228,"52.5740279616305, 1.27181803305154"
+285,Eastern Power Networks (EPN),Norwich,Wymondham Primary 11kV,,11,Connection offers made (not yet accepted by customer),1.0,5.0,,,
+311,Eastern Power Networks (EPN),Rayleigh,Chelmsford East Grid 33kV,,33,Budget Estimates Provided,3.0,125.0,,,
+337,Eastern Power Networks (EPN),Rayleigh,Tiptree Primary 11kV,EPN-S0000000H3052,11,Budget Estimates Provided,,,3,5,"51.8172098443126, 0.745469825888134"
+371,Eastern Power Networks (EPN),Sundon,Houghton Regis Primary 11kV,EPN-S0000000H8076,11,Connection offers made (not yet accepted by customer),2.0,3.7,,,"51.8962802853099, -0.513540473304274"
+393,Eastern Power Networks (EPN),Sundon,Westoning Grid 33kV,EPN-S0000000D8023,33,Connection offers made (not yet accepted by customer),1.0,20.0,1,25,"51.9863486231079, -0.490245258870721"
+404,Eastern Power Networks (EPN),Tilbury 1&7,Tilbury Compact Grid 33kV,EPN-S0000000D7157,11,Budget Estimates Provided,1.0,10.3,,,"51.4616445382479, 0.379959301231353"
+431,Eastern Power Networks (EPN),Walpole,Downham Market Primary 11kV,,11,Budget Estimates Provided,,,1,6,
+443,Eastern Power Networks (EPN),Walpole,Kings Lynn Grid  33kV,EPN-S0000000D6046,33,Budget Estimates Provided,,,2,45,"52.7576600302301, 0.399591493869985"
+445,Eastern Power Networks (EPN),Walpole,Littleport Primary 11kV,EPN-S0000000H4042,11,Connection offers made (not yet accepted by customer),1.0,1.4,,,"52.4613078512641, 0.30833290984839"
+454,Eastern Power Networks (EPN),Walpole,Orton Primary 11kV,EPN-S0000000H6076,11,Connection offers made (not yet accepted by customer),2.0,6.3,,,"52.5409901737158, -0.305602475962414"
+479,Eastern Power Networks (EPN),Warley,Billericay East Primary 11kV,,11,Connection offers made (not yet accepted by customer),1.0,1.6,,,
+480,Eastern Power Networks (EPN),Warley,Gooseberry Grn Primary 11kV,EPN-S0000000H7008,11,Connection offers made (not yet accepted by customer),1.0,1.5,,,"51.631567606277, 0.404784258995191"
+486,Eastern Power Networks (EPN),Warley,Little Belhus Primary 11kV,EPN-S0000000H7153,11,Budget Estimates Provided,4.0,9.3,,,"51.5137737420582, 0.290316289695831"
+503,Eastern Power Networks (EPN),Watford South,Holywell Grid 11kV,EPN-S0000000F8095,11,Budget Estimates Provided,1.0,1.5,,,"51.6462484410946, -0.408689669739172"
+519,Eastern Power Networks (EPN),Willesden,Bee Primary 11kV,EPN-S0000000H8050,11,Connection offers made (not yet accepted by customer),1.0,2.3,,,"51.5592363151467, -0.27107272199345"
+522,Eastern Power Networks (EPN),Wymondley,Bassingbourn Primary 11kV,EPN-S0000000H4002,11,Budget Estimates Provided,2.0,6.5,,,"52.0770616090003, -0.0524382952721497"
+529,Eastern Power Networks (EPN),Wymondley,North Stevenage Primary 11kV,EPN-S0000000H8126,11,Budget Estimates Provided,1.0,4.0,,,"51.9134388637182, -0.207150204562261"
+545,Eastern Power Networks (EPN),Wymondley,Wymondley Main 132kV,EPN-S0000000C8085,132,Connection offers made (accepted by customer),,,1,100,"51.9283155122106, -0.24984194511522"
+546,Eastern Power Networks (EPN),Wymondley,Wymondley Main 132kV,EPN-S0000000C8085,132,Connection offers made (not yet accepted by customer),1.0,100.0,,,"51.9283155122106, -0.24984194511522"
+567,London Power Networks (LPN),St Johns Wood,Back Hill B 33kV,,33,Budget Estimates Provided,3.0,50.6,,,
+574,London Power Networks (LPN),City Road,City Rd B 11kV,LPN-S000000000415,11,Connection offers made (not yet accepted by customer),2.0,8.3,,,"51.5304462401097, -0.0959109927882756"
+590,London Power Networks (LPN),City Road,Whiston Rd 11kV,LPN-S000000000495,11,Connection offers made (not yet accepted by customer),2.0,2.0,,,"51.535218783752, -0.0682578840091404"
+591,London Power Networks (LPN),Hurst,Dermody Rd 11kV,LPN-S000000000822,11,Budget Estimates Provided,1.0,2.0,,,"51.4568744152811, -0.00433090329903443"
+608,London Power Networks (LPN),Hackney 66kV,Blackhorse Lane 11kV,LPN-S000000000503,11,Budget Estimates Provided,1.0,3.0,,,"51.5896895284359, -0.040236782608312"
+633,London Power Networks (LPN),New Cross 66kV,Bengeworth Rd 11kV,LPN-S000000000907,11,Budget Estimates Provided,2.0,16.0,,,"51.4673121942058, -0.0966399815166458"
+642,London Power Networks (LPN),New Cross 66kV,Verney Rd 11kV,LPN-S000000000988,11,Connection offers made (accepted by customer),3.0,6.0,,,"51.4845215815859, -0.0646255603318666"
+650,London Power Networks (LPN),St Johns Wood,Duke St B 11kV,LPN-S000000000328,11,Connection offers made (accepted by customer),1.0,1.0,,,"51.5131357357545, -0.151571579928347"
+660,London Power Networks (LPN),City Road,Back Hill A 11kV,,11,Connection offers made (not yet accepted by customer),1.0,3.0,,,
+674,London Power Networks (LPN),Islington,Holloway 11kV,LPN-S000000000457,11,Connection offers made (not yet accepted by customer),4.0,6.6,,,"51.5525115520409, -0.115818725945562"
+680,London Power Networks (LPN),West Ham,Simpsons Road 11kV,LPN-S000000000683,11,Connection offers made (not yet accepted by customer),2.0,10.0,,,"51.5081993422367, -0.017263322694357"
+694,London Power Networks (LPN),Willesden Grid 66 kV,Townmead B 11kV,LPN-S000000000183,11,Budget Estimates Provided,1.0,2.9,,,"51.4683797625302, -0.186107198713778"
+720,South Eastern Power Networks (SPN),Beddington,Beddington 11kV,SPN-S000000009303,11,Connection offer made (not yet accepted by customer),1.0,1.4,,,"51.3719861093954, -0.127104364067281"
+728,South Eastern Power Networks (SPN),Bolney,Ashington 11kV,SPN-S000000008308,11,Connection offer made (accepted by customer),,,1,5.1,"50.927579327247, -0.390106657160305"
+752,South Eastern Power Networks (SPN),Bolney,Moulsecoomb 11kV,SPN-S000000008334,11,"Connection offer made (cancelled, expired, superseded)",2.0,2.88,,,"50.8473224372834, -0.118817551503344"
+767,South Eastern Power Networks (SPN),Bolney,West Worthing 11kV,SPN-S000000008514,11,Connection offer made (not yet accepted by customer),1.0,1.0,,,"50.8177200338333, -0.411178152730659"
+769,South Eastern Power Networks (SPN),Bolney,Worthing Town 11kV,SPN-S000000008354,11,Connection offer made (accepted by customer),1.0,2.0,,,"50.8164174514942, -0.366348944137833"
+784,South Eastern Power Networks (SPN),Chessington,Berrylands 11kV,SPN-S000000008622,11,Connection offer made (not yet accepted by customer),2.0,4.3,,,"51.3980498212875, -0.287162363796428"
+906,South Eastern Power Networks (SPN),Sellindge,Folkestone Total,,132,Budget Estimates Provided,1.0,10.0,,,
+911,South Eastern Power Networks (SPN),West Weybridge,Guildford 'A' 11kV,SPN-S000000008521,11,Connection offer made (accepted by customer),2.0,3.5,,,"51.2459436246394, -0.578257455447134"
+916,South Eastern Power Networks (SPN),West Weybridge,Merrow 11kV,SPN-S000000008435,11,Connection offer made (not yet accepted by customer),2.0,2.8,,,"51.2510701377563, -0.545385789244119"
+920,South Eastern Power Networks (SPN),West Weybridge,Weybridge 11kV,SPN-S000000008515,11,"Connection offer made (cancelled, expired, superseded)",1.0,2.05,,,"51.372205223817, -0.467674894016223"
+723,South Eastern Power Networks (SPN),Beddington,Croydon A 6.6kV,SPN-S000000008314,11,Connection offer made (not yet accepted by customer),1.0,1.0,,,"51.3769894270233, -0.112186085977346"
+729,South Eastern Power Networks (SPN),Bolney,Bolney Grid 33kV,SPN-S000000009105,33,Connection offer made (accepted by customer),,,1,5.1,"50.9752640799548, -0.238321656356606"
+737,South Eastern Power Networks (SPN),Bolney,Crawley Ind East 11kV,SPN-S000000008383,11,Connection offer made (not yet accepted by customer),1.0,2.5,,,"51.1354393754552, -0.169253596536083"
+740,South Eastern Power Networks (SPN),Bolney,Goddards Green 11kV,SPN-S000000008563,11,Connection offer made (not yet accepted by customer),3.0,6.39,,,"50.9651272440846, -0.157215000364173"
+764,South Eastern Power Networks (SPN),Bolney,Southgate 11kV,SPN-S000000008657,11,"Connection offer made (cancelled, expired, superseded)",1.0,2.0,,,"51.1049953072768, -0.202111196018126"
+776,South Eastern Power Networks (SPN),Canterbury,Canterbury Town 11kV,,11,Connection offer made (not yet accepted by customer),1.0,1.05,,,
+799,South Eastern Power Networks (SPN),Hurst,Orpington 11kV,,11,Connection offer made (not yet accepted by customer),2.0,5.25,,,
+849,South Eastern Power Networks (SPN),Ninfield,Ninfield 132kV,SPN-S000000009936,132,Connection offer made (accepted by customer),,,3,163.2,"50.8807166803942, 0.449620344398189"
+864,South Eastern Power Networks (SPN),Northfleet,Grain 11kV,,11,"Connection offer made (cancelled, expired, superseded)",1.0,1.6,,,
+895,South Eastern Power Networks (SPN),Sellindge,Ashford Central 6.6kV,SPN-S000000008302,6.6,Connection offer made (not yet accepted by customer),3.0,4.89,,,"51.1453323778251, 0.868133674607256"
+900,South Eastern Power Networks (SPN),Sellindge,Dover 11kV,SPN-S000000008391,11,"Connection offer made (cancelled, expired, superseded)",,,1,1,"51.1291430170208, 1.31104348609471"
+20,Eastern Power Networks (EPN),Braintree,Chelmsford North Grid 11kV,EPN-S0000000F3002,11,Budget Estimates Provided,6.0,24.8,2,8,"51.745123835035, 0.472294515971274"
+47,Eastern Power Networks (EPN),Bramford,Cliff Quay Grid 33kV,EPN-S0000000D1041,33,Connection offers made (not yet accepted by customer),,,2,25,"52.0355241339362, 1.16362334640208"
+59,Eastern Power Networks (EPN),Bramford,Gusford Hall Primary 11kV,EPN-S0000000H1053,11,Budget Estimates Provided,1.0,3.0,,,"52.0372213814933, 1.1280427759983"
+67,Eastern Power Networks (EPN),Bramford,Ipswich Grid 11kV,EPN-S0000000H1024,11,Connection offers made (not yet accepted by customer),1.0,1.8,,,"52.05576103445, 1.13603519740954"
+97,Eastern Power Networks (EPN),Bramford,Water Ln Primary 11kV,EPN-S0000000H1021,11,Budget Estimates Provided,2.0,3.3,,,"52.4154043568626, 0.743753608578155"
+102,Eastern Power Networks (EPN),Brimsdown,Brimsdown Grid 132kV,EPN-S0000000C7084,132,Budget Estimates Provided,2.0,100.0,,,"51.6641350951355, -0.024488960820121"
+112,Eastern Power Networks (EPN),Brimsdown,Waltham Abbey Primary 11kV,,11,Budget Estimates Provided,4.0,10.1,,,
+160,Eastern Power Networks (EPN),Eaton Socon,Austin Canons Primary 11kV,EPN-S0000000H4074,11,Connection offers made (not yet accepted by customer),1.0,3.8,1,1.8,"52.1267409229522, -0.482627126732345"
+168,Eastern Power Networks (EPN),Eaton Socon,Edison Rd Grid 11kV,EPN-S0000000F4039,11,Connection offers made (not yet accepted by customer),2.0,4.7,,,"52.1499445946593, -0.420771552305244"
+185,Eastern Power Networks (EPN),Eaton Socon,Sandy Primary 11kV,EPN-S0000000H4053,11,Budget Estimates Provided,1.0,1.8,,,"52.1264114767571, -0.281052735846842"
+202,Eastern Power Networks (EPN),Elstree,Hemel East Primary 11kV,,11,Budget Estimates Provided,1.0,2.0,,,
+226,Eastern Power Networks (EPN),Mill Hill,Colindale Grid 11kV,EPN-S0000000F8073,11,Budget Estimates Provided,1.0,2.3,,,"51.5923388863545, -0.255408189186246"
+246,Eastern Power Networks (EPN),Norwich,Earlham 132kV,EPN-S0000000D5076,132,Connection offers made (not yet accepted by customer),,,2,100,"52.6298924830174, 1.2283936849219"
+248,Eastern Power Networks (EPN),Norwich,Earlham Grid 33kV,,33,Connection offers made (not yet accepted by customer),,,4,100,
+277,Eastern Power Networks (EPN),Norwich,Thorpe Gd Local 11kV,EPN-S0000000F5014,33,Budget Estimates Provided,1.0,12.0,,,"52.6225373412088, 1.32065922068105"
+291,Eastern Power Networks (EPN),Pelham,Bishops Stortford Grid 33kV,EPN-S0000000D7059,33,Connection offers made (not yet accepted by customer),,,3,65,"51.8782623044817, 0.141840215127366"
+292,Eastern Power Networks (EPN),Pelham,Cherry Grn Primary 11kV,EPN-S0000000H7123,11,Connection offers made (not yet accepted by customer),3.0,9.3,,,"51.920484920332, -0.027607509225887"
+296,Eastern Power Networks (EPN),Pelham,Hanger Lea Primary 11kV,EPN-S0000000H7110,11,Budget Estimates Provided,3.0,5.6,,,"51.8826131700358, 0.169887616403001"
+297,Eastern Power Networks (EPN),Pelham,Hanger Lea Primary 11kV,EPN-S0000000H7110,11,Connection offers made (accepted by customer),1.0,1.5,,,"51.8826131700358, 0.169887616403001"
+319,Eastern Power Networks (EPN),Rayleigh,Lexden Primary 11kV,EPN-S0000000H3005,11,Budget Estimates Provided,1.0,1.3,,,"51.8912262371223, 0.856813327531307"
+336,Eastern Power Networks (EPN),Rayleigh,The Limes 11kV,EPN-S0000000H7116,11,Connection offers made (not yet accepted by customer),2.0,2.6,,,"51.5818013435224, 0.451205245298775"
+383,Eastern Power Networks (EPN),Sundon,Sundon 33kV,EPN-S0000000D8086,11,"Connection offers made (cancelled, expired, superseded)",,,1,5,"51.9296757555707, -0.498023771548751"
+384,Eastern Power Networks (EPN),Sundon,Sundon 33kV,EPN-S0000000D8086,132,Budget Estimates Provided,1.0,50.0,1,70,"51.9296757555707, -0.498023771548751"
+392,Eastern Power Networks (EPN),Sundon,Westoning Grid 33kV,EPN-S0000000D8023,33,Budget Estimates Provided,,,1,25,"51.9863486231079, -0.490245258870721"
+413,Eastern Power Networks (EPN),Tottenham,Hornsey Grid 11kV,,11,Connection offers made (not yet accepted by customer),1.0,1.2,,,
+440,Eastern Power Networks (EPN),Walpole,Hempton Grid 33kV,EPN-S0000000D6045,33,Connection offers made (not yet accepted by customer),,,1,35,"52.8294239895079, 0.826556488347647"
+458,Eastern Power Networks (EPN),Walpole,Peterborough Central 33kV,EPN-S0000000D6060,33,Budget Estimates Provided,,,2,55,"52.5677892580101, -0.243114218957207"
+463,Eastern Power Networks (EPN),Walpole,Peterborough South Grid 11kV,EPN-S0000000F6039,11,Budget Estimates Provided,1.0,3.5,,,"52.5561169884105, -0.261857475722751"
+474,Eastern Power Networks (EPN),Walpole,Walsoken Grid 33kV,EPN-S0000000D6077,33,Budget Estimates Provided,,,3,60,"52.6607159075881, 0.190011771658331"
+498,Eastern Power Networks (EPN),Warley,Warley Grid 132kV,EPN-S0000000C7159,132,Connection offers made (not yet accepted by customer),1.0,45.0,,,"51.552727386882, 0.30063947297193"
+506,Eastern Power Networks (EPN),Watford South,Kings Langley Primary 11kV,EPN-S0000000H8035,11,Budget Estimates Provided,1.0,10.8,,,"51.7127893787513, -0.449056448411597"
+516,Eastern Power Networks (EPN),Willesden,Atlas Road Primary 11kV,,11,Budget Estimates Provided,1.0,6.0,,,
+542,Eastern Power Networks (EPN),Wymondley,Wymondley Grid 33kV,,11,Budget Estimates Provided,,,4,22,
+548,London Power Networks (LPN),Barking C 132kV,Barking C 132kV,LPN-S000000003617,132,Connection offers made (accepted by customer),1.0,360.0,,,"51.5180876207753, 0.113237412648443"
+557,London Power Networks (LPN),Barking West 33kV,Sewell Rd B 11kV,LPN-S000000000784,11,Budget Estimates Provided,2.0,24.0,,,"51.4975086118619, 0.112429403388337"
+573,London Power Networks (LPN),City Road,Calshot St 11kV,LPN-S000000000112,11,Connection offers made (not yet accepted by customer),1.0,11.0,,,"51.5315579574, -0.116871464052454"
+581,London Power Networks (LPN),City Road,Finsbury Mkt D 11kV,LPN-S000000000430,11,Connection offers made (not yet accepted by customer),1.0,3.5,,,"51.5212888749755, -0.0830314868258846"
+587,London Power Networks (LPN),City Road,Newington House B 11kV,LPN-S000000000965,11,Connection offers made (not yet accepted by customer),4.0,6.0,,,"51.4980113660721, -0.0998707974429451"
+600,London Power Networks (LPN),Hackney 132kV,Hackney Supergrid 132 kV,LPN-S000000003439,132,Budget Estimates Provided,2.0,120.0,,,"51.5592519604115, -0.0414446105122552"
+611,London Power Networks (LPN),Hackney 66kV,Hackney C 6.6kV,LPN-S000000000442,6.6,"Connection offers made (cancelled, expired, superseded)",1.0,1.5,,,"51.5584498697911, -0.0408010245815846"
+8,Eastern Power Networks (EPN),Barking 132kV,Romford Primary 11kV,EPN-S0000000H7150,11,Connection offers made (not yet accepted by customer),4.0,10.2,,,"51.5748985672836, 0.181826447810081"
+13,Eastern Power Networks (EPN),Biggleswade,Biggleswade East 33kV,EPN-S0000000H4172,11,Budget Estimates Provided,1.0,6.2,,,
+42,Eastern Power Networks (EPN),Bramford,Bury Grid 33kV,EPN-S0000000D1012,11,Connection offers made (not yet accepted by customer),,,1,1.4,"52.2399236387066, 0.722979910939776"
+44,Eastern Power Networks (EPN),Bramford,Chisbon Heath Primary 11kV,EPN-S0000000H3059,11,Connection offers made (not yet accepted by customer),1.0,1.8,,,"51.8252113234989, 1.09282901387655"
+68,Eastern Power Networks (EPN),Bramford,Lakenheath Primary 11kV,EPN-S0000000H1026,11,Budget Estimates Provided,1.0,1.2,,,"52.3916739903062, 0.532251794753097"
+72,Eastern Power Networks (EPN),Bramford,Leiston Primary 11kV,EPN-S0000000H5019,11,Connection offers made (not yet accepted by customer),1.0,3.0,,,"52.1950596083139, 1.5549135063644"
+74,Eastern Power Networks (EPN),Bramford,Martlesham Primary 11kV,,11,Connection offers made (accepted by customer),1.0,1.5,,,
+79,Eastern Power Networks (EPN),Bramford,Roundwood Rd Primary 11kV,EPN-S0000000H1049,11,Budget Estimates Provided,1.0,1.2,,,"52.0622863132542, 1.18245663277473"
+84,Eastern Power Networks (EPN),Bramford,Stanton Primary 11kV,EPN-S0000000H1030,11,Connection offers made (not yet accepted by customer),1.0,5.0,,,"52.3235359453843, 0.86595500148954"
+87,Eastern Power Networks (EPN),Bramford,Stowmarket Grid 33kV,EPN-S0000000D1018,33,Budget Estimates Provided,1.0,25.0,,,"52.1711061546669, 1.01718263923797"
+88,Eastern Power Networks (EPN),Bramford,Stowmarket Grid 33kV,EPN-S0000000D1018,33,Connection offers made (not yet accepted by customer),,,2,50,"52.1711061546669, 1.01718263923797"
+113,Eastern Power Networks (EPN),Brimsdown,Waltham Abbey Primary 11kV,,11,Connection offers made (accepted by customer),1.0,4.8,,,
+120,Eastern Power Networks (EPN),Burwell,Barnwell Primary 11kV,EPN-S0000000H4057,11,Connection offers made (not yet accepted by customer),1.0,1.3,,,"52.212949291766, 0.147819289333912"
+150,Eastern Power Networks (EPN),Burwell,Radnor Primary 11kV,EPN-S0000000H4011,11,"Connection offers made (cancelled, expired, superseded)",,,1,1.4,"52.1892767752753, 0.141703679326459"
+155,Eastern Power Networks (EPN),Burwell,Storeys Way Primary 11kV,EPN-S0000000H4054,11,Connection offers made (not yet accepted by customer),2.0,3.0,,,"52.2129414001622, 0.105353642405404"
+179,Eastern Power Networks (EPN),Eaton Socon,Little Barford 132kV,EPN-S0000000C4055,33,Budget Estimates Provided,1.0,40.0,,,"52.2073460897954, -0.272003403194028"
+189,Eastern Power Networks (EPN),Eaton Socon,Woodwalton Primary 11kV,,11,Connection offers made (not yet accepted by customer),3.0,5.8,1,10,
+198,Eastern Power Networks (EPN),Elstree,Hartspring Primary 11kV,EPN-S0000000H8117,11,Budget Estimates Provided,1.0,1.5,,,"51.665757160053, -0.363252601804091"
+199,Eastern Power Networks (EPN),Elstree,Hartspring Primary 11kV,EPN-S0000000H8117,11,Connection offers made (not yet accepted by customer),2.0,4.0,,,"51.665757160053, -0.363252601804091"
+200,Eastern Power Networks (EPN),Elstree,Hatfield Grid 33kV,EPN-S0000000D8119,11,"Connection offers made (cancelled, expired, superseded)",1.0,2.0,,,"51.7368023047392, -0.23881421148122"
+224,Eastern Power Networks (EPN),Mill Hill,Church End Primary 11kV,EPN-S0000000H8090,11,"Connection offers made (cancelled, expired, superseded)",1.0,2.9,,,"51.5961025321988, -0.208571164197179"
+260,Eastern Power Networks (EPN),Norwich,Mulbarton Primary 11kV,EPN-S0000000H5022,11,Budget Estimates Provided,1.0,2.7,1,0.7,"52.5640147325315, 1.25498546739366"
+278,Eastern Power Networks (EPN),Norwich,Thorpe Grid 33kV,EPN-S0000000D5014,33,Connection offers made (not yet accepted by customer),1.0,5.1,1,15,"52.6223410122001, 1.32092513603909"
+289,Eastern Power Networks (EPN),Pelham,Belchamp Grid 33kV,EPN-S0000000D1011,33,"Connection offers made (cancelled, expired, superseded)",,,1,30,"52.0685789944063, 0.605358966326239"
+300,Eastern Power Networks (EPN),Pelham,Pelham 132kV,EPN-S0000000C7070,132,Budget Estimates Provided,3.0,1350.0,,,"51.9351365482506, 0.118115255066342"
+309,Eastern Power Networks (EPN),Rayleigh,Berechurch Primary 11kV,,11,Connection offers made (not yet accepted by customer),1.0,1.0,,,
+320,Eastern Power Networks (EPN),Rayleigh,Maldon Causeway Primary 11kV,,11,Budget Estimates Provided,1.0,2.0,,,
+321,Eastern Power Networks (EPN),Rayleigh,Maldon Grid 33kV,EPN-S0000000D3038,33,Budget Estimates Provided,1.0,15.7,,,"51.7253682121654, 0.659107740468937"
+324,Eastern Power Networks (EPN),Rayleigh,Marks Tey Primary 11kV,EPN-S0000000H3049,11,Connection offers made (not yet accepted by customer),4.0,5.7,,,"51.8762753945112, 0.771662296345226"
+348,Eastern Power Networks (EPN),Rye House,Lindsey St Primary 11kV,EPN-S0000000H7152,11,Connection offers made (not yet accepted by customer),1.0,3.5,,,"51.7043064090065, 0.115333755355965"
+353,Eastern Power Networks (EPN),Rye House,South Harlow Primary 11kV,EPN-S0000000H7115,11,Budget Estimates Provided,2.0,4.7,,,"51.7564133892486, 0.101061384135965"
+382,Eastern Power Networks (EPN),Sundon,Stopsley Primary 33/11kV,EPN-S0000000H8019,11,Connection offers made (not yet accepted by customer),2.0,11.4,,,"51.9013508449566, -0.395708824296217"
+385,Eastern Power Networks (EPN),Sundon,Sundon 33kV,EPN-S0000000D8086,33,"Connection offers made (cancelled, expired, superseded)",,,2,14,"51.9296757555707, -0.498023771548751"
+390,Eastern Power Networks (EPN),Sundon,West Bedford Primary 11kV,EPN-S0000000H4092,11,Budget Estimates Provided,1.0,2.6,,,"52.1067228834886, -0.505589460401651"
+395,Eastern Power Networks (EPN),Tilbury 1&7,Basildon Grid 33kV,EPN-S0000000D7002,33,"Connection offers made (cancelled, expired, superseded)",,,1,26,"51.5659158377634, 0.391245704650906"
+400,Eastern Power Networks (EPN),Tilbury 1&7,Langdon Primary 11kV,EPN-S0000000H7100,11,Budget Estimates Provided,1.0,3.0,,,"51.5656442751686, 0.391332461295263"
+401,Eastern Power Networks (EPN),Tilbury 1&7,Marshfoot Road Primary 11kV,,11,Budget Estimates Provided,1.0,3.0,,,
+402,Eastern Power Networks (EPN),Tilbury 1&7,Rainbow Ln Primary 11kV,EPN-S0000000H7149,11,Budget Estimates Provided,3.0,7.0,,,"51.5136599247456, 0.446016706109825"
+412,Eastern Power Networks (EPN),Tottenham,Hornsey Grid 11kV,,11,Budget Estimates Provided,1.0,2.0,,,
+415,Eastern Power Networks (EPN),Tottenham,Palmers Grn Grid 11kV,EPN-S0000000F7030,11,Budget Estimates Provided,2.0,3.2,,,"51.6160617212447, -0.113057905611158"
+417,Eastern Power Networks (EPN),Tottenham,Ponders End Primary 11kV,EPN-S0000000H7071,11,Budget Estimates Provided,1.0,1.2,,,"51.6423477766754, -0.0422885115616133"
+421,Eastern Power Networks (EPN),Tottenham,Tottenham Grid 11kV,EPN-S0000000F7021,11,Budget Estimates Provided,1.0,12.5,,,"51.6042917650286, -0.0476950548666127"
+428,Eastern Power Networks (EPN),Walpole,Burnham Thorpe Primary 11kV,,11,Connection offers made (not yet accepted by customer),1.0,1.8,,,
+436,Eastern Power Networks (EPN),Walpole,Gaywood Bridge Primary 11kV,EPN-S0000000H6072,11,Connection offers made (not yet accepted by customer),1.0,2.0,,,"52.7653164863162, 0.428518467436399"
+451,Eastern Power Networks (EPN),Walpole,March Primary 11kV,EPN-S0000000H6029,11,Connection offers made (not yet accepted by customer),6.0,11.7,,,"52.5490797871529, 0.0858604926141099"
+461,Eastern Power Networks (EPN),Walpole,Peterborough East Grid 11kV,EPN-S0000000F6057,132,Connection offers made (not yet accepted by customer),,,1,40,"52.587102404767, -0.217291123167596"
+502,Eastern Power Networks (EPN),Watford South,Gt Missenden Primary 11kV,,11,Connection offers made (not yet accepted by customer),2.0,3.0,,,
+510,Eastern Power Networks (EPN),Watford South,Rickmansworth Grid 11kV,EPN-S0000000N8078,11,Connection offers made (not yet accepted by customer),2.0,9.4,,,"51.6408756403759, -0.476830919701273"
+526,Eastern Power Networks (EPN),Wymondley,East Stevenage Primary 11kV,EPN-S0000000H8010,11,Connection offers made (not yet accepted by customer),1.0,1.5,,,"51.8977841415782, -0.177890041577216"
+530,Eastern Power Networks (EPN),Wymondley,North Stevenage Primary 11kV,EPN-S0000000H8126,11,Connection offers made (not yet accepted by customer),3.0,4.5,,,"51.9134388637182, -0.207150204562261"
+556,London Power Networks (LPN),Barking West 33kV,Barking West 11kV,LPN-S000000000617,11,Connection offers made (not yet accepted by customer),2.0,3.9,,,"51.5161377779219, 0.107151163381024"
+561,London Power Networks (LPN),Brimsdown,Buckhurst Hill 33kV,,132,Connection offers made (not yet accepted by customer),1.0,85.0,,,
+576,London Power Networks (LPN),City Road,Devonshire Square 11kV,LPN-S000000000418,11,Connection offers made (not yet accepted by customer),1.0,1.3,,,"51.5163799124923, -0.0797928643756813"
+577,London Power Networks (LPN),City Road,Finsbury Mkt E 11kV,LPN-S000000000433,11,Budget Estimates Provided,1.0,5.7,,,"51.5210292111895, -0.0831000494376474"
+580,London Power Networks (LPN),City Road,Finsbury Mkt D 11kV,LPN-S000000000430,11,Connection offers made (accepted by customer),1.0,3.0,,,"51.5212888749755, -0.0830314868258846"
+596,London Power Networks (LPN),Littlebrook,Erith 11kV,,11,Budget Estimates Provided,3.0,31.8,,,
+599,London Power Networks (LPN),Hackney 66kV,Hackney C 6.6kV,LPN-S000000000442,6.6,Connection offers made (not yet accepted by customer),1.0,1.0,,,"51.5584498697911, -0.0408010245815846"
+601,London Power Networks (LPN),Hackney 132kV,Hackney Supergrid 132 kV,LPN-S000000003439,132,Connection offers made (not yet accepted by customer),1.0,100.0,,,"51.5592519604115, -0.0414446105122552"
+605,London Power Networks (LPN),Hackney 132kV,Kings Yard A 11kV,LPN-S0000000L0645,11,Connection offers made (not yet accepted by customer),1.0,1.3,,,"51.543414297308, -0.0188479986435935"
+610,London Power Networks (LPN),Hackney 66kV,Edwards Lane C 11kV,LPN-S000000000424,11,Connection offers made (not yet accepted by customer),1.0,1.5,,,"51.5618018795464, -0.0831316302904071"
+615,London Power Networks (LPN),Islington,Hatchard Rd 11kV,LPN-S000000000446,11,Connection offers made (not yet accepted by customer),,,1,3.2,"51.5657810902315, -0.126279289729663"
+621,London Power Networks (LPN),Lodge Road,Hyde Park Estate B 11kV,LPN-S000000000349,11,Budget Estimates Provided,1.0,3.3,,,"51.5159237960819, -0.167067826060955"
+635,London Power Networks (LPN),New Cross 66kV,Bengeworth Rd 11kV,LPN-S000000000907,11,Connection offers made (not yet accepted by customer),3.0,8.1,,,"51.4673121942058, -0.0966399815166458"
+638,London Power Networks (LPN),New Cross 66kV,New Cross Sgrid 66kV,,132,Connection offers made (not yet accepted by customer),1.0,79.0,,,
+639,London Power Networks (LPN),New Cross 66kV,North Cross Rd 11kV,LPN-S000000000967,11,Budget Estimates Provided,1.0,1.5,,,"51.4575730420073, -0.0746040039832204"
+649,London Power Networks (LPN),Redbridge,Woodgrange Park 11kV,LPN-S000000000697,11,Connection offers made (not yet accepted by customer),2.0,3.0,,,"51.5477488373816, 0.0492016582075075"
+666,London Power Networks (LPN),Beddington,Winlaton Rd 11kV,LPN-S000000000896,11,Connection offers made (not yet accepted by customer),2.0,2.0,,,"51.4273148665817, -0.00114533945997838"
+677,London Power Networks (LPN),West Ham,Old School Close 11kV,LPN-S000000000771,66,Budget Estimates Provided,1.0,60.0,,,"51.4949792975668, 0.00710063938132778"
+679,London Power Networks (LPN),West Ham,Simpsons Road 11kV,LPN-S000000000683,11,Budget Estimates Provided,2.0,5.3,,,"51.5081993422367, -0.017263322694357"
+687,London Power Networks (LPN),Willesden 132kV,Gibbons Rd 11kV,LPN-S000000000240,11,Budget Estimates Provided,9.0,39.0,,,"51.5463340961811, -0.256605931549261"
+695,London Power Networks (LPN),Willesden Grid 66 kV,Townmead B 11kV,LPN-S000000000183,11,Connection offers made (not yet accepted by customer),1.0,1.0,,,"51.4683797625302, -0.186107198713778"
+696,London Power Networks (LPN),Wimbledon 1&2 132kV,Montford Place B 11kV,LPN-S000000000958,11,Budget Estimates Provided,1.0,6.1,,,"51.4855456102047, -0.113668954301761"
+700,London Power Networks (LPN),Wimbledon 3&4 132kV,Barnes B 6.6kV,,6.6,Connection offers made (not yet accepted by customer),1.0,8.0,,,
+706,London Power Networks (LPN),Wimbledon 3&4 132kV,Gorringe Park 11kV,LPN-S000000001037,11,"Connection offers made (cancelled, expired, superseded)",1.0,2.0,,,"51.4114161262174, -0.156410405717846"
+709,London Power Networks (LPN),Wimbledon 3&4 132kV,Merton 11kV,LPN-S000000001059,11,Connection offers made (accepted by customer),2.0,2.6,,,"51.4101517646396, -0.189519772997844"
+711,London Power Networks (LPN),Wimbledon 3&4 132kV,Moreton Street 11kV,LPN-S000000000365,11,Budget Estimates Provided,1.0,2.1,,,"51.490067479721, -0.134945395376996"
+713,London Power Networks (LPN),Wimbledon 3&4 132kV,Stewarts Rd 11kV,LPN-S000000000922,11,Budget Estimates Provided,1.0,8.8,,,"51.4759676034215, -0.141770295496943"
+714,London Power Networks (LPN),Wimbledon 3&4 132kV,Stewarts Rd 11kV,LPN-S000000000922,11,Connection offers made (not yet accepted by customer),2.0,5.0,,,"51.4759676034215, -0.141770295496943"
+715,London Power Networks (LPN),Wimbledon 3&4 132kV,Stewarts Rd 11kV,LPN-S000000000922,11,Connection offers made (not yet accepted by customer),1.0,8.8,,,"51.4759676034215, -0.141770295496943"
+722,South Eastern Power Networks (SPN),Beddington,Caterham 11kV,,11,"Connection offer made (cancelled, expired, superseded)",1.0,1.0,,,
+751,South Eastern Power Networks (SPN),Bolney,Littlehampton 11kV,SPN-S000000008431,11,Connection offer made (not yet accepted by customer),1.0,1.5,,,"50.810496313354, -0.541866441656141"
+768,South Eastern Power Networks (SPN),Bolney,Withdean 11kV,SPN-S000000008378,11,Connection offer made (not yet accepted by customer),1.0,1.25,,,"50.8538211666084, -0.155780247437696"
+770,South Eastern Power Networks (SPN),Bolney,Leigh Grid,,33,Budget Estimates Provided,1.0,15.87,,,
+791,South Eastern Power Networks (SPN),Chessington,Kingston 11kV,SPN-S000000008325,11,Connection offer made (not yet accepted by customer),1.0,3.0,,,"51.4137729656541, -0.30601715065195"
+794,South Eastern Power Networks (SPN),Chessington,Teddington 11kV,,11,Connection offer made (not yet accepted by customer),1.0,1.5,,,
+801,South Eastern Power Networks (SPN),Kemsley,Grovehurst Local 11kV,SPN-S000000008585,11,Connection offer made (not yet accepted by customer),3.0,4.17,1,3.1,"51.3660454355275, 0.7537622694201"
+815,South Eastern Power Networks (SPN),Kingsnorth,Chatham Hill 11kV,SPN-S000000008645,11,Connection offer made (accepted by customer),2.0,6.0,,,"51.3775931642859, 0.54051329034077"
+816,South Eastern Power Networks (SPN),Kingsnorth,Chatham Hill 11kV,SPN-S000000008645,11,"Connection offer made (cancelled, expired, superseded)",1.0,2.83,,,"51.3775931642859, 0.54051329034077"
+818,South Eastern Power Networks (SPN),Kingsnorth,Chatham West 11kV,SPN-S000000008508,11,Connection offer made (not yet accepted by customer),1.0,1.5,,,"51.3774618364563, 0.514509355003295"
+854,South Eastern Power Networks (SPN),Ninfield,Ruckinge 132kV,,33,Connection offer made (accepted by customer),,,1,35.7,
+861,South Eastern Power Networks (SPN),Northfleet,Crossways 11KV,SPN-S000000008626,11,"Connection offer made (cancelled, expired, superseded)",2.0,10.0,,,"51.45127307568, 0.249850123222409"
+863,South Eastern Power Networks (SPN),Northfleet,Ebbsfleet 11KV,SPN-S000000008627,11,Connection offer made (accepted by customer),2.0,8.6,,,"51.4473417111624, 0.31912761433966"
+872,South Eastern Power Networks (SPN),Northfleet,Paddock Wood 11kV,SPN-S000000008454,11,Connection offer made (accepted by customer),1.0,2.8,,,"51.1774454877242, 0.392619520989536"
+873,South Eastern Power Networks (SPN),Northfleet,Paddock Wood 11kV,SPN-S000000008454,11,"Connection offer made (cancelled, expired, superseded)",1.0,7.0,,,"51.1774454877242, 0.392619520989536"
+881,South Eastern Power Networks (SPN),Northfleet,Grain 11kV,,11,Budget Estimates Provided,,,1,20,
+896,South Eastern Power Networks (SPN),Sellindge,Ashford Central 6.6kV,SPN-S000000008302,11,"Connection offer made (cancelled, expired, superseded)",1.0,1.2,,,"51.1453323778251, 0.868133674607256"
+905,South Eastern Power Networks (SPN),Sellindge,Ashford West 6.6kV,,11,Budget Estimates Provided,,,1,3,
+908,South Eastern Power Networks (SPN),West Weybridge,C.E.R.L. 11kV,SPN-S000000008495,11,Connection offer made (not yet accepted by customer),1.0,1.0,,,"51.3056366806059, -0.342396176970815"
+910,South Eastern Power Networks (SPN),West Weybridge,Dorking Town 11kV,,11,"Connection offer made (cancelled, expired, superseded)",1.0,1.1,,,
+21,Eastern Power Networks (EPN),Braintree,Chelmsford North Grid 11kV,EPN-S0000000F3002,11,Connection offers made (not yet accepted by customer),3.0,8.3,,,"51.745123835035, 0.472294515971274"
+28,Eastern Power Networks (EPN),Bramford,A.D Plant British Sugar 11kV,,33,Connection offers made (not yet accepted by customer),1.0,32.9,,,
+33,Eastern Power Networks (EPN),Bramford,Bramford Grid 132kV,EPN-S0000000C1068,132,Budget Estimates Provided,,,6,1500,"52.0702354374567, 1.06278038805205"
+34,Eastern Power Networks (EPN),Bramford,Bramford Grid 132kV,EPN-S0000000C1068,132,"Connection offers made (cancelled, expired, superseded)",,,2,135,"52.0702354374567, 1.06278038805205"
+51,Eastern Power Networks (EPN),Bramford,Dock Rd Primary 11kV,EPN-S0000000H1060,11,"Connection offers made (cancelled, expired, superseded)",1.0,6.0,,,"51.9538521006963, 1.32655054208453"
+65,Eastern Power Networks (EPN),Bramford,Ipswich Grid 11kV,EPN-S0000000H1024,11,Budget Estimates Provided,3.0,7.3,,,"52.05576103445, 1.13603519740954"
+70,Eastern Power Networks (EPN),Bramford,Lawford Grid 33kV,EPN-S0000000D3048,33,"Connection offers made (cancelled, expired, superseded)",,,1,13.5,"51.9166367025341, 1.01869819169731"
+71,Eastern Power Networks (EPN),Bramford,Lawford Grid 33kV,EPN-S0000000D3048,33,Connection offers made (not yet accepted by customer),2.0,52.9,1,25,"51.9166367025341, 1.01869819169731"
+80,Eastern Power Networks (EPN),Bramford,Severalls Ln Primary 11kV,EPN-S0000000H3039,11,Connection offers made (accepted by customer),1.0,2.4,,,"51.9264519377795, 0.916262964353593"
+86,Eastern Power Networks (EPN),Bramford,Stowmarket Grid 33kV,EPN-S0000000D1018,132,Connection offers made (not yet accepted by customer),,,1,100,"52.1711061546669, 1.01718263923797"
+93,Eastern Power Networks (EPN),Bramford,Tivetshall Primary 11kV,EPN-S0000000H1033,11,Budget Estimates Provided,1.0,2.5,,,"52.4401378458545, 1.17358086562589"
+107,Eastern Power Networks (EPN),Brimsdown,Cuffley Primary 11kV,,11,Connection offers made (not yet accepted by customer),2.0,3.1,,,
+114,Eastern Power Networks (EPN),Brimsdown,Waltham Abbey Primary 11kV,,11,Connection offers made (not yet accepted by customer),1.0,2.0,,,
+116,Eastern Power Networks (EPN),Brimsdown,Waltham Park 11kV,EPN-S0000000F7022,132,Budget Estimates Provided,1.0,10.0,,,"51.6837596050097, -0.0461733850730962"
+124,Eastern Power Networks (EPN),Burwell,Ely Primary 11kV,EPN-S0000000H4007,33,Budget Estimates Provided,,,2,15.9,"52.3978836770285, 0.255467859575925"
+129,Eastern Power Networks (EPN),Burwell,Fulbourn Grid 33kV,,132,Connection offers made (not yet accepted by customer),,,1,49.9,
+141,Eastern Power Networks (EPN),Burwell,Landbeach Primary 11kV,EPN-S0000000H4020,11,Connection offers made (not yet accepted by customer),2.0,6.7,,,"52.2913555214597, 0.173533476514472"
+144,Eastern Power Networks (EPN),Burwell,Longstanton Primary 11kV,EPN-S0000000H4043,33,"Connection offers made (cancelled, expired, superseded)",,,1,22.5,"52.2657711622001, 0.0318234662643994"
+151,Eastern Power Networks (EPN),Burwell,Sawston Primary 11kV,EPN-S0000000H4045,11,Budget Estimates Provided,1.0,6.0,,,"52.1228628290103, 0.153988197899791"
+158,Eastern Power Networks (EPN),Eaton Socon,Austin Canons Grid 33kV,EPN-S0000000D4024,11,Connection offers made (not yet accepted by customer),2.0,4.5,,,"52.1267409229522, -0.482627126732345"
+163,Eastern Power Networks (EPN),Eaton Socon,Biggleswade Primary 11kV,EPN-S0000000H4059,11,Connection offers made (not yet accepted by customer),2.0,2.9,,,"52.0808181461322, -0.262227400688808"
+174,Eastern Power Networks (EPN),Eaton Socon,Huntingdon Grid 33kV,EPN-S0000000D4068,33,Budget Estimates Provided,,,4,90.6,"52.3407372864036, -0.183060686204365"
+175,Eastern Power Networks (EPN),Eaton Socon,Kimbolton Primary 11kV,,11,Budget Estimates Provided,1.0,1.1,,,
+180,Eastern Power Networks (EPN),Eaton Socon,Little Barford 132kV,EPN-S0000000C4055,33,"Connection offers made (cancelled, expired, superseded)",,,1,20,"52.2073460897954, -0.272003403194028"
+192,Eastern Power Networks (EPN),Elstree,Bushey Mill Grid 33kV,EPN-S0000000D8006,33,Budget Estimates Provided,2.0,46.0,,,"51.670976638723, -0.382370800818844"
+206,Eastern Power Networks (EPN),Elstree,Leavesden Studios Primary 11kV,EPN-S0000000H8121,11,Connection offers made (accepted by customer),1.0,10.5,,,"51.6860097465258, -0.425943119686932"
+218,Eastern Power Networks (EPN),Elstree Stanmore,Stanmore Grid 33kV,EPN-S0000000D8081,33,"Connection offers made (cancelled, expired, superseded)",1.0,25.0,,,"51.6097459425312, -0.312481421021654"
+221,Eastern Power Networks (EPN),Grendon,R A E Grid 33kV,,132,Connection offers made (not yet accepted by customer),1.0,50.0,,,
+240,Eastern Power Networks (EPN),Norwich,Aylsham Primary 11kV,EPN-S0000000H5041,11,Connection offers made (not yet accepted by customer),1.0,1.4,,,"52.801821205504, 1.26738878654342"
+244,Eastern Power Networks (EPN),Norwich,Cringleford Primary 11kV,EPN-S0000000H5075,11,"Connection offers made (cancelled, expired, superseded)",1.0,7.5,,,"52.6056121345765, 1.24344681403197"
+251,Eastern Power Networks (EPN),Norwich,East Dereham Primary 11kV,EPN-S0000000H5016,33,"Connection offers made (cancelled, expired, superseded)",,,1,22,"52.6846328706583, 0.945193420743859"
+259,Eastern Power Networks (EPN),Norwich,Mousehold Primary 11kV,EPN-S0000000H5057,11,Budget Estimates Provided,1.0,1.1,,,"52.6416637087557, 1.32718019959499"
+271,Eastern Power Networks (EPN),Norwich,Sall Grid 33kV,EPN-S0000000D5023,33,Connection offers made (not yet accepted by customer),,,2,32,"52.7731302289295, 1.15120280997115"
+276,Eastern Power Networks (EPN),Norwich,Thorpe Gd Local 11kV,EPN-S0000000F5014,11,Connection offers made (not yet accepted by customer),3.0,6.6,,,"52.6225373412088, 1.32065922068105"
+279,Eastern Power Networks (EPN),Norwich,Trowse Grid 132kV,EPN-S0000000C5084,132,"Connection offers made (cancelled, expired, superseded)",,,2,150,"52.6077623298605, 1.30807625655577"
+280,Eastern Power Networks (EPN),Norwich,Trowse Grid 132kV,EPN-S0000000C5084,132,Connection offers made (not yet accepted by customer),1.0,150.0,1,100,"52.6077623298605, 1.30807625655577"
+301,Eastern Power Networks (EPN),Pelham,Pelham 132kV,EPN-S0000000C7070,132,Connection offers made (not yet accepted by customer),1.0,700.0,2,80,"51.9351365482506, 0.118115255066342"
+315,Eastern Power Networks (EPN),Rayleigh,Gardiners Ln Primary 11kV,EPN-S0000000H7096,11,Budget Estimates Provided,2.0,3.5,,,"51.5882935227615, 0.482897728873305"
+335,Eastern Power Networks (EPN),Rayleigh,The Limes 11kV,EPN-S0000000H7116,11,Budget Estimates Provided,1.0,2.9,,,"51.5818013435224, 0.451205245298775"
+342,Eastern Power Networks (EPN),Rye House,Harlow West Grid 11kV,,11,Budget Estimates Provided,1.0,5.0,,,
+343,Eastern Power Networks (EPN),Rye House,Harlow West Grid 11kV,,11,Connection offers made (not yet accepted by customer),1.0,1.5,,,
+350,Eastern Power Networks (EPN),Rye House,New Harlow Primary 11kV,EPN-S0000000H7032,11,Connection offers made (not yet accepted by customer),1.0,2.5,,,"51.7808147754037, 0.110328154033663"
+369,Eastern Power Networks (EPN),Sundon,East Harpenden Primary 11kV,,11,Connection offers made (not yet accepted by customer),4.0,10.1,,,
+374,Eastern Power Networks (EPN),Sundon,Luton Airport Primary 11kV,EPN-S0000000H8039,33,Budget Estimates Provided,1.0,19.5,,,"51.8859823206316, -0.3778748757245"
+387,Eastern Power Networks (EPN),Sundon,Sundon GIS 132kV,EPN-S0000000C8086,132,Budget Estimates Provided,2.0,150.0,,,"51.9317779571192, -0.500702627893215"
+406,Eastern Power Networks (EPN),Tilbury 1&7,Tilbury Local Primary 11kV,EPN-S0000000H7117,11,Budget Estimates Provided,1.0,5.0,,,"51.4613613691232, 0.380174914271063"
+420,Eastern Power Networks (EPN),Tottenham,Tottenham 132kV,,11,"Connection offers made (cancelled, expired, superseded)",1.0,12.5,,,
+450,Eastern Power Networks (EPN),Walpole,March Primary 11kV,EPN-S0000000H6029,11,"Connection offers made (cancelled, expired, superseded)",2.0,3.7,,,"52.5490797871529, 0.0858604926141099"
+475,Eastern Power Networks (EPN),Walpole,Watton Primary 11kV,EPN-S0000000H6011,11,Budget Estimates Provided,,,3,12,"52.5758281720386, 0.815522640736117"
+478,Eastern Power Networks (EPN),Warley,Barclay Way Primary 11kV,EPN-S0000000H7023,11,Budget Estimates Provided,1.0,5.6,,,"51.4810552527565, 0.271450744975958"
+483,Eastern Power Networks (EPN),Warley,Hutton Primary 11kV,EPN-S0000000H7029,11,Connection offers made (not yet accepted by customer),1.0,1.5,,,"51.6368427179474, 0.349465307572008"
+485,Eastern Power Networks (EPN),Warley,Lakeside Primary 11kV,EPN-S0000000H7011,11,Connection offers made (not yet accepted by customer),2.0,3.7,,,"51.4835576377817, 0.286137072253766"
+490,Eastern Power Networks (EPN),Warley,Purfleet Grid 33kV,EPN-S0000000D7049,132,Budget Estimates Provided,,,1,15,"51.4785511205189, 0.261893054480452"
+494,Eastern Power Networks (EPN),Warley,Straight Rd Primary 11kV,EPN-S0000000H7134,11,"Connection offers made (cancelled, expired, superseded)",1.0,2.0,,,"51.5936839201994, 0.213552176370882"
+495,Eastern Power Networks (EPN),Warley,Straight Rd Primary 11kV,EPN-S0000000H7134,11,Connection offers made (not yet accepted by customer),2.0,3.5,,,"51.5936839201994, 0.213552176370882"
+496,Eastern Power Networks (EPN),Warley,Warley Grid 132kV,EPN-S0000000C7159,132,Budget Estimates Provided,4.0,455.0,4,244.8,"51.552727386882, 0.30063947297193"
+509,Eastern Power Networks (EPN),Watford South,Rickmansworth Grid 11kV,EPN-S0000000N8078,11,Connection offers made (accepted by customer),,,1,2.5,"51.6408756403759, -0.476830919701273"
+523,Eastern Power Networks (EPN),Wymondley,East Letchworth Primary 11kV,EPN-S0000000H8133,11,Budget Estimates Provided,1.0,2.6,1,3,"51.9828517689337, -0.215767482766302"
+524,Eastern Power Networks (EPN),Wymondley,East Letchworth Primary 11kV,EPN-S0000000H8133,11,"Connection offers made (cancelled, expired, superseded)",1.0,2.5,,,"51.9828517689337, -0.215767482766302"
+525,Eastern Power Networks (EPN),Wymondley,East Letchworth Primary 11kV,EPN-S0000000H8133,11,Connection offers made (not yet accepted by customer),6.0,9.5,,,"51.9828517689337, -0.215767482766302"
+544,Eastern Power Networks (EPN),Wymondley,Wymondley Main 132kV,EPN-S0000000C8085,132,Budget Estimates Provided,1.0,100.0,,,"51.9283155122106, -0.24984194511522"
+555,London Power Networks (LPN),Barking West 33kV,Barking West 11kV,LPN-S000000000617,11,Budget Estimates Provided,1.0,2.9,,,"51.5161377779219, 0.107151163381024"
+562,London Power Networks (LPN),Brimsdown,Buckhurst Hill 33kV,,33,Budget Estimates Provided,1.0,60.0,,,
+563,London Power Networks (LPN),Brimsdown,Epping New Rd 11kV,,11,Connection offers made (not yet accepted by customer),1.0,1.5,,,
+566,London Power Networks (LPN),Hurst,Chislehurst 11kV,,11,Connection offers made (not yet accepted by customer),2.0,3.0,,,
+569,London Power Networks (LPN),City Road,Bankside D 20kV,LPN-S000000000917,20,Connection offers made (accepted by customer),1.0,13.0,,,"51.5077820364248, -0.0984988259577983"
+594,London Power Networks (LPN),Hurst,Farjeon Rd 11kV,LPN-S000000000734,11,Connection offers made (not yet accepted by customer),5.0,7.5,,,"51.4727028050111, 0.0374273283590525"
+612,London Power Networks (LPN),Hackney 66kV,Hackney C 6.6kV,LPN-S000000000442,6.6,Connection offers made (accepted by customer),1.0,1.5,,,"51.5584498697911, -0.0408010245815846"
+616,London Power Networks (LPN),Littlebrook,Crayford 11kV,LPN-S000000000715,11,Connection offers made (not yet accepted by customer),1.0,2.0,,,"51.4524131324733, 0.180486009646744"
+619,London Power Networks (LPN),Lodge Road,Hyde Park Estate A 11kV,LPN-S000000000348,11,Budget Estimates Provided,1.0,1.5,,,"51.5161722923754, -0.167432586141222"
+625,London Power Networks (LPN),New Cross 132kV,Deptford Grid 11kV,LPN-S000000000786,11,Connection offers made (accepted by customer),1.0,14.9,,,"51.4843563678957, -0.023454090166356"
+630,London Power Networks (LPN),New Cross 132kV,New Cross 132kV,,132,Connection offers made (accepted by customer),1.0,182.0,,,
+657,London Power Networks (LPN),St Johns Wood,Shorts Gdns 11kV,LPN-S000000000283,11,Connection offers made (not yet accepted by customer),1.0,3.6,,,"51.5152661532079, -0.123769754423759"
+659,London Power Networks (LPN),St Johns Wood,Amberley Rd 11kV,LPN-S000000000309,11,Connection offers made (not yet accepted by customer),4.0,6.2,,,"51.5227947036953, -0.192609179198131"
+664,London Power Networks (LPN),Beddington,Sydenham Park 11kV,LPN-S000000000885,11,"Connection offers made (cancelled, expired, superseded)",1.0,1.5,,,"51.4334401301574, -0.0535779300761823"
+667,London Power Networks (LPN),West Ham,Blackwall Way 11kV,LPN-S000000000640,11,Budget Estimates Provided,1.0,15.0,,,"51.507129604829, -0.00350464748068387"
+684,London Power Networks (LPN),West Ham,West Ham Grid 11kV,LPN-S000000000695,11,Connection offers made (not yet accepted by customer),7.0,17.6,,,"51.5194041870565, 0.00232216044962693"
+690,London Power Networks (LPN),Willesden 132kV,Gibbons Rd 11kV,LPN-S000000000240,11,Connection offers made (not yet accepted by customer),5.0,22.5,,,"51.5463340961811, -0.256605931549261"
+691,London Power Networks (LPN),Willesden 132kV,Willesden Grid 132kV,,132,Budget Estimates Provided,1.0,130.0,,,
+701,London Power Networks (LPN),Wimbledon 3&4 132kV,Burlington Rd 11kV,,11,Connection offers made (accepted by customer),1.0,4.0,,,
+725,South Eastern Power Networks (SPN),Beddington,West Croydon 11kV,SPN-S000000008509,11,Connection offer made (not yet accepted by customer),1.0,1.5,,,"51.3588876783785, -0.121175093648537"
+738,South Eastern Power Networks (SPN),Bolney,Crawley Town 11kV,,11,Connection offer made (not yet accepted by customer),1.0,1.8,,,
+739,South Eastern Power Networks (SPN),Bolney,Goddards Green 11kV,SPN-S000000008563,11,"Connection offer made (cancelled, expired, superseded)",1.0,1.4,,,"50.9651272440846, -0.157215000364173"
+742,South Eastern Power Networks (SPN),Bolney,Horley 33/11,SPN-S000000008419,11,"Connection offer made (cancelled, expired, superseded)",3.0,4.72,,,"51.1814205692287, -0.160092441617516"
+743,South Eastern Power Networks (SPN),Bolney,Horley 33/11,SPN-S000000008419,11,Connection offer made (not yet accepted by customer),2.0,3.97,,,"51.1814205692287, -0.160092441617516"
+748,South Eastern Power Networks (SPN),Bolney,Leigh Grid 33kV,,33,Connection offer made (accepted by customer),,,1,30.6,
+753,South Eastern Power Networks (SPN),Bolney,Newhaven Grid 33kV,,33,"Connection offer made (cancelled, expired, superseded)",,,1,20.4,
+758,South Eastern Power Networks (SPN),Bolney,Pulborough 11kV,,11,"Connection offer made (cancelled, expired, superseded)",1.0,9.5,,,
+772,South Eastern Power Networks (SPN),Canterbury,Canterbury Local 11kV,SPN-S000000008597,11,"Connection offer made (cancelled, expired, superseded)",1.0,1.24,,,"51.2909741732542, 1.08738546663977"
+777,South Eastern Power Networks (SPN),Canterbury,Chartham 11kV,,11,"Connection offer made (cancelled, expired, superseded)",1.0,3.71,,,
+783,South Eastern Power Networks (SPN),Canterbury,Herne Bay 11kV,SPN-S000000008417,11,Budget Estimates Provided,,,1,15.4,"51.3540076168943, 1.09524392810905"
+805,South Eastern Power Networks (SPN),Kemsley,Sittingbourne Grid 33kV,,33,"Connection offer made (cancelled, expired, superseded)",,,1,18.4,
+806,South Eastern Power Networks (SPN),Kemsley,Sittingbourne Grid 33kV,,33,Connection offer made (not yet accepted by customer),,,1,25.5,
+812,South Eastern Power Networks (SPN),Kingsnorth,Aylesford 6.6kV,SPN-S000000008312,6.6,Connection offer made (not yet accepted by customer),2.0,2.0,,,"51.3006804902293, 0.467312962378983"
+821,South Eastern Power Networks (SPN),Kingsnorth,Lordswood 11KV,,11,Connection offer made (not yet accepted by customer),2.0,2.9,,,
+825,South Eastern Power Networks (SPN),Kingsnorth,Kingsnorth Grid 132kV,SPN-S000000009976,132,Budget Estimates Provided,,,1,25,"51.4197964486026, 0.596060453884657"
+828,South Eastern Power Networks (SPN),Kingsnorth,Chatham Grid,,33,Budget Estimates Provided,1.0,16.02,,,
+834,South Eastern Power Networks (SPN),Laleham,Twickenham Grid,,33,Budget Estimates Provided,1.0,10.0,,,
+850,South Eastern Power Networks (SPN),Ninfield,Ninfield 132kV,SPN-S000000009936,132,"Connection offer made (cancelled, expired, superseded)",,,1,127.6,"50.8807166803942, 0.449620344398189"
+862,South Eastern Power Networks (SPN),Northfleet,East Grinstead 11kV,SPN-S000000008396,11,Connection offer made (not yet accepted by customer),1.0,1.0,,,"51.1300322898903, -0.0147947832634629"
+866,South Eastern Power Networks (SPN),Northfleet,Gravesend Town 6.6kV,SPN-S000000008409,6.6,Connection offer made (not yet accepted by customer),1.0,1.5,,,"51.4415090524139, 0.383920024603466"
+869,South Eastern Power Networks (SPN),Northfleet,Northfleet East 132kV,SPN-S000000009937,33,Connection offer made (not yet accepted by customer),,,1,29.7,"51.4277809482857, 0.330940448884314"
+885,South Eastern Power Networks (SPN),Northfleet,Ebbsfleet Grid,,11,Budget Estimates Provided,1.0,13.2,,,
+902,South Eastern Power Networks (SPN),Sellindge,Sellindge 132kV,SPN-S000000009962,132,"Connection offer made (cancelled, expired, superseded)",,,2,122.3,"51.1063321591089, 0.977459050642279"
+904,South Eastern Power Networks (SPN),Sellindge,Ruckinge Grid 33kV,,33,Budget Estimates Provided,,,1,50,
+919,South Eastern Power Networks (SPN),West Weybridge,West Weybridge 132kV(NEW),,132,Connection offer made (accepted by customer),2.0,80.5,,,
+1,Eastern Power Networks (EPN),Amersham,Coldharbour Farm 11kV,EPN-S0000000H8009,11,Connection offers made (not yet accepted by customer),2.0,5.4,,,"51.8206650956025, -0.845502959741273"
+3,Eastern Power Networks (EPN),Amersham,Ilmer Primary 11kV,EPN-S0000000H8158,11,Connection offers made (not yet accepted by customer),1.0,2.7,,,"51.7517773136147, -0.88227449772753"
+4,Eastern Power Networks (EPN),Amersham,Thame Primary 11kV,,11,Budget Estimates Provided,3.0,4.7,,,
+7,Eastern Power Networks (EPN),Barking 132kV,Romford Primary 11kV,EPN-S0000000H7150,11,Budget Estimates Provided,1.0,2.0,,,"51.5748985672836, 0.181826447810081"
+9,Eastern Power Networks (EPN),Barking West 33kV,Barking West 33kV,EPN-S0000000G7121,33,Budget Estimates Provided,,,1,5,"51.5164558877335, 0.106964056610493"
+10,Eastern Power Networks (EPN),Barking West 33kV,Chequers Primary 11kV,EPN-S0000000H7090,11,Budget Estimates Provided,3.0,11.1,1,5,"51.5296315548959, 0.146572364532085"
+11,Eastern Power Networks (EPN),Barking West 33kV,Chequers Primary 11kV,EPN-S0000000H7090,11,Connection offers made (not yet accepted by customer),2.0,7.6,,,"51.5296315548959, 0.146572364532085"
+12,Eastern Power Networks (EPN),Barking West 33kV,May & Baker Primary 11kV,,11,Connection offers made (not yet accepted by customer),,,1,0.8,
+52,Eastern Power Networks (EPN),Bramford,Dock Rd Primary 11kV,EPN-S0000000H1060,11,Connection offers made (not yet accepted by customer),1.0,1.2,,,"51.9538521006963, 1.32655054208453"
+53,Eastern Power Networks (EPN),Bramford,East Bay Primary 11kV,,11,Connection offers made (not yet accepted by customer),1.0,1.8,,,
+55,Eastern Power Networks (EPN),Bramford,Fornham Primary 11kV,EPN-S0000000H1062,11,Connection offers made (not yet accepted by customer),2.0,9.1,,,"52.2661025267136, 0.708490719934307"
+75,Eastern Power Networks (EPN),Bramford,Martlesham Primary 11kV,,11,Connection offers made (not yet accepted by customer),4.0,9.0,,,
+77,Eastern Power Networks (EPN),Bramford,Old Rd Primary 11kV,,11,Connection offers made (not yet accepted by customer),5.0,7.1,,,
+90,Eastern Power Networks (EPN),Bramford,Thetford Grid 33kV,EPN-S0000000H1056,132,Connection offers made (not yet accepted by customer),,,1,50,"52.3872190958013, 0.736478402750066"
+122,Eastern Power Networks (EPN),Burwell,Burwell Local Grid 33kV,EPN-S0000000D4033,33,Connection offers made (not yet accepted by customer),1.0,20.0,1,24,"52.2774898958568, 0.317253092352746"
+130,Eastern Power Networks (EPN),Burwell,Fulbourn Grid 33kV,,33,Budget Estimates Provided,1.0,40.0,,,
+137,Eastern Power Networks (EPN),Burwell,Histon Primary 11kV,EPN-S0000000H4066,11,Budget Estimates Provided,,,1,2,"52.2438524986778, 0.106523770553321"
+139,Eastern Power Networks (EPN),Burwell,Landbeach Primary 11kV,EPN-S0000000H4020,11,Budget Estimates Provided,1.0,2.0,,,"52.2913555214597, 0.173533476514472"
+142,Eastern Power Networks (EPN),Burwell,Landbeach Switching Station 33kV,EPN-S0000000G4010,33,Connection offers made (not yet accepted by customer),1.0,12.0,1,25,
+145,Eastern Power Networks (EPN),Burwell,Longstanton Primary 11kV,EPN-S0000000H4043,33,Connection offers made (not yet accepted by customer),,,1,30,"52.2657711622001, 0.0318234662643994"
+152,Eastern Power Networks (EPN),Burwell,Sawston Primary 11kV,EPN-S0000000H4045,11,Connection offers made (accepted by customer),1.0,7.0,,,"52.1228628290103, 0.153988197899791"
+154,Eastern Power Networks (EPN),Burwell,Sawston Primary 11kV,EPN-S0000000H4045,33,Budget Estimates Provided,4.0,115.0,3,70,"52.1228628290103, 0.153988197899791"
+159,Eastern Power Networks (EPN),Eaton Socon,Austin Canons Primary 11kV,EPN-S0000000H4074,11,Budget Estimates Provided,2.0,6.0,,,"52.1267409229522, -0.482627126732345"
+161,Eastern Power Networks (EPN),Eaton Socon,Biggleswade Primary 11kV,EPN-S0000000H4059,11,Budget Estimates Provided,1.0,1.3,,,"52.0808181461322, -0.262227400688808"
+162,Eastern Power Networks (EPN),Eaton Socon,Biggleswade Primary 11kV,EPN-S0000000H4059,11,"Connection offers made (cancelled, expired, superseded)",1.0,2.0,,,"52.0808181461322, -0.262227400688808"
+169,Eastern Power Networks (EPN),Eaton Socon,Harrowden Primary 11kV,EPN-S0000000H4040,11,Budget Estimates Provided,1.0,6.0,2,8,"52.1192971820726, -0.453638240462025"
+172,Eastern Power Networks (EPN),Eaton Socon,Huntingdon Grid 11kV,EPN-S0000000F4068,11,Connection offers made (not yet accepted by customer),4.0,20.3,,,"52.3407372864036, -0.183060686204365"
+177,Eastern Power Networks (EPN),Eaton Socon,Little Barford 11kV,EPN-S0000000F4055,11,Connection offers made (not yet accepted by customer),6.0,26.5,,,"52.2065166590149, -0.268171894048518"
+186,Eastern Power Networks (EPN),Eaton Socon,Sandy Primary 11kV,EPN-S0000000H4053,11,"Connection offers made (cancelled, expired, superseded)",1.0,1.2,,,"52.1264114767571, -0.281052735846842"
+204,Eastern Power Networks (EPN),Elstree,Hemel North Primary 11kV,EPN-S0000000H8052,11,Budget Estimates Provided,1.0,1.8,,,"51.7693269922491, -0.448133912648973"
+214,Eastern Power Networks (EPN),Elstree,Tunnel Primary 11kV,EPN-S0000000H8104,11,Connection offers made (not yet accepted by customer),4.0,12.1,,,"51.7651303357817, -0.239016222977169"
+216,Eastern Power Networks (EPN),Elstree,West Potters Bar Primary 11kV,EPN-S0000000H8083,11,Connection offers made (accepted by customer),1.0,2.5,,,"51.7073052071919, -0.202401263478464"
+219,Eastern Power Networks (EPN),Elstree Stanmore,Stonegrove Primary 11kV,,11,Connection offers made (not yet accepted by customer),2.0,3.4,,,
+225,Eastern Power Networks (EPN),Mill Hill,Church End Primary 11kV,EPN-S0000000H8090,11,Connection offers made (not yet accepted by customer),3.0,8.5,,,"51.5961025321988, -0.208571164197179"
+229,Eastern Power Networks (EPN),Mill Hill,Colindale Grid 11kV,EPN-S0000000F8073,11,Connection offers made (not yet accepted by customer),7.0,14.3,,,"51.5923388863545, -0.255408189186246"
+231,Eastern Power Networks (EPN),Mill Hill,Golders Grn Primary 11kV,EPN-S0000000H8116,11,Connection offers made (accepted by customer),1.0,1.5,,,"51.5673765002693, -0.194780880578112"
+262,Eastern Power Networks (EPN),Norwich,North Walsham Primary 11kV,,11,Budget Estimates Provided,1.0,1.2,,,
+265,Eastern Power Networks (EPN),Norwich,Norwich Main 132kV,EPN-S0000000C5012,132,"Connection offers made (cancelled, expired, superseded)",1.0,180.0,,,"52.5740279616305, 1.27181803305154"
+267,Eastern Power Networks (EPN),Norwich,Peachman Way Primary 11kV,EPN-S0000000H5035,11,Budget Estimates Provided,1.0,10.0,,,"52.6339522341422, 1.37654425622674"
+281,Eastern Power Networks (EPN),Norwich,Trowse Grid 33kV,EPN-S0000000D5084,11,Budget Estimates Provided,1.0,34.4,,,"52.6078675543899, 1.30817283390477"
+295,Eastern Power Networks (EPN),Pelham,Dunmow Primary 11kV,EPN-S0000000H3068,11,Connection offers made (not yet accepted by customer),1.0,2.0,,,"51.8680750681031, 0.370549140110797"
+310,Eastern Power Networks (EPN),Rayleigh,Chalvedon Primary 11kV,EPN-S0000000H7141,11,Budget Estimates Provided,1.0,8.4,,,"51.5755660966243, 0.501616411570561"
+330,Eastern Power Networks (EPN),Rayleigh,Rayleigh Main 132kV,EPN-S0000000C7130,132,Connection offers made (not yet accepted by customer),,,2,250,"51.5942853304779, 0.566379638723486"
+338,Eastern Power Networks (EPN),Rayleigh,West Hanningfield Pri 11kV,EPN-S0000000H3012,11,Connection offers made (not yet accepted by customer),,,1,7,"51.6641609550918, 0.520001880605543"
+349,Eastern Power Networks (EPN),Rye House,New Harlow Primary 11kV,EPN-S0000000H7032,11,Budget Estimates Provided,1.0,1.5,,,"51.7808147754037, 0.110328154033663"
+388,Eastern Power Networks (EPN),Sundon,Sundon GIS 132kV,EPN-S0000000C8086,132,Connection offers made (not yet accepted by customer),2.0,250.0,,,"51.9317779571192, -0.500702627893215"
+414,Eastern Power Networks (EPN),Tottenham,Lonsdale Dr Primary 11kV,EPN-S0000000H7074,11,Connection offers made (not yet accepted by customer),1.0,1.3,,,"51.6488874713782, -0.112721418840108"
+426,Eastern Power Networks (EPN),Tottenham,West Grn Primary 11kV,EPN-S0000000H7119,11,Budget Estimates Provided,1.0,1.3,,,"51.5894462682209, -0.102034553788448"
+441,Eastern Power Networks (EPN),Walpole,Kings Lynn Grid  33kV,EPN-S0000000D6046,132,Budget Estimates Provided,,,4,240,"52.7576600302301, 0.399591493869985"
+455,Eastern Power Networks (EPN),Walpole,Orton Primary 11kV,EPN-S0000000H6076,33,Budget Estimates Provided,,,1,7,"52.5409901737158, -0.305602475962414"
+459,Eastern Power Networks (EPN),Walpole,Peterborough East Grid 11kV,EPN-S0000000F6057,11,Budget Estimates Provided,4.0,14.0,,,"52.587102404767, -0.217291123167596"
+465,Eastern Power Networks (EPN),Walpole,Snettisham Primary 11kV,,11,Budget Estimates Provided,2.0,8.3,,,
+471,Eastern Power Networks (EPN),Walpole,Walsoken Grid 11kV,EPN-S0000000H6077,11,Budget Estimates Provided,3.0,4.6,,,"52.6607115379039, 0.19024815471233"
+492,Eastern Power Networks (EPN),Warley,Purfleet Primary 11kV T3 & T4,EPN-S0000000H7013,11,Connection offers made (not yet accepted by customer),3.0,18.3,1,1.6,"51.4778309809557, 0.257263287761835"
+497,Eastern Power Networks (EPN),Warley,Warley Grid 132kV,EPN-S0000000C7159,132,"Connection offers made (cancelled, expired, superseded)",1.0,45.0,,,"51.552727386882, 0.30063947297193"
+500,Eastern Power Networks (EPN),Watford South,Berkhamsted Primary 11kV,,11,Budget Estimates Provided,1.0,2.2,,,
+507,Eastern Power Networks (EPN),Watford South,Lye Grn Primary 11kV,EPN-S0000000H8161,11,"Connection offers made (cancelled, expired, superseded)",2.0,3.0,,,"51.7219807863055, -0.589783826433602"
+520,Eastern Power Networks (EPN),Willesden,Beresford Av Primary 11kV,EPN-S0000000H8024,11,Budget Estimates Provided,2.0,5.0,,,"51.5408946262329, -0.288423634196154"
+521,Eastern Power Networks (EPN),Willesden,Leicester Rd Grid 33kV,EPN-S0000000D8122,33,Budget Estimates Provided,1.0,20.0,,,"51.5450707591394, -0.258125250627133"
+527,Eastern Power Networks (EPN),Wymondley,Melbourn Grid 33kV,EPN-S0000000D4071,33,Connection offers made (not yet accepted by customer),,,1,25,"52.0749472610913, -0.00399539415023235"
+528,Eastern Power Networks (EPN),Wymondley,North Hitchin Primary 11kV,EPN-S0000000H8165,11,Connection offers made (not yet accepted by customer),3.0,7.2,,,"51.9550278561922, -0.262438239958514"
+532,Eastern Power Networks (EPN),Wymondley,Royston Primary 11kV,EPN-S0000000H7031,11,Connection offers made (not yet accepted by customer),3.0,4.9,,,"52.0523002712469, -0.0218071435024984"
+533,Eastern Power Networks (EPN),Wymondley,Shepreth Primary 11kV,EPN-S0000000H4012,11,Connection offers made (not yet accepted by customer),1.0,3.0,,,"52.1136385948748, 0.0302731405775739"
+534,Eastern Power Networks (EPN),Wymondley,Stevenage Grid 33kV,EPN-S0000000D8169,33,Budget Estimates Provided,,,2,35,"51.9050728601295, -0.223517716803999"
+535,Eastern Power Networks (EPN),Wymondley,Verity Way Primary 11kV,EPN-S0000000H8064,11,Budget Estimates Provided,1.0,4.0,,,"51.9191286046161, -0.177738473362957"
+536,Eastern Power Networks (EPN),Wymondley,Verity Way Primary 11kV,EPN-S0000000H8064,11,Connection offers made (not yet accepted by customer),2.0,2.1,,,"51.9191286046161, -0.177738473362957"
+551,London Power Networks (LPN),Barking C 132kV,Royal Docks 132/11kV,,11,Budget Estimates Provided,1.0,10.0,,,
+583,London Power Networks (LPN),City Road,Finsbury Mkt F 33kV,LPN-S000000003433,33,Budget Estimates Provided,1.0,4.0,,,"51.5213652388713, -0.0833021594520701"
+585,London Power Networks (LPN),City Road,Limeburner Ln 11kV,LPN-S000000000463,11,Connection offers made (not yet accepted by customer),4.0,8.5,,,"51.5148261005768, -0.103120189656031"
+586,London Power Networks (LPN),City Road,Newington House B 11kV,LPN-S000000000965,11,Budget Estimates Provided,1.0,2.5,,,"51.4980113660721, -0.0998707974429451"
+592,London Power Networks (LPN),Hurst,Eltham Grid 11kV,LPN-S000000000728,11,Connection offers made (not yet accepted by customer),1.0,1.7,,,"51.4596810194951, 0.0784216086642374"
+593,London Power Networks (LPN),Hurst,Eltham High St 11kV,,11,Connection offers made (not yet accepted by customer),1.0,1.5,,,
+604,London Power Networks (LPN),Hackney 132kV,Kings Yard A 11kV,LPN-S0000000L0645,11,Connection offers made (not yet accepted by customer),1.0,7.0,,,"51.543414297308, -0.0188479986435935"
+607,London Power Networks (LPN),Hackney 66kV,Waterloo Rd 11kV,,11,Connection offers made (not yet accepted by customer),1.0,1.0,,,
+614,London Power Networks (LPN),Islington,Georgiana St 11kV,LPN-S000000000238,11,Connection offers made (not yet accepted by customer),3.0,25.0,,,"51.5395988313836, -0.137247243041404"
+617,London Power Networks (LPN),Littlebrook,Dartford Grid B 11kV,LPN-S000000000716,11,"Connection offers made (cancelled, expired, superseded)",1.0,6.0,,,"51.4498431381215, 0.212531269556336"
+624,London Power Networks (LPN),New Cross 132kV,Deptford Grid 11kV,LPN-S000000000786,11,Budget Estimates Provided,2.0,15.0,,,"51.4843563678957, -0.023454090166356"
+629,London Power Networks (LPN),New Cross 132kV,New Cross 132kV,,132,Budget Estimates Provided,1.0,79.0,,,
+644,London Power Networks (LPN),New Cross 66kV,Verney Rd 11kV,LPN-S000000000988,11,"Connection offers made (cancelled, expired, superseded)",1.0,1.8,,,"51.4845215815859, -0.0646255603318666"
+645,London Power Networks (LPN),New Cross 66kV,Verney Rd 11kV,LPN-S000000000988,11,Connection offers made (not yet accepted by customer),9.0,16.2,,,"51.4845215815859, -0.0646255603318666"
+647,London Power Networks (LPN),Redbridge,Ley St B 11kV,,11,Connection offers made (not yet accepted by customer),1.0,2.0,,,
+652,London Power Networks (LPN),St Johns Wood,Ebury Bridge 11kV,LPN-S000000000330,11,Budget Estimates Provided,1.0,2.5,,,"51.4905931459516, -0.148824656020859"
+656,London Power Networks (LPN),St Johns Wood,Shorts Gdns 11kV,LPN-S000000000283,11,Budget Estimates Provided,1.0,3.1,,,"51.5152661532079, -0.123769754423759"
+662,London Power Networks (LPN),St Johns Wood,Longford St B 11kV,LPN-S000000000256,11,Connection offers made (not yet accepted by customer),2.0,3.0,,,"51.5252111093258, -0.141798828376192"
+682,London Power Networks (LPN),West Ham,West Ferry Circus 11kV,,11,Connection offers made (not yet accepted by customer),4.0,10.6,,,
+685,London Power Networks (LPN),Willesden 132kV,Fulham Palace Rd C 11kV,LPN-S000000000130,11,Budget Estimates Provided,2.0,5.0,,,"51.4906347192032, -0.221826595389063"
+688,London Power Networks (LPN),Willesden 132kV,Gibbons Rd 11kV,LPN-S000000000240,11,"Connection offers made (cancelled, expired, superseded)",1.0,5.0,,,"51.5463340961811, -0.256605931549261"
+693,London Power Networks (LPN),Willesden Grid 66 kV,Bulwer St 11kV,LPN-S000000000109,11,Connection offers made (not yet accepted by customer),2.0,6.9,,,"51.5055865356577, -0.223434837802431"
+707,London Power Networks (LPN),Wimbledon 3&4 132kV,Gorringe Park 11kV,LPN-S000000001037,11,Connection offers made (not yet accepted by customer),3.0,6.3,1,1.9,"51.4114161262174, -0.156410405717846"
+726,South Eastern Power Networks (SPN),Beddington,West Wickham 11kV,SPN-S000000008513,11,Connection offer made (accepted by customer),1.0,1.22,,,"51.3673846818439, -0.0052503842234876"
+727,South Eastern Power Networks (SPN),Beddington,West Wickham 11kV,SPN-S000000008513,11,Connection offer made (not yet accepted by customer),1.0,7.82,,,"51.3673846818439, -0.0052503842234876"
+730,South Eastern Power Networks (SPN),Bolney,Brighton Town 11kV,SPN-S000000008307,11,"Connection offer made (cancelled, expired, superseded)",1.0,1.5,,,"50.8249300033946, -0.14134268577123"
+754,South Eastern Power Networks (SPN),Bolney,Newhaven Town 11kV,,11,"Connection offer made (cancelled, expired, superseded)",,,1,5.1,
+756,South Eastern Power Networks (SPN),Bolney,Nutfield 11kV,SPN-S000000008450,11,"Connection offer made (cancelled, expired, superseded)",1.0,1.3,,,"51.2350505862432, -0.150161113209501"
+759,South Eastern Power Networks (SPN),Bolney,Pulborough 11kV,,11,Connection offer made (not yet accepted by customer),1.0,4.95,,,
+760,South Eastern Power Networks (SPN),Bolney,Queens Park 11kV,,11,Connection offer made (not yet accepted by customer),1.0,1.35,,,
+771,South Eastern Power Networks (SPN),Bolney,Bolney 132kV,SPN-S000000009905,132,Budget Estimates Provided,1.0,100.0,,,"50.975180415783, -0.235162529579716"
+775,South Eastern Power Networks (SPN),Canterbury,Canterbury Town 11kV,,11,"Connection offer made (cancelled, expired, superseded)",1.0,1.76,,,
+788,South Eastern Power Networks (SPN),Chessington,Ewell 11kV,,11,Connection offer made (not yet accepted by customer),1.0,1.35,,,
+796,South Eastern Power Networks (SPN),Chessington,Kingston 11kV,SPN-S000000008325,11,Budget Estimates Provided,,,1,1,"51.4137729656541, -0.30601715065195"
+807,South Eastern Power Networks (SPN),Kemsley,Sittingbourne Town 11kV,,11,Connection offer made (not yet accepted by customer),1.0,1.1,,,
+813,South Eastern Power Networks (SPN),Kingsnorth,Aylesford 6.6kV,SPN-S000000008312,11,Connection offer made (not yet accepted by customer),2.0,3.8,,,"51.3006804902293, 0.467312962378983"
+820,South Eastern Power Networks (SPN),Kingsnorth,Lordswood 11KV,,11,"Connection offer made (cancelled, expired, superseded)",1.0,15.69,,,
+823,South Eastern Power Networks (SPN),Kingsnorth,Strood 11kV,,11,"Connection offer made (cancelled, expired, superseded)",1.0,1.5,1,1,
+829,South Eastern Power Networks (SPN),Laleham,Richmond 11kV,,11,Connection offer made (accepted by customer),1.0,7.26,,,
+830,South Eastern Power Networks (SPN),Laleham,Richmond 11kV,,11,Connection offer made (not yet accepted by customer),2.0,2.12,,,
+845,South Eastern Power Networks (SPN),Ninfield,Hartley Grid 33kV,SPN-S000000009122,33,"Connection offer made (cancelled, expired, superseded)",,,1,10.2,"51.0933573232757, 0.506617889066594"
+847,South Eastern Power Networks (SPN),Ninfield,Little Common 11kV,SPN-S000000008429,11,Connection offer made (not yet accepted by customer),1.0,1.4,,,"50.8433736919331, 0.434125561399546"
+857,South Eastern Power Networks (SPN),Ninfield,Ninfield 132kV,SPN-S000000009936,132,Budget Estimates Provided,,,1,99.9,"50.8807166803942, 0.449620344398189"
+875,South Eastern Power Networks (SPN),Northfleet,Rosherville 6.6kV,SPN-S000000008470,11,Connection offer made (not yet accepted by customer),1.0,2.41,,,"51.4420512131409, 0.354433040667689"
+876,South Eastern Power Networks (SPN),Northfleet,Stonemarshes 11kV,SPN-S000000008544,11,Connection offer made (accepted by customer),1.0,6.64,,,"51.44386097645, 0.254623317868046"
+882,South Eastern Power Networks (SPN),Northfleet,Goudhurst 11kV,,132,Budget Estimates Provided,,,1,30,
+884,South Eastern Power Networks (SPN),Northfleet,Ebbsfleet Grid,,33,Budget Estimates Provided,1.0,41.75,,,
+887,South Eastern Power Networks (SPN),Richborough,Manston 11kV,SPN-S000000008616,11,"Connection offer made (cancelled, expired, superseded)",3.0,4.97,,,"51.353037578375, 1.36475273803397"
+912,South Eastern Power Networks (SPN),West Weybridge,Guildford 'A' 11kV,SPN-S000000008521,11,Connection offer made (not yet accepted by customer),1.0,1.5,,,"51.2459436246394, -0.578257455447134"
+915,South Eastern Power Networks (SPN),West Weybridge,Merrow 11kV,SPN-S000000008435,11,"Connection offer made (cancelled, expired, superseded)",1.0,1.35,,,"51.2510701377563, -0.545385789244119"
+917,South Eastern Power Networks (SPN),West Weybridge,West Weybridge 11kV,SPN-S000000009353,11,Connection offer made (accepted by customer),3.0,5.5,,,"51.3486201840969, -0.488594053389472"

@@ -1,0 +1,485 @@
+name,id,parent_id,company_name,company_id,stage,type,latitude,longitude,address,postal,city,market,state,country,power_mw,pue,year_operational
+Redhill Data Centre Campus - Building 1,11700,12932.0,Galaxy Data Centers,12696,Operational,Colocation,51.247775,-0.159748,1 St Annes Blvd,RH1 1PP,Redhill,London,,United Kingdom,,,
+Redhill Data Centre Campus - Building 2,11699,12932.0,Galaxy Data Centers,12696,Operational,Colocation,51.247665,-0.158616,2 St Annes Blvd,RH1 1AX,Redhill,London,,United Kingdom,1.4,,
+45 Maylands Avenue,15164,0.0,NorthTree Investment Management,13325,Planned,Colocation,51.761732,-0.439218,45 Maylands Ave,HP2 7BW,Hemel Hempstead,London,,United Kingdom,10.0,,
+Prescient Data Centres,7656,0.0,Prescient Data Centres,8558,Operational,Colocation,55.153207,-6.685766,Atlantic Link Enterprise Campus,BT52 1FA,Coleraine,Belfast,,United Kingdom,4.5,,2018.0
+630 Ajax Ave (LHR26),11702,0.0,Digital Realty,419,Operational,Colocation,51.5165,-0.617904,630 Ajax Ave,SL1 4DG,Slough,London,,United Kingdom,9.0,,
+631 Ajax Ave (LHR27),11703,0.0,Digital Realty,419,Operational,Colocation,51.517694,-0.620224,631 Ajax Ave,SL1 4DG,Slough,London,,United Kingdom,4.5,,
+Abbot Langley Data Center - Building 1,14470,14469.0,Greystoke,13087,Planned,Colocation,51.71281,-0.411393,Bedmond Road,WD5 0GX,Abbots Langley,London,,United Kingdom,48.0,,
+Abbot Langley Data Center - Building 2,14471,14469.0,Greystoke,13087,Planned,Colocation,51.712682,-0.40805,Bedmond Road,WD5 0GX,Abbots Langley,London,,United Kingdom,48.0,,
+Abbot Langley Data Center Campus,14469,0.0,Greystoke,13087,Operational,Campus,51.712705,-0.409797,Bedmond Road,WD5 0GX,Abbots Langley,London,,United Kingdom,96.0,,
+Abstation Data Center,4941,0.0,Thames Network Limited,3674,Operational,Colocation,51.4919,0.03558,50 New Lydenburg St,SE7 8NF,London,London,,United Kingdom,,,
+ADA London Docklands Campus,11252,0.0,Ada Infrastructure,11819,Operational,Campus,51.502904,0.019017,St Vincent Ferrer Ln,E16 2AP,Silvertown,London,,United Kingdom,210.0,,
+Aegis ONE,4252,0.0,Aegis Data Limited,3142,Operational,Colocation,51.186472,-0.601666,Catteshall Ln,GU7 1LB,Godalming,Surrey,,United Kingdom,6.0,,2014.0
+ServerChoice Stevenage Data Centre,1977,0.0,ServerChoice,801,Operational,Colocation,51.889083,-0.204858,"Gateway 1000, Whittle Way",SG1 2FP,Stevenage,Stevenage,Hertfordshire,United Kingdom,1.0,1.4,2008.0
+Altaire Core NOC,1991,0.0,Altaire Limited,807,Operational,Colocation,50.845864,-1.08532,"Quay Point, Northarbour Rd",PO6 3TD,Portsmouth,Portsmouth,Hampshire,United Kingdom,,,
+Amatis Newbury,13383,0.0,Amatis Networks Ltd,3321,Operational,Colocation,51.410264,-1.304723,"Castle Industrial Park, Pear Tree Ln",RG14 2EZ,Newbury,Newbury,,United Kingdom,,,
+Amazon AWS - Houghton Regis Campus,14712,0.0,Amazon AWS,1569,Operational,Campus,51.919518,-0.496247,Chantry Way,LU4 9UF,Houghton Regis,Luton,,United Kingdom,,,
+Amazon AWS - Houghton Regis DC1,14713,14712.0,Amazon AWS,1569,Planned,Hyperscaler,51.919645,-0.496774,Chantry Way,LU4 9UF,Houghton Regis,Luton,,United Kingdom,,,
+Amazon AWS - Houghton Regis DC2,14714,14712.0,Amazon AWS,1569,Planned,Hyperscaler,51.918705,-0.495186,Chantry Way,LU4 9UF,Houghton Regis,Luton,,United Kingdom,,,
+Amazon AWS LHR - Bracknell,10708,0.0,Amazon AWS,1569,Operational,Hyperscaler,51.413835,-0.78217,Cain Road,RG12 1JE,Bracknell,Berkshire,,United Kingdom,,,
+Amazon AWS LHR - Didcot,10707,0.0,Amazon AWS,1569,Operational,Hyperscaler,51.617276,-1.261593,1 Milton Road,OX11 7GN,Didcot,Oxfordshire,,United Kingdom,,,
+Amazon AWS LHR - Ridgeway,10709,0.0,Amazon AWS,1569,Planned,Hyperscaler,51.513786,-0.510191,"Ridgeway Distribution Center, The Ridgeway",SL0 9JQ,Iver,London,,United Kingdom,,,
+Amazon AWS LHR - Swindon,10706,0.0,Amazon AWS,1569,Operational,Hyperscaler,51.523933,-1.764446,Brimble Hill / Burderop,SN4 0QB,Swindon,Swindon,,United Kingdom,,,
+Pulsant Reading SE-3,8287,0.0,Pulsant Ltd,2637,Operational,Colocation,51.427599,-0.978904,"Unit 2, Smallmead Road",RG2 0QS,Reading,Berkshire,Berkshire,United Kingdom,3.6,,
+Six Degrees Anchorage Point,1997,0.0,Six Degrees Group,4945,Operational,Colocation,51.493301,0.031098,90 Anchor and Hope Ln,SE7 7SQ,London,London,,United Kingdom,2.0,,2008.0
+Angel House,5839,0.0,ITPS,4499,Operational,Colocation,54.875892,-1.590572,"Angel House, Drum Industrial Estate",DH2 1AQ,Chester Le Street,Durham,,United Kingdom,2.0,1.2,2015.0
+Rackspace Angel House,3236,0.0,Rackspace Hosting,668,Operational,Colocation,53.799639,-1.549122,Angel Court,LS3 1BS,Leeds,Leeds,Yorkshire,United Kingdom,,,
+Apatura Coldstream,14969,0.0,Apatura,13197,Planned,Campus,55.683863,-2.365834,A697 Road,TD10 6UL,Duns,Edinburgh,,United Kingdom,300.0,,
+Apatura East Ayrshire,14721,0.0,Apatura,13197,Planned,Campus,55.458039,-4.413745,Creoch Rd,KA18 2QH,Ochiltree,Cumnock,,United Kingdom,200.0,,
+Apatura Plean,15205,0.0,Apatura,13197,Planned,Campus,56.052963,-3.854824,A9 Road,FK5 4SU,Larbert,Glasgow,,United Kingdom,,,
+Apatura Ravenscraig,14855,0.0,Apatura,13197,Planned,Campus,55.790788,-3.974601,"Ravenscraig, New Craig Rd",ML1 2TZ,Motherwell,Glasgow,,United Kingdom,550.0,,
+aql DC2,2948,0.0,aql,689,Operational,Colocation,53.799639,-1.549122,Hunslet Lane,LS10 1JW,Leeds,Leeds,West Yorkshire,United Kingdom,,,
+Ark Data Centres - Cody Park Campus,7777,0.0,Ark Data Centres,8201,Operational,Campus,51.281065,-0.796276,"Cody Technology Park, Victor Way",GU14 0LH,Farnborough,Farnborough,,United Kingdom,51.0,,
+Ark Data Centres - Alliance Park Campus,14925,0.0,Ark Data Centres,8201,Operational,Campus,51.525321,-0.276744,Concord Rd,W3 0RZ,Ealing,London,,United Kingdom,50.0,,
+Ark Data Centres - Alliance Park DC1,14926,14925.0,Ark Data Centres,8201,Under Construction,Colocation,51.525834,-0.276948,Concord Rd,W3 0RZ,Ealing,London,,United Kingdom,,,
+Ark Data Centres - Alliance Park DC2,14927,14925.0,Ark Data Centres,8201,Planned,Colocation,51.524872,-0.276637,Concord Rd,W3 0RZ,Ealing,London,,United Kingdom,,,
+Ark Data Centres - Cody Park DC1,14928,7777.0,Ark Data Centres,8201,Operational,Colocation,51.282424,-0.794523,"Cody Technology Park, Victor Way",GU14 0LH,Farnborough,Farnborough,,United Kingdom,,,
+Ark Data Centres - Cody Park DC2,14929,7777.0,Ark Data Centres,8201,Operational,Colocation,51.282128,-0.795768,"Cody Technology Park, Victor Way",GU14 0LH,Farnborough,Farnborough,,United Kingdom,,,
+Ark Data Centres - Cody Park DC3,14930,7777.0,Ark Data Centres,8201,Operational,Colocation,51.281771,-0.797291,"Cody Technology Park, Victor Way",GU14 0LH,Farnborough,Farnborough,,United Kingdom,,,
+Ark Data Centres - Cody Park DC4,14931,7777.0,Ark Data Centres,8201,Operational,Colocation,51.280729,-0.798117,"Cody Technology Park, Victor Way",GU14 0LH,Farnborough,Farnborough,,United Kingdom,,,
+Ark Data Centres - Cody Park DC5,14932,7777.0,Ark Data Centres,8201,Operational,Colocation,51.280739,-0.795649,"Cody Technology Park, Victor Way",GU14 0LH,Farnborough,Farnborough,,United Kingdom,,,
+Ark Data Centres - Cody Park DC6,14933,7777.0,Ark Data Centres,8201,Operational,Colocation,51.281054,-0.794825,"Cody Technology Park, Victor Way",GU14 0LH,Farnborough,Farnborough,,United Kingdom,,,
+Ark Data Centres - Longcross Park Campus,10117,0.0,Ark Data Centres,8201,Operational,Campus,51.380498,-0.594739,Chobham Ln,KT16 0EE,Longcross,London,,United Kingdom,54.0,,
+Ark Data Centres - Longcross Park DC1,14944,10117.0,Ark Data Centres,8201,Under Construction,Colocation,51.380185,-0.594443,Chobham Ln,KT16 0EE,Longcross,London,,United Kingdom,,,
+Ark Data Centres - Longcross Park DC2,14945,10117.0,Ark Data Centres,8201,Under Construction,Colocation,51.380915,-0.594711,Chobham Ln,KT16 0EE,Longcross,London,,United Kingdom,,,
+Ark Data Centres - Meridian Park,10116,0.0,Ark Data Centres,8201,Operational,Colocation,51.620151,-0.040514,10 Ardra Rd,N9 0BD,London,London,,United Kingdom,16.0,,2020.0
+Ark Data Centres - Spring Park DC1,14938,7778.0,Ark Data Centres,8201,Operational,Colocation,51.418352,-2.220572,2 Westwells Rd,SN139GB,Corsham,Bristol UK,,United Kingdom,,,
+Ark Data Centres - Spring Park DC2,14939,7778.0,Ark Data Centres,8201,Operational,Colocation,51.418755,-2.218437,Westwells Rd,SN139GB,Corsham,Bristol UK,,United Kingdom,,,
+Ark Data Centres - Spring Park DC3,14940,7778.0,Ark Data Centres,8201,Operational,Colocation,51.417574,-2.219574,Westwells Rd,SN139GB,Corsham,Bristol UK,,United Kingdom,,,
+Ark Data Centres - Spring Park DC4,14941,7778.0,Ark Data Centres,8201,Operational,Colocation,51.417859,-2.218185,Westwells Rd,SN139GB,Corsham,Bristol UK,,United Kingdom,,,
+Ark Data Centres - Spring Park DC5,14942,7778.0,Ark Data Centres,8201,Planned,Colocation,51.419257,-2.215553,Westwells Rd,SN139GB,Corsham,Bristol UK,,United Kingdom,,,
+Ark Data Centres - Spring Park DC6,14943,7778.0,Ark Data Centres,8201,Planned,Colocation,51.418559,-2.214909,Westwells Rd,SN139GB,Corsham,Bristol UK,,United Kingdom,,,
+Ark Data Centres - Union Park Campus,10118,0.0,Ark Data Centres,8201,Operational,Campus,51.502025,-0.410355,N Hyde Gardens,UB3 4QR,Hayes,London,,United Kingdom,99.0,,
+Ark Data Centres - Union Park DC1,14934,10118.0,Ark Data Centres,8201,Under Construction,Colocation,51.502047,-0.411493,N Hyde Gardens,UB3 4QR,Hayes,London,,United Kingdom,,,
+Ark Data Centres - Union Park DC2,14935,10118.0,Ark Data Centres,8201,Planned,Colocation,51.502046,-0.410345,N Hyde Gardens,UB3 4QR,Hayes,London,,United Kingdom,,,
+Ark Data Centres - Union Park DC3,14936,10118.0,Ark Data Centres,8201,Planned,Colocation,51.502058,-0.409347,N Hyde Gardens,UB3 4QR,Hayes,London,,United Kingdom,,,
+Ark Data Centres - Union Park DC4,14937,10118.0,Ark Data Centres,8201,Planned,Colocation,51.501082,-0.410012,N Hyde Gardens,UB3 4QR,Hayes,London,,United Kingdom,,,
+Ark Data Centres - Elstree Campus,14249,0.0,Ark Data Centres,8201,Planned,Campus,51.657632,-0.348619,A41 Watford-by-pass,WD25 8JH,Watford,London,,United Kingdom,200.0,,
+Ark Data Centres - Spring Park Campus,7778,0.0,Ark Data Centres,8201,Operational,Campus,51.418384,-2.219169,"Spring Park, Westwell Road",SN139GB,Corsham,Wiltshire,,United Kingdom,55.0,,2005.0
+Asanti Livingston Data Centre,13698,13666.0,Asanti Datacentres Ltd.,12856,Operational,Colocation,55.889077,-3.557973,1-3 Appleton Pl,EH54 7EZ,Livingston,Edinburgh,,United Kingdom,,1.4,
+Asanti Manchester Data Centre,13697,0.0,Asanti Datacentres Ltd.,12856,Operational,Colocation,53.463348,-2.278219,"1 Brindley Rd, Old Trafford",M16 9TR,Stretford,Manchester,,United Kingdom,,,
+Ask4 DC1 Sheffield,3641,0.0,Ask4 Data Centres,2557,Operational,Colocation,53.398164,-1.429319,Brompton Road,S9 2PA,Sheffield,Sheffield,South Yorkshire,United Kingdom,1.5,,
+Aspire Heworth Hall,3918,0.0,Aspire Technology Solutions Ltd,2843,Operational,Colocation,54.951766,-1.552164,"Heworth Hall, Shields Rd",NE10 0UX,Gateshead,Newcastle,TYne and Wear,United Kingdom,2.0,,2007.0
+GreenScale Foyle Port,12323,0.0,GreenScale,12190,Planned,Colocation,,,"SECRET, within Foyle Port Innovation Park in Maydown",BT47 6FL,Maydown,Londonderry,,United Kingdom,305.0,,
+Atlas Business Bunker Datacentre,6382,0.0,Atlas Business Group of Companies Ltd,5194,Operational,Colocation,53.027046,-2.530457,"Hack Green Secret Nuclear Bunker, French Ln",CW5 8BL,Nantwich,Crewe,,United Kingdom,,,2001.0
+AtlasEdge LBA001,9712,0.0,AtlasEdge,10604,Operational,Colocation,53.779693,-1.582983,Gelderd Close,LS12 6DS,Leeds,Leeds,,United Kingdom,3.0,,
+AtlasEdge MAN001,9714,0.0,AtlasEdge,10604,Operational,Colocation,53.476918,-2.308577,"Unit 400, Metroplex Business Park",M50 2UE,Salford,Manchester,,United Kingdom,0.34,,
+ATOS Andover Data Centre,13667,0.0,Atos Group,12835,Operational,Colocation,51.213086,-1.479222,2 Shepherd’s Spring Lane,SP10 1DL,Andover,London,,United Kingdom,10.0,,
+ATOS Birmingham Data Centre,13659,0.0,Atos Group,12835,Operational,Colocation,52.467826,-1.723189,3300 Solihull Pkwy,B37 7YN,Birmingham,Birmingham UK,,United Kingdom,2.5,1.58,1990.0
+ATOS Livingston Data Centre,13666,0.0,Atos Group,12835,Operational,Colocation,55.888846,-3.558576,1-3 Appleton Pl,EH54 7EZ,Livingston ,Edinburgh,,United Kingdom,,,
+ATOS Longbridge Data Centre,13658,0.0,Atos Group,12835,Operational,Colocation,52.382085,-1.982549,"Plot 6, The Cofton Centre Longbridge Technology Park",B31 4PT,Longbridge,Birmingham UK,,United Kingdom,,1.16,
+Avensys Networks Ltd,7260,0.0,Avensys Networks Ltd,7545,Operational,Colocation,53.390187,-1.446485,180 Attercliffe Road,S4 7WZ,Sheffield,Sheffield,South Yorkshire,United Kingdom,,,1996.0
+Liverpool City King Edward,8994,0.0,Liverpool City Region Data Centres,11477,Operational,Colocation,53.411744,-2.998568,15 Gibraltar Row,L3 7HJ,Liverpool,Liverpool,Merseyside,United Kingdom,1.0,,2017.0
+Liverpool City Queen's,8995,0.0,Liverpool City Region Data Centres,11477,Operational,Colocation,53.39591,-2.98305,Queens Dock Business Centre,L1 0BG,Liverpool,Liverpool,Merseyside,United Kingdom,12.0,,2017.0
+BE Virtus Enfield ,14387,2650.0,The BE Company,12775,Operational,Colocation,,,"SECRET, within  2.4 miles from M25  Junction 25",EN3 6GU,Enfield ,London,,United Kingdom,5.0,1.5,2011.0
+BE Slough,14340,0.0,The BE Company,12775,Operational,Colocation,,,"SECRET, within 5-minute walk from Slough Central",SL2 5EP,Slough,London,,United Kingdom,2.0,1.5,2008.0
+Service Express Bedford,3354,0.0,Service Express,11657,Operational,Colocation,52.126559,-0.42223,"Unit 1, Franklin Court, Priory Business Park, Stannard Way",MK44 3JZ,Bedford,Bedford,,United Kingdom,,,
+Bootle Hornby,9657,0.0,Liverpool City Region Data Centres,11477,Operational,Colocation,53.46215,-3.001209,Hornby Boulevard,L20 5DX,Liverpool,Liverpool,Merseyside,United Kingdom,0.3,1.15,2024.0
+Brighton Digital Exchange Data Center,11946,0.0,Brighton Digital Exchange (BDX),12022,Operational,Colocation,50.832183,-0.138535,"New England House, 640 New England St",BN1 4GH,Brighton,London,,United Kingdom,,,
+brightsolid Aberdeen,6588,0.0,Brightsolid,2375,Operational,Colocation,57.152423,-2.160252,Whitemyres Ave,AB16 6HQ,Aberdeen,Aberdeen,,United Kingdom,,,
+brightsolid Dundee,3455,0.0,Brightsolid,2375,Operational,Colocation,56.463956,-3.054818,"Gateway House, Luna Place, Dundee Technology Park",DD2 1TP,Dundee,Dundee,,United Kingdom,,,1995.0
+Brunel Way,6752,0.0,Green Colo Ltd,1335,Operational,Colocation,50.86777,-1.245601,14 Brunel Way,PO15 5TX,Fareham,Portsmouth,Hamsphire,United Kingdom,1.0,1.1,2017.0
+BT Baynard House,13665,0.0,BT Services (British Telecom),1188,Operational,Colocation,51.511833,-0.100844,"Baynard House, 145 Queen Victoria St",EC4V 4AA,London,London,,United Kingdom,,,
+BT Ireland (Site 3),4928,0.0,BT Services (British Telecom),1188,Operational,Colocation,54.594673,-5.86494,287-301 Upper Newtownards Rd,BT4 3JH,Belfast,Belfast,County Antrim,United Kingdom,,,
+BT Ireland (Site 2),4927,0.0,BT Services (British Telecom),1188,Operational,Colocation,54.59611,-5.923436,45-75 May St,BT1 4NB,Belfast,Belfast,Antrim,United Kingdom,,,
+BT Telephone House Birmingham,11409,0.0,BT Services (British Telecom),1188,Operational,Building,52.482573,-1.905435,19 Lionel St,B3 1AQ,Birmingham,Birmingham UK,,United Kingdom,,,
+Bytemark YO26,11977,0.0,Bytemark,12048,Operational,Colocation,53.980125,-1.129934,2 Opus Ave,YO26 6BL,York,York,,United Kingdom,1.0,,
+Telstra Cambridge,2285,0.0,Telstra International,345,Operational,Colocation,52.235527,0.153015,"St John’s Innovation Park, Cowley Road",CB4 0WS,Cambridge,Cambridge,,United Kingdom,,,
+Carbon-Z Swindon,11638,0.0,Carbon-Z,11896,Operational,Colocation,51.599913,-1.776964,"Unit D, Stephenson Road",SN25 5AX,Swindon,Swindon,,United Kingdom,1.0,,
+CCS DC14 - Leeds,3500,0.0,C.C.S. (Leeds) Ltd,125,Operational,Colocation,53.827767,-1.455374,"Unit A, Seacroft Trade Park, Coal Rd",LS14 2AQ,Leeds,Leeds,West Yorkshire,United Kingdom,1.0,,1998.0
+Centersquare - London LHR2-A,12481,0.0,Centersquare,11115,Operational,Colocation,51.494641,-0.018604,7 Greenwich View Place,E14 9NN,London,London,,United Kingdom,1.0,,
+CentriLogic Bracknell,3908,0.0,Centrilogic,775,Operational,Colocation,51.41585,-0.75811,No. 5 Arlington Square,RG12 1WA,Bracknell,Berkshire,Berkshire,United Kingdom,3.0,,
+nLighten Bridgend CWL1,13662,0.0,nLighten,11668,Operational,Colocation,51.491853,-3.580833,"Bridgend Science Park, Technology Drive",CF31 3NA,Bridgend,Cardiff,,United Kingdom,1.5,,
+CGI Waterton Data Centre,13663,0.0,CGI,12836,Operational,Colocation,51.496493,-3.532106,"Waterton Industrial Estate, Moor Rd",CF31 3TR,Bridgend,Cardiff,,United Kingdom,,,
+China Mobile London,8339,0.0,China Mobile International,9980,Operational,Colocation,51.519232,-0.627648,536 Ipswich Road,SL1 4EP,Slough,London,,United Kingdom,15.0,,2019.0
+ChunkyChips Data Centre,3845,0.0,ChunkyChips.net,2767,Operational,Colocation,51.58437,0.466992,14 Carnival Cl,SS14 3WN,Basildon,Essex,,United Kingdom,,,
+Cloud Innovation DC01,7335,0.0,Cloud Innovation Limited,7781,Operational,Colocation,50.743261,-1.952211,"Unit 6, The Concept Centre, Innovation Cl",BH12 4QD,Poole,Poole,,United Kingdom,,,
+Redcentric London Data Centre,800,0.0,Redcentric,903,Operational,Colocation,51.523221,-0.083108,80 Clifton Street,EC2A 4HB,London,London,,United Kingdom,1.0,,1993.0
+City Reach,3073,0.0,Ogden Properties Ltd,1991,Operational,Building,51.494637,-0.018271,5-6 Greenwich View Place,E14 9NN,London,London,,United Kingdom,,,
+Clearstream Centre Cardiff,3939,0.0,Clearstream Group,2882,Operational,Colocation,51.505431,-3.228608,Station Rd,CF38 1Af,Cardiff,Cardiff,,United Kingdom,,,
+Cloud House West (LHR19),7782,0.0,Digital Realty,419,Operational,Colocation,51.496903,-0.018944,"Cloud House West, 47 Millharbour",E14 9TR,London,London,,United Kingdom,2.1,,
+CloudHQ LHR1,9239,9238.0,CloudHQ,6253,Planned,Colocation,51.627675,-1.269961,Loverose Way,OX14 4TA,Didcot,Oxfordshire,,United Kingdom,,,
+CloudHQ LHR2,9240,9238.0,CloudHQ,6253,Planned,Colocation,51.628055,-1.271824,Loverose Way,OX14 4TA,Didcot,Oxfordshire,,United Kingdom,,,
+CloudHQ LHR Campus,9238,0.0,CloudHQ,6253,Operational,Campus,51.627881,-1.270893,Loverose Way,OX14 4TA,Didcot,Oxfordshire,,United Kingdom,101.0,,
+Aptum Portsmouth,6445,0.0,Aptum,431,Operational,Colocation,50.845175,-0.987632,"Building 5000, Langstone Technology Park Langstone Road",PO9 1SA,Havant,Portsmouth,Hampshire,United Kingdom,10.0,,2011.0
+Cogent Data Center - London,3072,0.0,"Cogent Communications, Inc.",443,Operational,Colocation,51.499919,-0.020982,20 Mastmaker Court,E149 UB,London,London,,United Kingdom,0.7,,2011.0
+SDC Colchester Data Centre,8282,0.0,SDC Hosting and Support,9910,Operational,Colocation,51.923767,0.921581,890 The Crescent,CO49YQ,Colchester,Colchester,ESSEX,United Kingdom,,,2020.0
+Colocker,7429,0.0,Ecom International Network,8036,Operational,Colocation,52.079757,-0.703324,17 Howard Way,MK16 9PY,Newport Pagnell,Milton Keynes,Buckinghamshire,United Kingdom,,,
+AtlasEdge LCY001,4673,0.0,AtlasEdge,10604,Operational,Colocation,51.508457,-0.057929,"Unit 3 Princes Court, Wapping Lane 11",E1W 2DA,London,London,,United Kingdom,4.0,,
+Colt London West,4674,0.0,Colt Technology Services,316,Operational,Colocation,51.531818,-0.257272,13 Volt Ave,NW10 6PW,London,London,,United Kingdom,8.0,1.4,
+Colt London Hayes,10103,0.0,Colt Technology Services,316,Under Construction,Colocation,51.50964,-0.393973,Beaconsfield Rd,UB4 0JZ,Hayes,London,,United Kingdom,57.0,1.24,2002.0
+Colt London North,7203,0.0,Colt Technology Services,316,Operational,Colocation,51.799915,-0.18359,"20 Black Fan Road, Welwyn Garden City",AL7 1QA,Welwyn Garden City,London,,United Kingdom,41.0,1.21,
+Computacenter Hertfordshire,13655,0.0,Computacenter,1961,Operational,Colocation,51.774199,-0.245837,"Hatfield Business Park, Hatfield Ave",AL10 9TW,Hatfield,London,,United Kingdom,,,
+Computacenter Manchester,13656,0.0,Computacenter,1961,Operational,Colocation,53.471274,-2.294623,"Digital World Centre, 1 Lowry Plaza, Salford Quays",M50 3UB,Salford,Manchester,,United Kingdom,,,
+Comtec House,3312,0.0,Sargasso Networks Inc.,565,Operational,Colocation,51.243648,-0.215376,46A Albert Rd N,RH2 9EL,Reigate,Reigate,Surrey,United Kingdom,,,2007.0
+Continuity House,8759,0.0,UK Dedicated Servers,10949,Operational,Colocation,52.396707,-1.578281,205 Torrington Avenue,CV4 9AP,Coventry,Coventry,,United Kingdom,3.3,,
+Coreix Enfield,437,2650.0,Coreix Limited,22,Operational,Colocation,51.651895,-0.055386,"Unit 3, Trade city, 13 Crown Rd",EN1 1TX,Enfield,London,,United Kingdom,16.0,,
+Corscale Court Lane,10064,0.0,Corscale,11641,Planned,Campus,51.511906,-0.501389,Court Ln,SL0 9HL,Iver,Slough,,United Kingdom,103.0,,
+BE Bournemouth,13370,0.0,The BE Company,12775,Operational,Colocation,50.724044,-1.906547,300 Poole  Road,BH121AZ ,Poole,Bournemouth,Dorset,United Kingdom,3.0,1.5,2009.0
+"Crawley, Unit 1 (LGW15)",11701,0.0,Digital Realty,419,Operational,Colocation,51.127468,-0.176451,1 Power Ave,RH10 9BE,Crawley,London,,United Kingdom,,,
+Creslow Park,7430,0.0,Ecom International Network,8036,Operational,Colocation,51.887996,-0.818408,Creslow Park,HP22 4EH,Aylesbury,Milton Keynes,Buckinghamshire,United Kingdom,,,
+Cressex Business Park,10169,0.0,CapitaLand Data Centre,8510,Operational,Colocation,51.619781,-0.779081,"Cressex Business Park, 1 Coronation Road",HP12 3TA,High Wycombe,London,,United Kingdom,,,
+Croydon Data Centre,10170,0.0,CapitaLand Data Centre,8510,Operational,Colocation,51.383274,-0.13759,Beddington Lane,CR0 4TD,Croydon,London,,United Kingdom,25.0,,
+Custodian Dartford,11414,0.0,Custodian Data Centres,853,Operational,Colocation,51.453386,0.258028,"Crossways Business Park, 11 Newton's Ct",DA2 6QL,Dartford,London,,United Kingdom,10.0,1.2,
+Custodian Maidstone,2031,0.0,Custodian Data Centres,853,Operational,Colocation,51.279626,0.548594,"Vinters Business Park, New Cut Road",ME14 5NZ,Maidstone,Kent,Kent,United Kingdom,,1.2,
+CWCS Nottingham Data Center,2952,0.0,CWCS Managed Hosting,1862,Operational,Colocation,52.928153,-1.212336,Portland Street,NG9 2LP,Nottingham,Nottingham,Nottinghamshire,United Kingdom,,,
+CyrusOne LON2 - West Drayton,9438,0.0,CyrusOne Data Centers,637,Operational,Colocation,51.503736,-0.447762,"DC2 Prologis Park Heathrow, Stockley Road",UB7 9FN,West Drayton,London,,United Kingdom,13.92,,
+CyrusOne LON3 - Slough,9439,0.0,CyrusOne Data Centers,637,Operational,Colocation,51.526047,-0.626995,700 Stirling Road,SL1 4ST,Slough,Slough,,United Kingdom,9.0,,
+CyrusOne LON4 - Slough,9440,0.0,CyrusOne Data Centers,637,Operational,Colocation,51.516441,-0.627751,225B Bath Road,SL1 5PP,Slough,Slough,,United Kingdom,18.0,,
+CyrusOne LON5 - Slough,9441,0.0,CyrusOne Data Centers,637,Operational,Colocation,51.516239,-0.626676,225C Bath Road,SL1 5PP,Slough,Slough,,United Kingdom,18.0,,
+CyrusOne LON6 - Iver Heath,14696,0.0,CyrusOne Data Centers,637,Planned,Colocation,51.550304,-0.517525,"Dromenagh Farm, Seven Hills Rd",SL0 0PA,Iver Heath,London,,United Kingdom,90.0,,
+Centersquare - London LHR2-B,3674,0.0,Centersquare,11115,Operational,Colocation,51.494798,-0.019133,7 Greenwich View Pl,E14 9NN,London,London,,United Kingdom,0.5,,
+Centersquare - London LHR3-A,3675,0.0,Centersquare,11115,Operational,Colocation,51.439184,-0.882846,"5 Eskdale Rd, Winnersh Triangle",RG41 6TS,Wokingham,London,,United Kingdom,4.32,,
+Asanti Leeds Data Centre,10269,0.0,Asanti Datacentres Ltd.,12856,Operational,Colocation,53.741337,-1.6502,"Asanti House, Oakwell Way",WF17 9LU,Birstall,Leeds,,United Kingdom,,,
+Wavenet Bristol,10267,0.0,Wavenet Limited,1941,Operational,Colocation,51.548664,-2.559542,"Daisy House, Great Park Rd",BS32 4QG,Bristol,Bristol UK,,United Kingdom,,,
+Wavenet Enfield,10270,2650.0,Wavenet Limited,1941,Operational,Colocation,51.651848,-0.055387,"Unit 3, Trade Centre, Crown Road",EN1 1TX,Enfield,London,,United Kingdom,,,
+Asanti Farnborough Data Centre,10271,0.0,Asanti Datacentres Ltd.,12856,Operational,Colocation,51.293019,-0.78743,"B15 & B17, Armstrong Mall",GU14 0NR,Farnborough,London,,United Kingdom,,,
+Asanti Hamilton Data Centre,10268,0.0,Asanti Datacentres Ltd.,12856,Operational,Colocation,55.780854,-4.099867,4 Lister Way,G72 0FT,Blantyre,Glasgow,,United Kingdom,,,
+Asanti Reading Data Centre,10266,0.0,Asanti Datacentres Ltd.,12856,Operational,Colocation,51.425635,-0.971638,472 Basingstoke Rd,RG2 0QN,Reading,London,,United Kingdom,,,
+Dark Nebulae Data Vault,8133,0.0,Dark Nebulae LTD,9429,Operational,Colocation,50.72187,-1.874808,106 Old Christchurch Road,BH1 1LR,Bournemouth,Bournemouth,Dorset,United Kingdom,,,2008.0
+DataBank LHR1 - London Heathrow,9167,0.0,DataBank,1615,Operational,Colocation,51.446656,-0.454248,"Unit 4, Westgate Industrial Estate",TW14 8RS,Feltham,London,,United Kingdom,3.6,,
+Datacenta Data Center,11978,0.0,Datacenta Hosting,8033,Operational,Colocation,50.680664,-2.256092,"Dorset Innovation Park, Unit 20, The Quadrant",DT2 8ZB,Winfrith Newburgh,Bournemouth,,United Kingdom,,,
+Data Centre Plus,6404,0.0,Datacentreplus,5186,Operational,Colocation,53.479664,-2.29689,4 Carolina Way,M50 2ZY,Salford,Manchester,Greater Manchester,United Kingdom,,,
+Datanet AHF Fleet Data Centre,6292,0.0,Datanet.co.uk Ltd,933,Operational,Colocation,51.298831,-0.830239,"Aspen House, Barley Way, Ancells Business Park",GU51 2UT,Fleet,Fleet,Hampshire,United Kingdom,,,
+Datatech UK Alvechurch,2016,0.0,Datatech UK Ltd,838,Operational,Colocation,52.336209,-1.942166,Bordesley Hall,B48 7QA,Alvechurch,Birmingham UK,,United Kingdom,,,
+Datatech UK Redditch,5307,0.0,Datatech UK Ltd,838,Operational,Colocation,52.310774,-1.936793,"Prospect House, Fishing Line Rd",B97 6EW,Redditch,Birmingham UK,,United Kingdom,,,2014.0
+DataVita DV2 - Glasgow,12516,0.0,DataVita Ltd,4598,Operational,Colocation,55.861579,-4.265281,177 Bothwell St,G2 7ER,Glasgow,Glasgow,,United Kingdom,1.0,1.18,
+DataVita DV1 - Lanarkshire,5911,0.0,DataVita Ltd,4598,Operational,Colocation,57.34063,-2.132723,"Unit 1, York Road",ML6 8NW,Chapelhall,Glasgow,,United Kingdom,40.0,1.15,2016.0
+Datum London FRN2,10233,0.0,Datum Datacentres Ltd,3116,Planned,Colocation,51.280416,-0.796515,Cody Technology Park,GU140LX,Farnborough,Farnborough,,United Kingdom,4.0,,
+Datum Manchester MCR2,10234,0.0,Datum Datacentres Ltd,3116,Operational,Colocation,53.378602,-2.258565,"Simon House, Brownley Rd",M22 5RA,Wythenshawe,Manchester,,United Kingdom,4.0,,2025.0
+DC01UK - Building 1,12154,12153.0,DC01 UK Ltd,12131,Planned,Colocation,51.690654,-0.216065,Swanland Rd,EN6 3QB,Potters Bar,London,,United Kingdom,,,
+DC01UK - Building 2,12155,12153.0,DC01 UK Ltd,12131,Planned,Colocation,51.689233,-0.217214,Swanland Rd,EN6 3QB,Potters Bar,London,,United Kingdom,,,
+DC01UK - Building 3,12156,12153.0,DC01 UK Ltd,12131,Planned,Colocation,51.686621,-0.21715,Swanland Rd,EN6 3QB,Potters Bar,London,,United Kingdom,,,
+DC01UK Campus,12153,0.0,DC01 UK Ltd,12131,Operational,Campus,51.688375,-0.216456,Swanland Rd,EN6 3QB,Potters Bar,London,,United Kingdom,320.0,,
+DC Intelligence DC1,8093,0.0,DC Intelligence Ltd,9667,Operational,Colocation,52.288636,0.168224,5100 Cambridge Research Park,CB25 9TL,Cambridge,Cambridge,,United Kingdom,,,
+QuickHostUK DC1 High Wycombe,8756,0.0,QuickHostUK,10937,Operational,Colocation,51.601147,-0.711799,Chapel Road,HP10 9AA,High Wycombe,High Wycombe,Buckinghamshire,United Kingdom,,,2013.0
+ARO Liverpool,3826,0.0,AIMES,1994,Operational,Colocation,53.407366,-2.932834,"The Liverpool Innovation Park, 360 Edge Ln",L7 9NJ,Liverpool,Liverpool,Merseyside,United Kingdom,1.0,,2012.0
+aql DC3,5972,0.0,aql,689,Operational,Colocation,53.793269,-1.541033,11-15 Hunslet Road,LS10 1JQ,Leeds,Leeds,West Yorkshire,United Kingdom,,,
+DC4 & DC5,10606,0.0,Gridjet Datacentre Ltd,11728,Operational,Colocation,53.783335,-1.573285,"Unit 4-5, Tristram Centre",LS12 6BF,Leeds,Leeds,,United Kingdom,2.0,,2008.0
+aql DC5,5971,0.0,aql,689,Operational,Colocation,53.800755,-1.549077,"Canon House, Apex Way",LS11 5LN,Leeds,Leeds,West Yorkshire,United Kingdom,,,
+Deep Green Bradford,15134,0.0,Deep Green,11151,Planned,Colocation,53.795116,-1.765431,Listerhills Rd & Thornton Rd,BD1 2JD,Bradford,Bradford,,United Kingdom,5.0,,
+Deep Green Exmouth,8851,0.0,Deep Green,11151,Operational,Colocation,50.62142,-3.416385,The Royal Avenue,EX8 1EN,Exmouth,Exeter,Devon,United Kingdom,,,
+Deep Green Swindon (DG03),14793,11638.0,Deep Green,11151,Operational,Colocation,51.600443,-1.776636,"Unit D, Stephenson Rd",SN25 5AX,Swindon,Swindon,,United Kingdom,1.1,1.3,
+Deep Green Manchester (DG01),14791,0.0,Deep Green,11151,Planned,Colocation,53.450203,-2.371153,"Move Urmston Leisure Centre, Bowfell Rd",M41 5RR,Urmston,Manchester,,United Kingdom,0.4,1.2,
+Deep Green York (DG02),14792,0.0,Deep Green,11151,Planned,Colocation,53.985423,-1.052605,"Monks Cross Leisure Park, Kathryn Ave",YO32 9JS,Huntington,York,,United Kingdom,0.5,,
+Delme Place,2487,0.0,Green Colo Ltd,1335,Operational,Colocation,50.848162,-1.166359,Delme Place,PO16 8UX,Fareham,Portsmouth,Hampshire,United Kingdom,1.0,,2001.0
+1 Murfield Crescent,1351,0.0,Digital Realty,419,Operational,Colocation,51.496903,-0.018944,"Cloud House, 1 Muirfield Crescent",E14 9TR,London,London,,United Kingdom,,,
+Meridian Gate (LHR21),1336,0.0,Digital Realty,419,Operational,Colocation,51.500621,-0.011758,215 Marsh Wall ,E14 9FJ,London,London,,United Kingdom,,,
+Sovereign House (LHR20),1350,0.0,Digital Realty,419,Operational,Colocation,51.499654,-0.010732,227 Marsh Wall,E14 9SD,London,London,,United Kingdom,4.8,,
+Digital Space Newport,9660,0.0,Digital Space,11612,Operational,Colocation,52.763873,-2.361007,Audley Avenue Industrial Estate,TF10 7BX,Newport,South Wales,,United Kingdom,,,
+Digital Space Telford,9658,0.0,Digital Space,11612,Operational,Colocation,52.718348,-2.457243,"Hortonwood 37, Donnington, ",TF1 7GT,Telford ,Telford ,Shropshire,United Kingdom,,,
+DSM Eco Data Centre,6444,0.0,MyHostingSpace - DSM Group,5302,Operational,Colocation,52.554309,-0.390878,"The Old Hangar, Elton Road",PE8 6NE,Peterborough,Peterborough,Cambridgeshire,United Kingdom,2.0,,2004.0
+DXC Wynyard Data Center,15110,0.0,DXC Technology,13060,Operational,Colocation,54.633343,-1.309932,Wynyard Business Park,TS22 5TH,Stockton-on-Tees,Middlesbrough,,United Kingdom,,,
+EBC Group Birmingham,11408,11409.0,EBC Group,11853,Operational,Colocation,52.482717,-1.905649,19 Lionel St,B3 1AQ,Birmingham,Birmingham UK,,United Kingdom,,,
+Echelon LCY10,10937,0.0,Echelon Data Centres,11772,Operational,Colocation,51.495428,-0.018145,2-4 Greenwich View Pl,E14 9NN,London,London,,United Kingdom,17.0,,
+Echelon LCY20,10938,0.0,Echelon Data Centres,11772,Under Construction,Colocation,51.715644,-0.621163,"Chiltern Asheridge Road, Great Hivings",HP5 2PY,Chesham,London,,United Kingdom,30.0,,
+EconDC,3696,0.0,OSHS Ltd,2589,Operational,Colocation,51.511141,-0.474407,"Unit 1, Globe House, Bentinck Road",UB7 7RQ,West Drayton,London,Middlesex,United Kingdom,2.0,,
+EdgeCore Bracknell,10639,0.0,EdgeCore,6273,Planned,Colocation,51.414646,-0.778925,"Cain Road, Amen Corner",RG12 1HN,Bracknell,Berkshire,,United Kingdom,,,
+Edinburg Green Campus,15408,0.0,Shelborn Asset Management,13398,Planned,Campus,55.93203,-3.308962,1 Redheughs Ave,EH12 9JN,Edinburgh,Edinburgh,,United Kingdom,,,
+Edinburg Green - Building 1,15409,15408.0,Shelborn Asset Management,13398,Planned,Colocation,55.932042,-3.307798,1 Redheughs Ave,EH12 9JN,Edinburgh,Edinburgh,,United Kingdom,,,
+Edinburg Green - Building 2,15410,15408.0,Shelborn Asset Management,13398,Planned,Colocation,55.931466,-3.309238,1 Redheughs Ave,EH12 9JN,Edinburgh,Edinburgh,,United Kingdom,,,
+Elasticity Slough,8896,0.0,Elasticity Limited,11231,Operational,Colocation,51.51274,-0.586847,8 Whittenham Cl,SL2 5EG,Slough,Slough,Berkshire,United Kingdom,1.6,1.6,2008.0
+Elsham Tech Park Ltd,14351,0.0,Unknown Company,448,Planned,Campus,53.600482,-0.417698,"Elsham Wolds Industrial Estate, A15",DN20 0SQ,Brigg ,Hull,,United Kingdom,,,
+Epsilon Global Hubs - London,519,0.0,Epsilon,91,Operational,Colocation,51.525009,-0.084259,69-77 Paul Street,EC2A 4NW,London,London,,United Kingdom,1.4,,
+Equinix LD10,9123,0.0,Equinix,422,Operational,Colocation,51.52259,-0.6244,13 Liverpool Road,SL1 4QZ,Slough,Slough,,United Kingdom,,,
+Equinix LD11x,9124,0.0,Equinix,422,Operational,Colocation,51.52322,-0.63756,765 Henley Road,SL1 4JW,Slough,Slough,,United Kingdom,,,
+Equinix LD13x,9125,0.0,Equinix,422,Operational,Colocation,51.521819,-0.62395,13 Liverpool Road,SL1 4QZ,Slough,Slough,,United Kingdom,,,
+Equinix LD5 Slough,2629,0.0,Equinix,422,Operational,Colocation,51.522463,-0.62905,8 Buckingham Avenue,SL1 4AX,Slough,Slough,Berkshire,United Kingdom,,,
+Equinix LD7,9018,0.0,Equinix,422,Operational,Colocation,51.52547,-0.63355,1 Banbury Avenue,SL1 4LH,Slough,London,,United Kingdom,,,
+Equinix MA3,9126,0.0,Equinix,422,Operational,Colocation,53.46797,-2.29334,"House, 76 Trafford Wharf Road, Trafford Park",M17 1HE,Manchester,Manchester,,United Kingdom,,,
+Equinix MA4,9127,0.0,Equinix,422,Operational,Colocation,53.461673,-2.238237,"Unit 4 Synergy House, Manchester Science Park",M15 6SY,Manchester,Manchester,,United Kingdom,3.0,,
+Equinix MA5,9128,0.0,Equinix,422,Operational,Colocation,53.506472,-2.304197,"Unit 2 Agecroft Commerce Park, 4 Firedamp Way",M27 8BX,Swinton,Manchester,,United Kingdom,,,
+Equinix LD3,1070,0.0,Equinix,422,Operational,Colocation,51.528788,-0.27746,"Coronation Road, Matrix Park",NW10 7PH,London,London,,United Kingdom,,,
+Equinix LD4 Slough,1078,0.0,Equinix,422,Operational,Colocation,51.523311,-0.635757,"2 Buckingham Avenue, Slough Trading Estate",SL1 4NB,Slough,Slough,,United Kingdom,,,
+GDC - London 1 Data Center,7699,0.0,"NTT DATA, Inc.",2454,Operational,Colocation,51.547173,0.173965,Yew Tree Avenue,RM10 7FN,London,London,,United Kingdom,64.0,,2020.0
+European Liquidity Center (EULC),13677,0.0,"Intercontinental Exchange, Inc. (ICE)",12843,Operational,Colocation,51.586666,0.484857,20-315 Cranes Farm Rd,SS14 3DF,Basildon,London,,United Kingdom,3.0,,
+Evolve Business Centre,4708,0.0,TruStack,11650,Operational,Colocation,54.831412,-1.482103,"Cygnet Way, Rainton Bridge South Business Park",DH4 5QY,Sunderland,Newcastle,Tyne & Wear,United Kingdom,,,2006.0
+EXA DC Bracknell,9325,0.0,EXA Infrastructure,10527,Operational,Colocation,51.41559,-0.771083,"St James House, Oldbury",RG12 8TH,Bracknell,London,,United Kingdom,,,
+EXA DC London Citi,9323,0.0,EXA Infrastructure,10527,Operational,Colocation,51.504002,-0.017775,25 Canada Square,E14 5LQ,London,London,,United Kingdom,,,
+EXA DC London East,9324,1577.0,EXA Infrastructure,10527,Operational,Colocation,51.510985,-0.003494,3 Nutmeg Lane,E14 5LQ,London,London,,United Kingdom,,,
+Exaflops,9339,0.0,Exaflops,5036,Operational,Colocation,53.74229,-1.88546,Calderdale Business Park,HX2 8DB,Halifax,Halifax,West Yorkshire,United Kingdom,,,
+Exchange Tower,4228,0.0,CBRE,1144,Operational,Building,51.49902,-0.01455,1-2 Habour Exchange Square,E14 9GE,London,London,,United Kingdom,,,1972.0
+Pulsant Fareham,559,0.0,Pulsant Ltd,2637,Operational,Colocation,50.868384,-1.247128,18 Brunel Way,PO15 5TX,Fareham,Portsmouth,Hampshire,United Kingdom,3.0,,
+Fast2host,1982,0.0,Fast2host - Fast4networks Ltd,804,Operational,Colocation,52.300796,-0.086674,"4 Beech Court, The Lakes Business Park",PE28 9RF,St Ives,Cambridge,Cambridgeshire,United Kingdom,2.0,,2001.0
+Fastnet Brighton,14544,0.0,Fastnet International Ltd,13119,Operational,Colocation,50.833554,-0.134401,"Shaftesbury Court, 95 Ditchling Rd",BN1 4ST,Brighton and Hove,London,,United Kingdom,,,
+Datum London FRN1,4229,0.0,Datum Datacentres Ltd,3116,Operational,Colocation,51.280416,-0.796515,Cody Technology Park,GU140LX,Farnborough,Farnborough,Hampshire,United Kingdom,4.0,1.25,2012.0
+Fountain Court (LHR13),7823,0.0,Digital Realty,419,Operational,Colocation,51.368304,-0.291171,"Fountain Court, Cox Lane",KT9 1SJ,Chessington,London,,United Kingdom,18.0,,
+FreeClix Data Centre,6215,0.0,FreeClix Ltd,4853,Operational,Colocation,52.629473,1.296997,28 Castle Meadow,NR1 3DS,Norwich,Norwich,Norfolk,United Kingdom,,,2010.0
+Fujitsu UK London East (SDC01),13675,0.0,Fujitsu,3126,Operational,Colocation,51.481291,0.27025,"Units 2, 5 Weston Ave",RM20 3FJ,Grays,Essex,,United Kingdom,4.65,,
+Fujitsu UK Stevenage (STE04),13676,0.0,Fujitsu,3126,Operational,Colocation,51.9033,-0.216922,14 Cavendish Rd,SG1 2DY,Stevenage,Stevenage,,United Kingdom,,,
+Fulcrum Data Centre,7159,0.0,Fulcrum Data Systems,6995,Operational,Colocation,50.784244,-1.851516,"Building 307, Avition Business Park Bournemouth Airport",BH23 6NW,Bournemouth,Bournemouth,,United Kingdom,6.5,,
+FyfeWeb Hosting Services,7487,0.0,FyfeWeb LTD,8072,Operational,Colocation,,,"SECRET, within Newcastle upon Tyne",NE1 4LP,Newcastle upon Tyne,Newcastle,,United Kingdom,,,2017.0
+The Babbage Centre,5601,0.0,Getronics Services (UK) Ltd,4161,Operational,Colocation,53.322647,-2.734026,"The Babbage Centre, The Heath Business and Technical Park",WA7 4QX,Runcorn,Manchester,,United Kingdom,,,2003.0
+Colt London East India Dock,1093,0.0,Colt Technology Services,316,Operational,Colocation,51.511655,-0.006049,East India Dock Road 240,E14 9YY,London,London,,United Kingdom,,,
+Global Switch London North,1578,0.0,Global Switch,490,Operational,Colocation,51.511102,-0.00548,"East India Dock House, 240 East India Dock Road",E14 9YY,London,London,,United Kingdom,26.0,1.3,
+Global Switch London East,1577,0.0,Global Switch,490,Operational,Colocation,51.510986,-0.003498,"Global Switch House, 3 Nutmeg Lane",E14 2AX,London,London,,United Kingdom,60.0,,
+Global Switch London South,9873,0.0,Global Switch,490,Under Construction,Colocation,,,"SECRET, within located 0.5 miles from the financial district and 3.5 miles from the city centre",E14 2AX,London,London,,United Kingdom,40.0,,
+Goldsworth Park,4461,0.0,Unknown Company,448,Operational,Building,51.324196,-0.586182,"Goldsworth Park Trading Estate, Kestrel Way",GU21 3BA,Woking,Woking,,United Kingdom,,,
+Goldsworth Park Trading Estate (LGW14),7821,0.0,Digital Realty,419,Operational,Colocation,51.32452,-0.584986,Goldsworth Park Trading Estate,GU21 3BA,Woking,London,,United Kingdom,84.0,,
+Google North Weald,14157,0.0,Google,11577,Planned,Hyperscaler,51.717522,0.157445,"Merlin Way, North Weald Bassett",CM16 6HR,Epping,Essex,,United Kingdom,,,
+Google Waltham Cross,14156,0.0,Google,11577,Under Construction,Hyperscaler,51.696401,-0.048918,"Theobalds Business Park, A10 & Lieutenant Ellis Way",EN8 8XH,Waltham Cross,London,,United Kingdom,,,
+Goonhilly Data Centre,13679,0.0,Goonhilly,12845,Operational,Colocation,50.047686,-5.181287,"Goonhilly Earth Station, Goonhilly Downs",TR12 6LQ,Helston,Falmouth,Cornwall,United Kingdom,0.5,,2019.0
+Grid Hosting Data Center,7301,0.0,Grid Hosting Limited,7692,Operational,Colocation,52.57312,-2.126349,"Parker House, 2 Bromley St",DE214SZ,Derby,Derby,,United Kingdom,,,
+GTR London GB One Campus,12169,0.0,Global Technical Realty,12133,Operational,Campus,51.517753,-0.619072,654-662 Ajax Ave,SL1 4BG,Slough,London,,United Kingdom,40.5,1.25,
+GTR London GB One - Building 1,12170,12169.0,Global Technical Realty,12133,Operational,Colocation,51.518003,-0.619693,654 Ajax Avenue,SL1 4BG,Slough,London,,United Kingdom,13.5,1.25,
+GTR London GB One - Building 2,12171,12169.0,Global Technical Realty,12133,Operational,Colocation,51.517612,-0.618454,658 Ajax Avenue,SL1 4BG,Slough,London,,United Kingdom,13.5,1.25,
+GTR London GB One - Building 3,12172,12169.0,Global Technical Realty,12133,Operational,Colocation,51.51741,-0.617387,662 Ajax Avenue,SL1 4BG,Slough,London,,United Kingdom,13.5,1.25,
+SmallWorld Guildford,7707,0.0,Smallworld IT,8672,Operational,Colocation,51.236024,-0.581438,1 Farnham Road,GU2 4RG,Guildford,Guildford,Surrey,United Kingdom,,,
+SmallWorld Hampshire,7708,6445.0,Smallworld IT,8672,Operational,Colocation,50.846677,-0.98966,"Langstone Technology Park, Langstone Rd, Building 5000",PO9 1SA,Havant,Portsmouth,Hampshire,United Kingdom,,,
+Harbour Exchange,3031,1353.0,Wavenet Limited,1941,Operational,Colocation,51.498437,-0.014517,6 Harbour Exchange,E14 9GE,London,London,,United Kingdom,,,
+AtlasComms Heron Data Center,2063,0.0,Atlas Communications Ltd.,867,Operational,Colocation,54.63272,-5.867727,2 Heron Road,BT3 9LD,Belfast,Belfast,,United Kingdom,,,
+Hosting UK - North Wales DC,2550,0.0,Hosting UK,1383,Operational,Colocation,53.252193,-3.479159,"Unit 24, Ffordd Richard Davies, St Asaph Business Park",LL17 0LJ,St Asaph,North Wales,Denbighshire,United Kingdom,,,
+Simulant Data Center,5921,0.0,Simulant Systems Ltd,4602,Operational,Colocation,53.958445,-1.081559,"Popeshead Court Offices, Peter Ln",YO1 8SU,York,York,North Yorkshire,United Kingdom,,,
+Humber Tech Park,12039,0.0,Greystoke,13087,Operational,Campus,53.62084,-0.273423,A160 carriageway & Habrough road,DN40 3BA,South Killingholme,Hull,,United Kingdom,384.0,,
+Humber Tech Park - Building 1,12036,12039.0,Greystoke,13087,Planned,Colocation,53.622332,-0.274552,A160 carriageway & Habrough road,DN40 3BA,South Killingholme,Hull,,United Kingdom,128.0,,
+Humber Tech Park - Building 2,12037,12039.0,Greystoke,13087,Planned,Colocation,53.62084,-0.273423,A160 carriageway & Habrough road,DN40 3BA,South Killingholme,Hull,,United Kingdom,128.0,,
+Humber Tech Park - Building 3,12038,12039.0,Greystoke,13087,Planned,Colocation,53.619339,-0.272206,A160 carriageway & Habrough road,DN40 3BA,South Killingholme,Hull,,United Kingdom,128.0,,
+IBM Hursley Data Centre,13751,0.0,IBM,4158,Operational,Hyperscaler,51.025524,-1.396205,"Hursley Deer Park, Hursley Park Rd",SO21 2JN,Hursley,Southampton,,United Kingdom,,,1977.0
+IBM Warwick Data Centre,13664,0.0,IBM,4158,Operational,Hyperscaler,52.293069,-1.603025,Birmingham Rd,CV34 5AH,Warwick,Birmingham UK,,United Kingdom,,,
+i-Dash Data Center,5105,0.0,i-Dash Ltd,3867,Operational,Colocation,52.213125,-0.290844,105 Great North Road,PE19 8EL,St Neots,Cambridge,,United Kingdom,,,2014.0
+IFB Altens,14656,0.0,Internet For Business Ltd (IFB),1847,Operational,Colocation,57.116105,-2.077353,54 Hareness Road,AB12 3LE,Aberdeen,Aberdeen,,United Kingdom,,,
+IFB Union Street,2942,0.0,Internet For Business Ltd (IFB),1847,Operational,Colocation,57.143702,-2.108412,387 Union Street,AB11 6BX,Aberdeen,Aberdeen,,United Kingdom,,,
+Redcentric Harrogate Data Centre,2104,0.0,Redcentric,903,Operational,Colocation,53.990615,-1.539112,"Central House, Beckwith Knowle",HG3 1UG,Harrogate,Leeds,,United Kingdom,2.0,,
+Redcentric Reading Data Centre,3385,0.0,Redcentric,903,Operational,Colocation,51.420601,-0.97522,"Commensus House, 3-5 Worton Drive",RG2 0TG,Reading,Berkshire,,United Kingdom,3.0,1.25,
+Intercity Birmingham,7550,0.0,Intercity Technology,8229,Operational,Colocation,52.473497,-1.904506,101-114 Holloway Head,B1 1QP,Birmingham,Birmingham UK,,United Kingdom,,,
+Intercity Bolton,7551,0.0,Intercity Technology,8229,Operational,Colocation,53.585354,-2.525677,"Hallmark House, Paragon Business Park",BL6 6HG,Bolton,Bolton,,United Kingdom,,,
+Intercity Elstree,7552,0.0,Intercity Technology,8229,Operational,Colocation,51.653951,-0.280088,"Regent House, Allum Ln",WD6 4RS,Elstree,London,,United Kingdom,,,
+Elite Limited DC Internet House,2692,0.0,Elite Limited,1552,Operational,Colocation,50.813643,-1.082979,"Internet House, 33 Kingston Crescent",PO2 8AA,Portsmouth,Portsmouth,Hampshire,United Kingdom,,,
+EXA Leiston,1273,0.0,EXA Infrastructure,10527,Operational,Colocation,52.20883,1.594026,"Eastlands Industrial Estate, Unit 5b",IP16 4L,Leiston,Leiston,,United Kingdom,,,
+EXA Edge DC Wherstead,1288,0.0,EXA Infrastructure,10527,Operational,Colocation,52.022065,1.131485,Park Farm,IP9 2BB,Wherstead,Wherstead,,United Kingdom,,,
+11 Hanbury Street (LON2),3844,0.0,Digital Realty,419,Operational,Colocation,51.521334,-0.072457,11 Hanbury Street,E1 6QR,London,London,,United Kingdom,2.0,,
+11 Hanbury Street (LON3),8417,0.0,Digital Realty,419,Operational,Colocation,51.521334,-0.072457,11 Hanbury Street,E1 6QR,London,London,,United Kingdom,2.7,,
+11 Hanbury Street (LON1),1112,0.0,Digital Realty,419,Operational,Colocation,51.521437,-0.073106,11 Hanbury Street,E1 6QR,London,London,,United Kingdom,6.2,,
+iomart Glasgow,831,0.0,iomart hosting,334,Operational,Colocation,55.851108,-4.283601,88 Middlesex Street,G41 1EE,Glasgow,Glasgow,,United Kingdom,,1.9,
+iomart Leicester,1932,0.0,iomart hosting,334,Operational,Colocation,52.640431,-1.140267,16 Berkley Street,LE1 4AT,Leicester,Leicester,,United Kingdom,,1.8,
+iomart Central London,1929,0.0,iomart hosting,334,Operational,Colocation,51.523257,-0.08456,16-22 Epworth Street,EC2A 4DN,London,London,,United Kingdom,,2.1,
+iomart Maidenhead,1933,0.0,iomart hosting,334,Operational,Colocation,51.528799,-0.725435,"Spectrum House, Clivemont Road",SL67FW,Maidenhead,Berkshire,,United Kingdom,,1.6,2007.0
+iomart Nottingham,1931,0.0,iomart hosting,334,Operational,Colocation,52.951392,-1.138787,2-6 Fisher Gate,NG1 1FY,Nottingham,Nottingham,,United Kingdom,,1.2,
+IONOS Worchester,15259,0.0,IONOS,13376,Operational,Colocation,52.205937,-2.15669,Worcester Six Business Park,WR4 0AN,Worcester,Birmingham UK,,United Kingdom,,,2022.0
+IP House London Docklands,7026,0.0,IP House,6425,Operational,Colocation,51.515433,0.001934,20 Lanrick Rd,E14 0JF,London,London,,United Kingdom,2.0,,2017.0
+Itility Belle Vue Data Centre,5035,0.0,Itility Limited,2378,Operational,Colocation,53.465131,-2.193141,545 Hyde Road,M12 5NQ,Manchester,Manchester,,United Kingdom,2.0,,
+Iron Mountain Data Centers LON-1,7164,0.0,Iron Mountain Data Centers,3864,Operational,Colocation,51.510538,-0.595041,724-729 Dundee Road,SL1 4JU,Slough,London,,United Kingdom,,,
+Iron Mountain Data Centers LON-2,8530,0.0,Iron Mountain Data Centers,3864,Operational,Colocation,51.520512,-0.621487,110 Buckingham Avenue,SL1 4PF,Slough,London,,United Kingdom,27.0,,
+Kao Data Harlow Campus,10123,0.0,KAO Data,8051,Operational,Campus,51.770594,0.129913,London Road,CM17 9NA,Harlow,London,,United Kingdom,40.0,1.2,
+Kao Data KLON-02,10120,10123.0,KAO Data,8051,Operational,Colocation,51.770074,0.129344,London Road,CM17 9NA,Harlow,London,,United Kingdom,10.0,1.2,
+Kao Data KLON-03,10121,10123.0,KAO Data,8051,Under Construction,Colocation,51.770895,0.130685,London Road,CM17 9NA,Harlow,London,,United Kingdom,10.0,1.2,
+Kao Data KLON-04,10122,10123.0,KAO Data,8051,Planned,Colocation,51.769921,0.130846,London Road,CM17 9NA,Harlow,London,,United Kingdom,10.0,1.2,
+Kao Data KLON-05,10125,0.0,KAO Data,8051,Operational,Colocation,51.54536,-0.363929,Rowdell Road,UB5 5QR,Northolt,London,,United Kingdom,4.0,1.25,
+Kao Data KLON-06,10124,0.0,KAO Data,8051,Operational,Colocation,51.515728,-0.616367,672 Galvin Road,SL1 4AN,Slough,Slough,,United Kingdom,16.0,1.25,
+Kao Data KLON-07,15426,10123.0,KAO Data,8051,Planned,Colocation,51.771833,0.131587,London Rd,CM17 9JA,Harlow,London,,United Kingdom,,,
+Kao Data KLON-08,15427,10123.0,KAO Data,8051,Planned,Colocation,51.770975,0.132316,London Rd,CM17 9JA,Harlow,London,,United Kingdom,,,
+Kao Data KMAN-01,10126,0.0,KAO Data,8051,Under Construction,Colocation,53.451758,-2.163323,Kenwood Rd,SK5 6PH,Stockport,Manchester,,United Kingdom,40.0,1.2,
+Kao Data Newham,12255,0.0,KAO Data,8051,Planned,Colocation,51.516882,0.003092,Bidder Street,E16 4ST,Canning Town,London,,United Kingdom,77.0,,
+Kao Data KLON-01,7470,10123.0,KAO Data,8051,Operational,Colocation,51.769191,0.129269,London Road,CM17 9NA,Harlow,London,,United Kingdom,10.0,1.2,2018.0
+Keppel Cardiff Data Centre,9745,0.0,Keppel Data Centres,424,Operational,Colocation,51.452221,-3.185821,"Ty Cynnal, Dunleavy Drive, Celtic Gateway",CF110SW,Cardiff,Cardiff,,United Kingdom,,,2003.0
+Keppel GV7 Data Centre,9744,0.0,Keppel Data Centres,424,Operational,Colocation,51.494641,-0.018604,7 Greenwich View Pl,E14 9NN,London,London,,United Kingdom,,,1987.0
+Keppel London Data Centre,9746,0.0,Keppel Data Centres,424,Operational,Colocation,51.416691,-0.772412,"Waterside House, Longshot Ln",RG12 2WB,Bracknell,London,,United Kingdom,,,1986.0
+Killellan AI Growth Zone,15230,0.0,Argyll Data Development,13359,Planned,Campus,55.880753,-5.024982,Killellan Farm,PA23 7UJ,Toward,Glasgow,,United Kingdom,,,
+Wallasey Water Tower,9656,0.0,Liverpool City Region Data Centres,11477,Operational,Colocation,53.417586,-3.045876,40 Mill Lane,CH44 5UG,Cheshire,Liverpool,Merseyside,United Kingdom,3.6,1.15,2025.0
+Latos Cardiff DC01,14798,12962.0,Latos,12718,Planned,Colocation,51.483459,-3.12747,Rover Way,CF24 2RX,Cardiff,Cardiff,,United Kingdom,,,
+Latos Cardiff DC02,14799,12962.0,Latos,12718,Planned,Colocation,51.482254,-3.128107,Rover Way,CF24 2RX,Cardiff,Cardiff,,United Kingdom,,,
+Latos Cardiff DC03,14800,12962.0,Latos,12718,Planned,Colocation,51.481387,-3.128163,Rover Way,CF24 2RX,Cardiff,Cardiff,,United Kingdom,,,
+Latos Cardiff Campus,12962,0.0,Latos,12718,Operational,Campus,51.479965,-3.128878,Rover Way,CF24 2RX,Cardiff,Cardiff,,United Kingdom,90.0,,
+Latos Stockton Campus,14795,0.0,Latos,12718,Operational,Campus,54.550468,-1.31923,Westland Way,TS18 3TG,Stockton-on-Tees,Middlesbrough,,United Kingdom,,,
+Latos Stockton DC01,14796,14795.0,Latos,12718,Planned,Colocation,54.550058,-1.319273,Westland Way,TS18 3TG,Stockton-on-Tees,Middlesbrough,,United Kingdom,,,
+Latos Stockton DC02,14797,14795.0,Latos,12718,Planned,Colocation,54.550845,-1.319026,Westland Way,TS18 3TG,Stockton-on-Tees,Middlesbrough,,United Kingdom,,,
+LDeX London (LDeX1),3372,0.0,LDeX Group,2310,Operational,Colocation,51.567733,-0.231048,2 Oxgate Lane,NW2 7ET,London,London,,United Kingdom,2.0,,2011.0
+LDeX Manchester (LDeX2),5646,0.0,LDeX Group,2310,Operational,Colocation,53.466833,-2.294168,"Waterside, Trafford Park",M17 1WD,Manchester,Manchester,,United Kingdom,1.5,,
+LDeX Manchester (LDeX3),10048,0.0,LDeX Group,2310,Operational,Colocation,53.466857,-2.293879,"Waterside, Trafford Park",M17 1WD,Manchester,Manchester,,United Kingdom,1.5,,
+LeaseWeb London LON-12,10087,0.0,LeaseWeb,2256,Operational,Colocation,51.508392,-0.057296,"Princes Court Business Centre, Wapping Lane",E1W 2DA,London,London,,United Kingdom,15.0,,
+Colt London Braham St.,1481,969.0,Colt Technology Services,316,Operational,Colocation,51.514083,-0.072964,6 Braham Street,UK E1 8,London,London,,United Kingdom,,,
+Colt London Goswell Road,1449,0.0,Colt Technology Services,316,Operational,Colocation,51.521217,-0.097352,260-266 Goswell Road,EC1V 7EB,London,London,,United Kingdom,,,
+LINX Wales - BT Stadium House,12399,0.0,LINX NoVA,3816,Operational,Colocation,51.478121,-3.180657,"Stadium House, 5 Park Street",CF10 1XR,Cardiff,Cardiff,,United Kingdom,,,
+"Xperience Lisburn, Backup DC",5424,0.0,Xperience Group,4055,Operational,Colocation,54.509917,-6.088888,11 Ferguson Drive,BT282EX,Lisburn,Belfast,,United Kingdom,,,
+Liverpool One,10127,0.0,Liverpool City Region Data Centres,11477,Operational,Colocation,53.403804,-2.984164,College Lane,L1 3DS,Liverpool,Liverpool,Merseyside,United Kingdom,0.1,1.15,2024.0
+Telstra Docklands,842,3073.0,Telstra International,345,Operational,Colocation,51.494975,-0.018687,5-6 Greenwich View Place,E14 9NN,London,London,,United Kingdom,,,
+Telstra Woking,2283,4461.0,Telstra International,345,Operational,Colocation,51.324444,-0.585194,"Goldsworth Park Trading Estate, Kestrel Way",GU21 3BA,Woking,Woking,,United Kingdom,,,
+CyrusOne LON1 - Slough,6276,0.0,CyrusOne Data Centers,637,Operational,Colocation,51.521438,-0.623336,"12 Liverpool Road, Slough Trading Estate",SL1,Slough,London,Berkshire,United Kingdom,9.3,,
+Lunar 1,8938,0.0,Lunar Digital Solutions Ltd,11358,Operational,Colocation,53.464541,-2.248077,"Reynolds House, 4 Archway, Manchester Technopark",M15 5RL,Manchester,Manchester,,United Kingdom,2.0,1.3,
+Lunar 2,8939,0.0,Lunar Digital Solutions Ltd,11358,Operational,Colocation,53.464399,-2.247323,"Reynolds House, 4 Archway, Manchester Technopark",M15 5RL,Manchester,Manchester,,United Kingdom,1.5,1.3,
+Lunar 3,8940,5035.0,Lunar Digital Solutions Ltd,11358,Operational,Colocation,53.465131,-2.193141,545 Hyde Road,M12 5NQ,Manchester,Manchester,,United Kingdom,2.0,1.3,
+M9 Datacentre,7376,0.0,M9 IT Ltd,7849,Operational,Colocation,52.011572,-1.371204,"Bloxham Mill, Barford Rd",OX15 4FF,Bloxham,Oxfordshire,,United Kingdom,,,2009.0
+ANS (UKFast) MaNOC 4,3834,0.0,ANS Group Ltd.,11754,Operational,Colocation,53.46164,-2.326617,7 Adbaston Road,M32 0TB,Trafford Park,Manchester,,United Kingdom,2.0,1.3,2012.0
+"ANS (UKFast) MaNOC 5, 6 & 7",7326,0.0,ANS Group Ltd.,11754,Operational,Colocation,53.460469,-2.322605,8 Blackmore Road,M32 0QY,Trafford Park,Manchester,,United Kingdom,3.5,1.3,2013.0
+ANS (UKFast) MaNOC 8,7327,0.0,ANS Group Ltd.,11754,Operational,Colocation,53.462977,-2.245794,"1 Archway, Birley Fields",M15 5QJ,Manchester,Manchester,,United Kingdom,1.0,1.3,
+Manton Park Data Center,13672,0.0,Meadow Partners,12841,Operational,Colocation,52.149948,-0.479554,"Manton Industrial Estate, Manton Ln",MK41 7PH,Bedford,Bedford,,United Kingdom,,,
+Media Datacentre Newbury,12975,0.0,Media Datacentre,12725,Operational,Colocation,,,"SECRET, within 8 miles from Newbury or Basingstoke",RG20,Newbury,Newbury,,United Kingdom,0.3,,2025.0
+iomart Manchester (Reynolds),4748,2222.0,iomart hosting,334,Operational,Colocation,53.46434,-2.247568,4 Archway,M15 5RL,Manchester,Manchester,LANCASHIRE,United Kingdom,4.0,1.5,2000.0
+Merula Data Centre,13673,0.0,Merula Ltd,12842,Operational,Colocation,52.346137,-0.197453,"Ermine Business Park, 5 Avro Court",PE29 6XS,Huntingdon,Cambridge,,United Kingdom,,,
+Microsoft Eggborough - Building 1,13197,13196.0,Microsoft,2301,Planned,Hyperscaler,53.714079,-1.124072,Loverose Wy,DN14 0BS,Eggborough,Leeds,,United Kingdom,,,
+Microsoft Eggborough - Building 2,13198,13196.0,Microsoft,2301,Planned,Hyperscaler,53.711137,-1.123755,Loverose Wy,DN14 0BS,Eggborough,Leeds,,United Kingdom,,,
+Microsoft Eggborough Campus,13196,0.0,Microsoft,2301,Operational,Campus,53.712064,-1.126599,Loverose Wy,DN14 0BS,Eggborough,Leeds,,United Kingdom,,,
+Microsoft Leeds,12935,0.0,Microsoft,2301,Planned,Hyperscaler,53.776143,-1.493695,West Rd & Central Parade,LS10 1RR,Leeds,Leeds,,United Kingdom,,,
+Microsoft Newport Imperial Park (CWL01),13089,0.0,Microsoft,2301,Operational,Hyperscaler,51.550797,-3.041047,"NP10, Dyffryn Lane, Marshfield, Newport ",NP10 8BE,Marshfield,Cardiff,,United Kingdom,,,
+Microsoft Park Royal (LON01),13088,0.0,Microsoft,2301,Under Construction,Hyperscaler,51.528329,-0.257538,Volt Ave / Bashley Rd,NW10 6SN,London,London,,United Kingdom,,,
+Velox1 - Midlands,4731,0.0,VeloxServ Communications Ltd,3502,Operational,Colocation,52.601349,-2.111045,"Merryhills Enterprise Park, Park Ln",WV109TJ,Wolverhampton,Birmingham UK,West Midlands,United Kingdom,,,2013.0
+Connect Way (LGW16),8124,0.0,Digital Realty,419,Operational,Colocation,51.129493,-0.177321,"Connect Way, Manor Royal",RH10 9QJ,Crawley,Crawley,,United Kingdom,,,
+NaviSite Redhill,4380,3258.0,NaviSite Europe Ltd,3292,Operational,Colocation,51.247919,-0.157276,"3 Foxboro Rd, St Annes Boulevard",RH1 1AX,Redhill,Redhill,,United Kingdom,,,
+NaviSite Woking,4379,4461.0,NaviSite Europe Ltd,3292,Operational,Colocation,51.324641,-0.584478,"Goldsworth Park Trading Estate, 18 Kestrel Way",GU21 3BA,Woking,Woking,,United Kingdom,,,
+Netservers Signet Court,2731,0.0,Netservers Ltd,1600,Operational,Colocation,52.213972,0.150888,"Signet Court, 2 Swanns Rd",CB5 8LA,Cambridge,Cambridge,,United Kingdom,,,1998.0
+NetSupport Data Center,6311,0.0,NetSupport,4855,Operational,Colocation,52.685412,-0.315405,"NetSupport House, Towngate East",PE6 8NE,Peterborough,Peterborough,,United Kingdom,,,
+Netwise London East,11113,0.0,Netwise,2235,Operational,Colocation,51.520561,-0.00121,"Datapoint Business Centre, 6 South Cres",E16 4TL,London,London,,United Kingdom,1.5,1.05,
+Pulsant Newcastle NE-1,1881,0.0,Pulsant Ltd,2637,Operational,Colocation,54.973197,-1.60318,"5 Bridge View, Stepney Lane",NE1 6PN,Newcastle,Newcastle,,United Kingdom,1.6,,
+Vantage CWL1 - Cardiff,4232,0.0,Vantage Data Centers,10326,Operational,Colocation,51.555389,-3.037453,Celtic Way,NP10 8BE,Newport,South Wales,,United Kingdom,148.0,,
+Nigsun Datacentre NCS1,6546,0.0,Nigsun Telecom,5431,Operational,Colocation,,,"SECRET, within Stevenage",SG1 2BB,Stevenage,Stevenage,,United Kingdom,2.0,,
+nLighten Birmingham BHX1,10247,0.0,nLighten,11668,Operational,Colocation,52.477309,-1.877158,"The Garrison Technology Park, 3 Westley St",B9 4ER,Birmingham,Birmingham UK,,United Kingdom,3.15,1.29,
+nLighten Bristol BRS1,10249,0.0,nLighten,11668,Operational,Colocation,51.540658,-2.581653," Aztec West Business Park, 1120 Park Ave",BS32 4SX,Bristol,Bristol UK,,United Kingdom,3.15,1.29,1990.0
+nLighten Chester MAN1,10250,0.0,nLighten,11668,Operational,Colocation,53.248479,-2.930935,"Unit 2, Dunkirk Trading Estate",CH1 6LT,Dunkirk,Chester,,United Kingdom,2.8,1.29,
+nLighten Leeds LBA1,10246,0.0,nLighten,11668,Operational,Colocation,53.699286,-1.397993,"White Rose Technology Centre, Don Pedro Ave",WF6 1TD,Normanton,Leeds,,United Kingdom,1.0,1.29,
+nLighten Liverpool LBL1,10251,0.0,nLighten,11668,Operational,Colocation,53.342982,-2.973447,"Unit 2, Georgia Ave",CH62 3RD,Bromborough,Liverpool,,United Kingdom,5.3,1.29,
+nLighten Milton Keynes LTN1,10252,0.0,nLighten,11668,Operational,Colocation,52.042351,-0.819358,"1 Brick Cl, Kiln Farm",MK11 3JB,Milton Keynes,Milton Keynes,,United Kingdom,6.0,1.29,
+nLighten Nottingham EMA1,10245,0.0,nLighten,11668,Operational,Colocation,53.007309,-1.214045,"Blenheim Industrial Estate, 1 Bennerley Rd",NG6 8UY,Nottingham,Nottingham,,United Kingdom,4.2,1.29,
+nLighten Rugby BHX2,12505,0.0,nLighten,11668,Operational,Colocation,52.401705,-1.237204,"Units 2 & 3, Pelham Rd, Central Park Dr",CV23 0PB,Rugby,Birmingham UK,,United Kingdom,1.25,1.29,
+nLighten Swindon BRS2,10254,0.0,nLighten,11668,Operational,Colocation,51.602091,-1.730267,11 Broadmoor Rd,SN3 4WB,Swindon,Swindon,,United Kingdom,5.7,,
+Node4 Derby,1652,0.0,Node4 Ltd,607,Operational,Colocation,52.917097,-1.449393,"Millennium Way, Pride Park",DE24 8HZ,Derby,Derby,,United Kingdom,2.5,,
+Node4 Leeds,1651,0.0,Node4 Ltd,607,Operational,Colocation,53.714475,-1.409421,Pope St,WF6 2TA,Normanton,Wakefield,,United Kingdom,3.3,,
+Node4 Northampton,2796,0.0,Node4 Ltd,607,Operational,Colocation,52.281543,-0.871789,"Lower Farm Rd, Moulton Park Industrial Estate",NN3 6XF,Northampton,Northamptonshire,,United Kingdom,4.0,,
+NorwichDC,15130,0.0,NorwichDC,13317,Operational,Colocation,52.486675,1.221099,"Unit 12 Salamanca Rd, Norwich NR152P",NR152P,Norwich,Norwich,Norfolk,United Kingdom,0.25,,2025.0
+Space Data Centre Nottingham,5830,0.0,Space Data Centres Limited,4488,Operational,Colocation,52.988957,-1.17396,"DB House, 1 Rani Drive",NG5 1RF,Nottingham,Nottingham,,United Kingdom,1.0,,2015.0
+Nscale Loughton,15132,0.0,Nscale Ltd.,12855,Planned,Colocation,51.649726,0.093915,Langston Road,IG10 3TQ,Loughton,Essex,,United Kingdom,90.0,,
+GDC - Hemel Hempstead 3,9381,0.0,"NTT DATA, Inc.",2454,Operational,Colocation,51.761735,-0.436762,"Campus, Spring Way",HP2 7TN,Hemel Hempstead,London,,United Kingdom,20.0,,
+GDC - Hemel Hempstead 4 Data Center,9382,0.0,"NTT DATA, Inc.",2454,Operational,Colocation,51.757242,-0.429136,1 Blossom Way,HP2 7TN,Hemel Hempstead,London,,United Kingdom,12.0,,
+GDC - Hemel Hempstead 2 Data Center,5188,0.0,"NTT DATA, Inc.",2454,Operational,Colocation,51.764768,-0.442794,150 Maylands Avenue,HP2 7DF,Hemel Hempstead,London,,United Kingdom,5.8,,
+NTT Slough 1,5187,0.0,"NTT DATA, Inc.",2454,Operational,Colocation,,,"SECRET, within 30 min. from Heathrow International Airport",SL1 1XY,Slough,London,,United Kingdom,,,
+GDC - Slough 2 Data Center,9383,0.0,"NTT DATA, Inc.",2454,Operational,Colocation,51.516939,-0.61527,670 Ajax Avenue,SL1 4BG,Slough,London,,United Kingdom,1.8,,
+GDC - Slough 3 Data Center,9384,0.0,"NTT DATA, Inc.",2454,Operational,Colocation,51.5171,-0.616016,665 Ajax Avenue,SL1 4BG,Slough,London,,United Kingdom,2.7,,
+Oliver's Yard (LHR18),7904,0.0,Digital Realty,419,Operational,Colocation,51.52429,-0.086754,55-71 City Rd,EC1Y 1HQ,London,London,,United Kingdom,4.0,,
+Thrive UK - Luton,3276,0.0,Thrive,11711,Operational,Colocation,51.879709,-0.402379,16-24 Crawley Green Road,LU2 0QX,Luton,Luton,,United Kingdom,1.0,,2011.0
+Pulsant Newcastle NE-2,6092,0.0,Pulsant Ltd,2637,Operational,Colocation,55.020328,-1.493722,New York Way,NE27 0QF,Newcastle,Newcastle,,United Kingdom,0.792,,
+Access Managed Services DC1,14542,0.0,The Access Group UK,13118,Operational,Colocation,52.637285,-2.120312,"Midlands Technology Centre, Broadlands",WV10 6TA,Wolverhampton,Birmingham UK,,United Kingdom,,,
+Access Managed Services DC2,14543,0.0,The Access Group UK,13118,Operational,Colocation,52.58746,-2.123065,"The Chubb Buildings, Fryer St",WV1 1HT,Wolverhampton,Birmingham UK,,United Kingdom,,,
+Options West London Data Centre,665,0.0,Options Technology Ltd.,218,Operational,Colocation,51.534751,-0.260816,3 Waxlow Road,NW10 7NU,London,London,,United Kingdom,,,
+OVHcloud UK1,10272,0.0,OVH,3803,Operational,Hyperscaler,51.491486,0.166844,8 Viking Way,DA8 1EW,Erith,London,,United Kingdom,,,
+Parseq managed services ltd,5004,0.0,Parseq Managed Services Ltd,3575,Operational,Colocation,53.426278,-1.245376,"Lowton way , Rotherham",S66 8ry,Rotherham,Sheffield,,United Kingdom,,,
+Partnership House,5843,0.0,ITPS,4499,Operational,Colocation,55.010336,-1.626616,"Partnership House, Regent Farm Rd",NE3 3AF,Newcastle upon Tyne,Newcastle,,United Kingdom,1.0,1.2,2013.0
+Pinewood Studios Data Centre,2266,0.0,Pinewood Studios Ltd,1108,Operational,Colocation,51.547658,-0.534741,Pinewood Road,Sl0 0NH,Iver Heath,Slough,Buckinghamshire,United Kingdom,,,
+Port Talbot Data Centre,14495,0.0,Western Bio-Energy Ltd,13103,Planned,Enterprise,51.563314,-3.74324,"Tyn-y-Caeau, Margam Road",SA13 2NW,Port Talbot,Cardiff,,United Kingdom,12.0,,
+Pulsant Edinburgh SC-2,3720,0.0,Pulsant Ltd,2637,Operational,Colocation,55.929394,-3.41002,7 Claylands Road,EH28 8LF,Edinburgh,Edinburgh,,United Kingdom,1.28,,
+Pulsant Edinburgh SC-3,8913,0.0,Pulsant Ltd,2637,Operational,Colocation,55.925876,-3.296568,"7 Bankhead Medway, Sighthill Industrial Estate",EH11 4B,Edinburgh,Edinburgh,,United Kingdom,1.6,,
+Pulsant Maidenhead SE-2,3718,0.0,Pulsant Ltd,2637,Operational,Colocation,51.501106,-0.708646,"Bluesquare House, Priors Way",SL6 2HP,Maidenhead,Berkshire,,United Kingdom,1.9,,
+Pulsant Manchester NW-1,8914,0.0,Pulsant Ltd,2637,Operational,Colocation,53.461282,-2.324776,"1-2 Ball Green, Cobra Court, Trafford Park",M32 0QT,Manchester,Manchester,,United Kingdom,1.6,,
+Pulsant Milton Keynes SE-1,3714,0.0,Pulsant Ltd,2637,Operational,Colocation,52.038601,-0.757072,"St Neots House, Rockingham Drive",MK14 6LY,Milton Keynes,Milton Keynes,,United Kingdom,2.1,,
+Pulsant Edinburgh South Gyle SC-1,5837,0.0,Pulsant Ltd,2637,Operational,Colocation,55.953252,-3.188267,"The Clocktower, South Gyle Crescent",EH12 9LB,Midlothian,Edinburgh,,United Kingdom,6.6,,
+Pulsant Croydon LN-1,3717,0.0,Pulsant Ltd,2637,Operational,Colocation,51.353546,-0.118875,"Unit 1, 35 Imperial Way",CR0 4RR,London,London,,United Kingdom,2.5,,
+PureDC Brent Cross,14262,0.0,Pure Data Centres Group,12993,Operational,Colocation,51.57059,-0.237108,"Harp View, 12 Priestley Way",NW2 7BA,London,London,,United Kingdom,90.0,,
+PureDC Park Royal,14255,0.0,Pure Data Centres Group,12993,Planned,Colocation,51.538303,-0.272433,Premier Park Rd,NW10 7NZ,Wembley,London,,United Kingdom,56.0,,
+Broadbent Group Data Centre,8588,0.0,Broadbent Group  Ltd,10373,Operational,Colocation,51.928071,0.941695,Turnpike Close,CO7 7QW,Colchester,Colchester,Essex,United Kingdom,,,2021.0
+QTS Cambois,10845,0.0,QTS Data Centers,370,Under Construction,Campus,55.151043,-1.532793,Saint Eligius Way,NE22 7FJ,Cambois,Blyth,,United Kingdom,1100.0,,
+Queensway 1,5768,0.0,Queensway Park Data Centres Limited,4188,Operational,Colocation,56.198057,-3.163882,Flemington Road,KY75QF,Glenrothes,Glenrothes,,United Kingdom,5.0,1.15,
+iomart Gosport,1913,0.0,iomart hosting,334,Operational,Colocation,50.825071,-1.162941,2 Frater Gate Business Park,PO13 0GW,Gosport,Portsmouth,Hampshire,United Kingdom,,,
+Rackspace London 3,10057,0.0,Rackspace Hosting,668,Operational,Colocation,51.520576,-0.619186,115 Buckingham Ave,SL1 4PF,Slough,London,,United Kingdom,3.0,,
+Rackspace London 5,10058,0.0,Rackspace Hosting,668,Operational,Colocation,51.127468,-0.176451,1 Power Ave,RH10 9BE,Crawley,London,,United Kingdom,18.0,,
+Rackspace London 8,11172,0.0,Rackspace Hosting,668,Operational,Colocation,51.501381,-0.428851,8 Millington Rd,UB3 4AZ,Hayes,London,,United Kingdom,17.0,,
+Amatis Reading,2096,0.0,Amatis Networks Ltd,3321,Operational,Colocation,51.461924,-1.005846,58 Portman Road,RG30 1EA,Reading,Berkshire,,United Kingdom,1.0,,2010.0
+Redcentric Byfleet Data Centre,11000,0.0,Redcentric,903,Operational,Colocation,51.347715,-0.480081,122 Oyster Ln,KT14 7JU,Byfleet,Woking,,United Kingdom,1.0,1.14,2008.0
+Redcentric Cambridge Data Centre,11004,0.0,Redcentric,903,Operational,Colocation,52.230109,0.151144,"Newton House, Cambridge Business Park",CB4 0WZ,Cambridge,Cambridge,,United Kingdom,,,
+Redcentric Elland Data Centre,11001,0.0,Redcentric,903,Operational,Colocation,53.694072,-1.82098,"Lowfields Business Park, Lowfields Way",HX5 9DA,Elland,Halifax,,United Kingdom,,,
+Redcentric Gatwick Data Centre,11002,0.0,Redcentric,903,Operational,Colocation,51.132417,-0.175871,17-19 Kelvin Lane,RH10 9EY,Crawley,Crawley,,United Kingdom,3.0,1.14,
+Redcentric London Technology Centre,11005,0.0,Redcentric,903,Operational,Colocation,51.46765,-0.396839,"Corporate Park, Green Lane",TW4 6ER,Hounslow,London,,United Kingdom,,,
+Redcentric Woking Data Centre,11003,7821.0,Redcentric,903,Operational,Colocation,51.323485,-0.586978,"Goldsworth Park Trading Estate, Kestrel Way",GU21 3BA,Woking,Woking,,United Kingdom,,,
+Redhill Data Centre Campus,12932,0.0,Galaxy Data Centers,12696,Operational,Campus,51.247834,-0.15809,1-2 St Annes Blvd,RH1 1AX,Redhill ,London,,United Kingdom,26.0,,
+Redwire DC,3050,0.0,Redwire DC,1966,Operational,Colocation,51.512816,-0.309728,22-24 Uxbridge Road,W5 2ST,London,London,,United Kingdom,3.0,1.4,2012.0
+Wildcard Reliance House,3833,0.0,Wildcard Networks,871,Operational,Colocation,54.961117,-1.631787,"Reliance House, Skinnerburn Rd",NE4 7AN,Newcastle upon Tyne,Newcastle,,United Kingdom,,,2012.0
+Reynolds House,10171,0.0,CapitaLand Data Centre,8510,Operational,Colocation,53.466151,-2.247331,Birley Fields,M15 5RN,Hulme,Manchester,,United Kingdom,,,
+SysGroup Telford Data Center,1900,0.0,SysGroup,11660,Operational,Colocation,52.685774,-2.443321,"Grosvenor House, Central Park",TF2 9TW,Telford,Shropshire,,United Kingdom,,,
+Green Mountain LON1-East,3355,0.0,Green Mountain Data Center,2324,Operational,Colocation,51.586259,0.168328,3 King George Cl,RM1,Romford,London,,United Kingdom,40.0,,2009.0
+Safehosts Cheltenham,5802,0.0,Safehosts,4452,Operational,Colocation,51.894369,-2.059127,Saxon House,GL52 6QX,Cheltenham,Cheltenham,Gloucestershire,United Kingdom,4.0,,2009.0
+Safenames Milton Keynes,1647,0.0,Safenames Ltd,604,Operational,Colocation,52.055731,-0.759674,"Safenames House, Sunrise Pkwy",MK14 6ls,Milton Keynes,Milton Keynes,,United Kingdom,,,
+Nasstar Salford,4921,0.0,Nasstar,3648,Operational,Colocation,53.46765,-2.275776,"Waters Edge Business Park, 31 Modwen Rd",M5 3EZ,Salford,Manchester,,United Kingdom,,,
+Sandbrook Park Data Centre,2776,0.0,Zen Internet,1667,Operational,Colocation,53.602539,-2.160659,"Sandbrook Park, Sandbrook Way",OL11 1RY,Rochdale,Manchester,,United Kingdom,,,
+Sandhills Substation,12456,0.0,Liverpool City Region Data Centres,11477,Operational,Colocation,53.43043,-2.990745,Sandhills Lane,L5 9XJ,Liverpool,Liverpool,Merseyside,United Kingdom,2.0,,
+ServerChoice Welwyn Data Centre,3883,0.0,ServerChoice,801,Operational,Colocation,51.803169,-0.208661,"BioPark Interactive, BioPark, Broadwater Road",AL7 3AX,Welwyn Garden City,Welwyn Garden City,,United Kingdom,,,2011.0
+Pulsant Birmingham,13657,0.0,Pulsant Ltd,2637,Operational,Colocation,52.451461,-1.853182,"Cole Valley, 20 Westwood Ave, Tyseley",B11 3RZ,Birmingham,Birmingham UK,,United Kingdom,2.0,,
+Sequence (Iver) UK Ltd,14352,0.0,Valore Group,13052,Planned,Colocation,51.536861,-0.497802,Slough Rd,SL0 0ED,Iver,London,,United Kingdom,48.0,,
+Wavenet ServerBank Manchester,3030,0.0,Wavenet Limited,1941,Operational,Colocation,53.479267,-2.238162,"Bank House, Faulkner Street",M1 4EH,Manchester,Manchester,,United Kingdom,,,1998.0
+ServerChoice Harlow Data Centre,13357,7470.0,ServerChoice,801,Operational,Colocation,51.776423,0.097538,London Road,CM17 9NA ,Harlow,London,,United Kingdom,8.0,1.2,
+Serverfarm London Data Center LON1,9771,0.0,Serverfarm,11619,Operational,Colocation,51.447066,-0.453462,"Unit 4, Westgate Estate, Staines Road",TW14 8RS,Feltham,London,,United Kingdom,11.4,1.25,
+Sheffield Data Centre,2351,0.0,High Availability Hosting Ltd,1177,Operational,Colocation,53.333264,-1.339613,"Holbrook Commerce Park, Unit 9, Holbrook Cl",S20 3FJ,Sheffield,Sheffield,,United Kingdom,,,
+Shield House,6777,0.0,Indectron,5885,Operational,Colocation,51.863717,-2.196983,"Shield House, 2 Crest Way",GL4 3DH,Gloucester,Gloucester,Gloucestershire,United Kingdom,1.5,1.2,
+Silicon Sands,11756,0.0,Blackpool Council,11927,Planned,Colocation,53.777947,-3.039115,Squires Gate Ln,FY4 2QY,Blackpool,Blackpool,,United Kingdom,32.0,,
+Six Degrees Birmingham Central,11407,0.0,Six Degrees Group,4945,Operational,Colocation,52.478186,-1.878419,10 Westley St,B9 4ER,Birmingham,Birmingham UK,,United Kingdom,4.3,1.3,2015.0
+Equinix LD6,735,0.0,Equinix,422,Operational,Colocation,51.524516,-0.635279,"352 Buckingham Avenue, Slough Trading Estate",SL1 4PF,Slough,Slough,,United Kingdom,,,
+Nasstar Smartbunker,2310,0.0,Nasstar,3648,Operational,Colocation,53.214817,0.156777,"CGI Smartbunker, Crown Buildings",LN13 0AF,Alford,Lincolnshire,Lincolnshire,United Kingdom,,,
+SMS Teleport Data Center,11976,0.0,Satellite Mediaport Services Ltd.,12047,Operational,Colocation,52.357776,-1.331539,"Lawford Heath Ln, Long Lawford",CV23 9EU,Rugby,Coventry,,United Kingdom,,,
+Safenames Wellingborough,6440,0.0,Safenames Ltd,604,Operational,Colocation,52.312157,-0.735158,"30-50 Sincliar Drive, Park Farm Industrial Estate",NN8 6UY,Wellingborough,Northamptonshire,,United Kingdom,2.25,,
+Sota 810 Datacentre,661,0.0,Sota Solutions Limited,216,Operational,Colocation,51.310975,0.728608,"Kent Science Park, 810 Williams Cl",ME9 8FL,Sittingbourne,Kent,,United Kingdom,,,
+Sota F25 Datacentre,13669,0.0,Sota Solutions Limited,216,Operational,Colocation,51.313976,0.725902,"Kent Science Park, 300, Cornforth Dr",ME9 8PX,Sittingbourne,Kent,,United Kingdom,,,2004.0
+Pulsant Rotherham NH-1,3140,0.0,Pulsant Ltd,2637,Operational,Colocation,53.502483,-1.31535,"Unit 1, Pioneer Close",S63 7JZ,Rotherham,Sheffield,,United Kingdom,1.0,,
+Stellium Data Center 1,8182,0.0,Stellium Datacenters,9771,Operational,Colocation,55.017004,-1.503781,10 Cobalt Park Way,Wallsend,Newcastle upon Tyne,Newcastle,England,United Kingdom,10.0,,2016.0
+Stratus Belvedere,14196,0.0,Stratus Technologies Ltd,5473,Planned,Colocation,51.503527,0.153795,"Riverside Energy Park, Norman Rd",DA17 6JY,Belvedere,London,,United Kingdom,32.0,,
+Stratus Technologies Ltd,6565,0.0,Stratus Technologies Ltd,5473,Operational,Colocation,54.592133,-1.031945,Unit Rr122,TS11 6HB,Marske-by-the-Sea,Middlesbrough,,United Kingdom,,,2000.0
+SUB1 North London Data Centre,13847,0.0,SUB1 Data Centres,12885,Operational,Colocation,51.759147,-0.000264,5 Bingley Rd,EN11 0BU,Hoddesdon ,London,,United Kingdom,14.3,1.075,2024.0
+SWComms DC Exeter,13668,0.0,Focus Group,12837,Operational,Colocation,50.725102,-3.467633,"Communications House, Moor Ln",EX2 7JF,Exeter,Exeter,,United Kingdom,,,
+Tata Communications Cressex,4096,0.0,Tata Communications,2366,Operational,Colocation,51.619896,-0.779066,"Cressex Business Park, 1 Coronation Rd",HP12 3TA,London,London,,United Kingdom,,,
+Tata Communications Highbridge,4093,0.0,Tata Communications,2366,Operational,Colocation,51.227512,-2.963147,"Lawrence Close, Isleport Business Park, Highbridge",TA9 4JP,Highbridge,Somerset,,United Kingdom,,,
+Tata Communications Stratford,4095,0.0,Tata Communications,2366,Operational,Colocation,51.542328,0.002433,78-102 The Broadway,E15 1NG,London,London,,United Kingdom,,,
+Teesworks AI Data Centre,15084,0.0,Teesworks,13301,Planned,Colocation,54.619328,-1.131632,Lackenby Works,TS6 7RP,Redcar,Middlesbrough,,United Kingdom,,,
+Equinix LD8 (Docklands),1353,0.0,Equinix,422,Operational,Colocation,51.498244,-0.014084,6-9 Harbour Exchange,E14 9GE,London,London,,United Kingdom,,,
+Equinix LD9,1672,0.0,Equinix,422,Operational,Colocation,51.530586,-0.257438,Volt Avenue,NW10 6PW,London,London,,United Kingdom,,,
+Equinix MA1,1338,0.0,Equinix,422,Operational,Colocation,53.461042,-2.235576,"Lloyd Street North, Kilburn House/Williams House",M15 6SE,Manchester,Manchester,,United Kingdom,,,
+Datum Manchester MCR1,540,0.0,Datum Datacentres Ltd,3116,Operational,Colocation,53.379163,-2.258603,"Delta House, Wavell Rd",M22 5QZ,Manchester,Manchester,,United Kingdom,2.0,,2007.0
+TelefonicaTech Huntingdon Data Centre,13674,0.0,Telefónica S.A.,410,Operational,Colocation,52.345808,-0.189197,21 Blackstone Rd,PE29 6EF,Huntingdon,Cambridge,,United Kingdom,,,
+TELEHOUSE London Docklands (West),5764,0.0,TELEHOUSE Europe,478,Operational,Colocation,51.511549,-0.002916,14 Coriander Avenue,E14 2AA,London,London,London,United Kingdom,,,
+TELEHOUSE London Docklands (South),9723,0.0,TELEHOUSE Europe,478,Operational,Colocation,51.507041,-0.00339,1 Blackwall Way,E14 2EH,London,London,,United Kingdom,7.7,,
+TELEHOUSE London Docklands (East),1556,0.0,TELEHOUSE Europe,478,Operational,Colocation,51.511551,-0.002901,14 Coriander Avenue,E14 2AA,London,London,,United Kingdom,,,
+TELEHOUSE London (Metro),1555,0.0,TELEHOUSE Europe,478,Operational,Colocation,51.522084,-0.083235,65 Clifton Street,EC2A 4JE,London,London,,United Kingdom,,,
+TELEHOUSE London Docklands (North),1557,0.0,TELEHOUSE Europe,478,Operational,Colocation,51.511551,-0.002901,14 Coriander Avenue,E14 2AA,London,London,,United Kingdom,,,
+TELEHOUSE North Two,6178,0.0,TELEHOUSE Europe,478,Operational,Colocation,51.511549,-0.002916,14 Coriander Avenue,E14 2AA,London,London,,United Kingdom,,1.16,2016.0
+TeliaSonera HEX/A,4227,4228.0,Telia Company,474,Operational,Colocation,51.49897,-0.014314,1 Harbour Exchange Square,E149GE,London,London,,United Kingdom,,,
+Pulsant Reading SE-4,744,0.0,Pulsant Ltd,2637,Operational,Colocation,51.457526,-0.939307,Suttons Business Park,RG6 1AZ,Reading,Berkshire,,United Kingdom,2.0,,2007.0
+The Bunker - Ash Data Centre,435,0.0,Cyberfort Group Ltd,12049,Operational,Colocation,51.271221,1.29637,"Ash Radar Station, Marshborough Road",CT13 0PL,"Sandwich, Kent",Kent,,United Kingdom,,,
+The Bunker - Newbury Data Centre,434,0.0,Cyberfort Group Ltd,12049,Operational,Colocation,51.376998,-1.290199,"Venture West, New Greenham Park",RG19 6HN,Newbury,Berkshire,,United Kingdom,,,
+The Chess Building,7822,0.0,CapitaLand Data Centre,8510,Operational,Colocation,51.643272,-0.42811,"The Chess Building, 9-17 Caxton Way",WD18 8UA,Watford,London,,United Kingdom,31.0,,2008.0
+THG Ingenuity DC5,8454,0.0,THG Hosting,10125,Operational,Colocation,51.516691,0.023359,41 Butchers Road,E16 1PW,Canning Town,London,,United Kingdom,4.0,1.2,
+Digital Space Newark,3991,0.0,Digital Space,11612,Operational,Colocation,53.083293,-0.790884,"Brunel Business Park, Jessop Close",NG24 2AG,Newark,Nottingham,Notts,United Kingdom,,,2012.0
+iomart Manchester (Turing),2224,0.0,iomart hosting,334,Operational,Colocation,53.464371,-2.245922,5 Archway,M15 5RL,Manchester,Manchester,,United Kingdom,,1.5,2009.0
+DDCL Tutis Point,3071,3073.0,Docklands Data Centre Ltd,1989,Operational,Colocation,51.494898,-0.018686,5 Greenwich View Place,E14 9NN,London,London,,United Kingdom,,,2011.0
+Six Degrees Studley North,1841,0.0,Six Degrees Group,4945,Operational,Colocation,52.278994,-1.895359,Birmingham Road,B80 7BG,Studley,Birmingham uk,Warwickshire,United Kingdom,,,
+Six Degrees Studley South,1842,0.0,Six Degrees Group,4945,Operational,Colocation,52.27855,-1.89575,Birmingham Road,B80 7BG,Studley,Birmingham uk,Warwickshire,United Kingdom,2.0,1.4,2008.0
+Redhill Data Centre Campus - Building 3,3258,12932.0,Galaxy Data Centers,12696,Operational,Colocation,51.24792,-0.15732,"Business Park St, 3 Foxboro Rd, St Annes Blvd",RH1 1AX,Redhill,London,,United Kingdom,14.0,,
+Vantage Bridgend,10816,0.0,Vantage Data Centers,10326,Planned,Colocation,51.492053,-3.551877,Cowbridge Rd,CF31 3BF,Bridgend,Cardiff,,United Kingdom,,,
+Vantage CWL21 - Cardiff,15207,0.0,Vantage Data Centers,10326,Planned,Colocation,51.41435,-3.4413,Eglwys Brewis Rd,CF62 4QP,Boverton,Cardiff,,United Kingdom,120.0,,
+Vantage LHR1 - London I,11535,0.0,Vantage Data Centers,10326,Under Construction,Colocation,51.527658,-0.255488,"Chandos Park, Chandos Rd",NW10 6NF,London,London,,United Kingdom,,,
+Vantage LHR2 - London II,11536,0.0,Vantage Data Centers,10326,Under Construction,Colocation,51.533048,-0.259881,37-39 N Acton Rd,NW10 6PF,London,London,,United Kingdom,,,
+VIRTUS LONDON2,3640,0.0,VIRTUS Data Centres,1478,Operational,Colocation,51.617313,-0.1085,"Weston International Park, Hayes Rd",UB2 5YG,Hayes,London,,United Kingdom,12.2,1.3,2014.0
+Velox2 - Midlands,8362,0.0,VeloxServ Communications Ltd,3502,Operational,Colocation,52.601418,-2.111407,"Merryhills Enterprise Park, Park Ln",WV10 9TJ,Wolverhampton,Birmingham UK,,United Kingdom,,,
+Velox3 - Redditch,8850,0.0,VeloxServ Communications Ltd,3502,Operational,Colocation,52.310721,-1.93693,"Prospect House, Fishing Line Rd",B97 6EW,Redditch,Birmingham UK,,United Kingdom,,,
+Verizon UK5,1545,0.0,Verizon Communications Inc.,475,Operational,Colocation,51.537603,-0.132175,2-6 St Pancras Way,NW1 0QG,London,London,,United Kingdom,,,
+Vinters Connect,8880,0.0,Vinters Connect,11197,Operational,Colocation,51.279898,0.549469,Vinters Business Park,ME14 5NZ,Maidstone,Kent,Kent,United Kingdom,,,
+Virgin Media Leeds Data Centre,13660,0.0,Virgin Media,1461,Operational,Colocation,53.826449,-1.460208,"Temple House, Ramshead Approach",LS14 1NH,Leeds,Leeds,,United Kingdom,,,2009.0
+Virgin Media O2 Slough Data Centre,13661,0.0,Virgin Media,1461,Operational,Colocation,51.524864,-0.637873,354 Buckingham Ave,SL1 4HR,Slough,Slough,,United Kingdom,,,
+VIRTUS LONDON1,2650,0.0,VIRTUS Data Centres,1478,Operational,Colocation,51.651895,-0.055372,"Unit 3, 13 Crown Rd",EN1 1TX,Enfield,London,,United Kingdom,4.2,1.5,
+VIRTUS LONDON10,9728,0.0,VIRTUS Data Centres,1478,Operational,Colocation,51.520512,-0.621487,110 Buckingham Ave,SL1 4PF,Slough,Slough,,United Kingdom,6.6,1.3,
+VIRTUS LONDON11,9727,0.0,VIRTUS Data Centres,1478,Operational,Colocation,51.519391,-0.626803,580 Ipswich Rd,SL1 4HA,Slough,Slough,,United Kingdom,13.0,1.3,
+VIRTUS LONDON15,14190,14189.0,VIRTUS Data Centres,1478,Planned,Colocation,51.679745,-0.834351,Haw Ln,HP14 4JD,High Wycombe,London,,United Kingdom,9.5,,
+VIRTUS LONDON16,14191,14189.0,VIRTUS Data Centres,1478,Planned,Colocation,51.678596,-0.833311,Haw Ln,HP14 4JD,High Wycombe,London,,United Kingdom,22.0,,
+VIRTUS LONDON17,14192,14189.0,VIRTUS Data Centres,1478,Planned,Colocation,51.680382,-0.832588,Haw Ln,HP14 4JD,High Wycombe,London,,United Kingdom,16.0,,
+VIRTUS LONDON18,14193,14189.0,VIRTUS Data Centres,1478,Planned,Colocation,51.679403,-0.831667,Haw Ln,HP14 4JD,High Wycombe,London,,United Kingdom,30.0,,
+VIRTUS LONDON3,9724,0.0,VIRTUS Data Centres,1478,Operational,Colocation,51.523208,-0.622604,14 Liverpool Rd,SL1 4PF,Slough,Slough,,United Kingdom,7.2,1.3,
+VIRTUS LONDON4,9725,0.0,VIRTUS Data Centres,1478,Operational,Colocation,51.523208,-0.622604,14 Liverpool Rd,SL1 4PF,Slough,Slough,,United Kingdom,27.0,1.3,
+VIRTUS LONDON5,9729,0.0,VIRTUS Data Centres,1478,Operational,Colocation,51.509349,-0.454993,200 Horton Rd,UB11 1HB,West Drayton,London,,United Kingdom,24.0,1.3,
+VIRTUS LONDON6,9730,0.0,VIRTUS Data Centres,1478,Operational,Colocation,51.510525,-0.453857,200 Horton Rd,UB11 1HB,West Drayton,London,,United Kingdom,16.0,1.3,
+VIRTUS LONDON7,9731,0.0,VIRTUS Data Centres,1478,Operational,Colocation,51.510824,-0.456644,200 Horton Rd,UB11 1HB,West Drayton,London,,United Kingdom,28.0,1.3,
+VIRTUS LONDON8,9732,0.0,VIRTUS Data Centres,1478,Operational,Colocation,51.509754,-0.457268,200 Horton Rd,UB11 1HB,West Drayton,London,,United Kingdom,16.0,1.3,
+VIRTUS LONDON9,9726,0.0,VIRTUS Data Centres,1478,Operational,Colocation,51.519046,-0.61904,470 Malton Ave,SL1 4QT,Slough,Slough,,United Kingdom,24.0,1.3,
+VIRTUS Saunderton Campus,14189,0.0,VIRTUS Data Centres,1478,Operational,Campus,51.67939,-0.833019,Haw Ln,HP14 4JD,High Wycombe,London,,United Kingdom,75.0,,
+Visa London,15078,0.0,Visa Inc.,13299,Operational,Enterprise,51.519042,-0.180585,1 Sheldon Square,W2 6TT,London,London,,United Kingdom,,,2018.0
+Vision247 Data Centre,8742,0.0,Vision247,10907,Operational,Colocation,51.493191,-0.274378,"566 Chiswick High Road, Building 10",W4 5XS,London,London,,United Kingdom,,,
+Verne Global - London,4006,0.0,Verne Global,4428,Operational,Colocation,51.523087,-0.101736,36-43 Great sutton street,EC1V0AB,London,London,,United Kingdom,9.6,,
+nLighten London STN1,3864,0.0,nLighten,11668,Operational,Colocation,51.760427,-0.003073,Geddings road,EN11 0NT,Hoddesdon,London,,United Kingdom,3.2,1.29,
+EXA Hertford DC,2359,0.0,EXA Infrastructure,10527,Operational,Colocation,51.795208,-0.060829,"John Tate Road, Foxholes Business Park",SG13 7DT,Hertford,Hertford,Hertfordshire,United Kingdom,,,
+Walled Garden,2488,0.0,Green Colo Ltd,1335,Operational,Colocation,50.846733,-1.167126,Walled Garden,PO16 8AB,Fareham,Fareham,Hampshire,United Kingdom,8.0,1.2,1999.0
+1 Airport Gate (LHR17),7905,0.0,Digital Realty,419,Operational,Colocation,51.482395,-0.460672,"1 Airport Gate, Bath Rd",UB7 0NA,Middlesex,London,,United Kingdom,2.9,,
+Web Wiz,7409,0.0,Web Wiz,7987,Operational,Colocation,50.744623,-1.950846,The Glenmore Centre,BH12 4FB,Bournemouth,Poole,Dorset,United Kingdom,,,2018.0
+Welwyn Garden City,10176,0.0,CapitaLand Data Centre,8510,Operational,Colocation,51.807688,-0.188118,Route de Bièvres & Route Nationale 306,AL71GE,Welwyn Garden City,London,,United Kingdom,,,
+West London Technology Park,14985,0.0,Greystoke,13087,Operational,Campus,51.534739,-0.494701,London Orbital Motorway (M25),SL0 9LG,Iver,London,,United Kingdom,90.0,,
+West London Technology Park - Building 1,14986,14985.0,Greystoke,13087,Planned,Colocation,51.534621,-0.494194,London Orbital Motorway (M25),SL0 9LG,Iver,London,,United Kingdom,45.0,,
+West London Technology Park - Building 2,14987,14985.0,Greystoke,13087,Planned,Colocation,51.533152,-0.494633,London Orbital Motorway (M25),SL0 9LG,Iver,London,,United Kingdom,45.0,,
+West Barn,3346,0.0,Green Colo Ltd,1335,Operational,Colocation,50.846747,-1.166554,"West Barn, Cams Estate",PO16 8UT,Fareham,Portsmouth,Hampshire,United Kingdom,,,2001.0
+Workspace Technology,4639,0.0,Workspace Technology,3440,Operational,Colocation,52.56144,-1.81043,"Unit 10, Reddicap Trading Estate",B75 7BU,Sutton Coldfield,Birmingham UK,West Midlands,United Kingdom,,1.3,
+WRN Broadcast Data Centre,3063,0.0,WRN Broadcast,1977,Operational,Colocation,51.481669,-0.125997,"Wyvil Court, 10 Wyvil Rd",SW8 2TG,London,London,London,United Kingdom,,,
+Yondr London - Building 1,12052,14302.0,Yondr Group,12082,Operational,Colocation,51.512496,-0.579722,1 Petersfield Ave,SL2 5EA,Slough,London,,United Kingdom,30.0,,2022.0
+Yondr London - Building 2 ,14300,14302.0,Yondr Group,12082,Operational,Colocation,51.512889,-0.578293,1 Petersfield Ave,SL2 5EA,Slough,London,,United Kingdom,30.0,,
+Yondr London - Building 3,14301,14302.0,Yondr Group,12082,Under Construction,Colocation,51.51295,-0.575891,1 Petersfield Ave,SL2 5EA,Slough,London,,United Kingdom,40.0,,
+Yondr Slough Campus,14302,0.0,Yondr Group,12082,Operational,Campus,51.512115,-0.578624,1 Petersfield Ave,SL2 5EA,Slough,London,,United Kingdom,100.0,,
